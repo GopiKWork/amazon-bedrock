@@ -1,0 +1,40 @@
+// Amine Flow
+digraph {
+	"Makeup Water" [shape=box]
+	"Sweet gas" [shape=box]
+	"Top Tray" [shape=box]
+	"Bottom Tray" [shape=box]
+	Absorber [shape=box]
+	"Rich amine" [shape=box]
+	"Lean amine" [shape=box]
+	Condenser [shape=box]
+	"Reflux drum" [shape=box]
+	"Reflux Tray" [shape=box]
+	"Bottom Tray" [shape=box]
+	Regenerator [shape=box]
+	Vapor [shape=box]
+	Liquid [shape=box]
+	"Lean amine" [shape=box]
+	Reboiler [shape=box]
+	Condensate [shape=box]
+	"Acid gas" [shape=box]
+	"Sour Gas" [shape=box]
+	Steam [shape=box]
+	"Makeup Water" -> "Top Tray"
+	"Sweet gas" -> "Top Tray"
+	"Top Tray" -> "Bottom Tray"
+	"Bottom Tray" -> "Rich amine"
+	"Rich amine" -> "Lean amine"
+	"Lean amine" -> Condenser
+	Condenser -> "Reflux drum"
+	"Reflux drum" -> "Reflux Tray"
+	"Reflux Tray" -> "Bottom Tray"
+	"Bottom Tray" -> Vapor
+	"Bottom Tray" -> Liquid
+	Liquid -> "Lean amine"
+	Vapor -> Reboiler
+	Reboiler -> Condensate
+	Reboiler -> Steam
+	"Reflux drum" -> "Acid gas"
+	"Sour Gas" -> Absorber
+}
