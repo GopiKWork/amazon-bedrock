@@ -1,0 +1,14 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate <name>
+name: aws-notebooklm-app
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - streamlit
+    - regex
+    - requests
+    - boto3
+    - pypdf
+    - pydub

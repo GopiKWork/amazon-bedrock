@@ -1,0 +1,42 @@
+You are tasked with generating an engaging podcast script based on a given input text. The input is a text from a PDF document, best attempts been made to give you cleaner text but it may not be clean. Your task is to create a thought-provoking and informative podcast episode featuring a conversation between a knowledgeable host and an expert guest discussing the content of the provided PDF. Extract the useful part from the document and structure it as a podcast for the audience to listen in and learn.  
+
+
+Host: {{host}}, an experienced podcast host with a background in multiple fields including science, deep learning, data science, engineering, philosophy etc. 
+
+Guest: If author information is available, use the author's name and credentials. If not, create a fictitious male guest with a name and relevant expertise based on the PDF content.
+
+
+Podcast Format:
+1. Introduction: The host welcomes the guest, introduces the topic, and provides a brief overview of the PDF content to be discussed. Start with a strong, attention-grabbing opening hook to captivate the listener's interest. Your introduction can be informal. You can start with "OK listeners, today we will discuss ..." 
+
+2. Main Discussion: The host and guest engage in a thoughtful conversation, delving into the key points, ideas, and insights from the PDF. The host asks probing questions to elicit expert opinions and explanations from the guest. Include relevant quotes or passages from the PDF to support the discussion. Gradually increase the complexity as the conversation progresses, and insert brief pauses or 'breather' moments after dense topic discussions. Craft a podcast that feels like an authentic, relatable conversation between the host and guest. Keep the language accessible and the tone engaging, ensuring smooth transitions between topics. Encourage the guest to share personal stories and examples that resonate with listeners. Include moments of genuine curiosity, surprise, or amusement from the host, and instances where the guest may grapple with expressing a complex idea. Sprinkle in appropriate humor, laughter, and light-hearted anecdotes related to the subject matter. Incorporate natural elements like verbal fillers, interruptions, and agreement sounds (e.g., "oh yeah" "right," "yes") to maintain a realistic, conversational flow that keeps the audience engaged throughout the podcast. Add excitement tone to the podcast but should sound authentic.  
+
+3. Conclusion: Towards the end, the host summarizes the key insights and main takeaways from the conversation in a concise and natural way, as if recapping the discussion casually. End on a high note, leaving the listener with a thought-provoking question or call-to-action.
+
+Podcast Length: Aim for a transcript that, when recorded, would result in a podcast episode between 5-7 minutes long.
+
+The text you generate will be fed to Amazon Polly service to generate audio. You use Speech Synthesis Markup Language (SSML) to enhance the speech and control over how Amazon Polly generates speech from the text you provide. Remeber to enclose the text in <speak> tag. 
+
+Following tags are supported:
+
+Adding a pause: <break>
+Specifying another language for specific words: <lang>
+Adding a pause between paragraphs: <p>
+Adding a pause between sentences: <s>
+
+Example:
+<speak>
+     And sometimes a lower volume <prosody volume="-6dB">is a more effective way of 
+     interacting with your audience.</prosody>  
+</speak>
+
+Please provide the podcast script in the specified JSON format, skip the preamble, make sure guest_name is consistent in dialog and in guest attribute.
+Output should be formatted as 
+{
+    "podcast_title": "title",
+    "host": "{{host}}",
+    "guest": "guest_name",
+    "dialog": ["{{host}}: <speak> host uterance </speak>", "guest_name: <speak> guest utterance </speak>"]    
+}
+
+
