@@ -1,0 +1,1760 @@
+{
+  "BP-F-001": {
+    "name": "Brake Pads (Front)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Nissan Altima",
+      "Honda Civic",
+      "Ford Fusion",
+      "Toyota Camry"
+    ],
+    "dealers": {
+      "DEALER-032": {
+        "quantity": 2,
+        "price": 111.39,
+        "delivery_days": 1
+      },
+      "DEALER-049": {
+        "quantity": 1,
+        "price": 93.89,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 10,
+        "price": 92.81,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 3,
+        "price": 132.82,
+        "delivery_days": 1
+      },
+      "DEALER-042": {
+        "quantity": 2,
+        "price": 117.02,
+        "delivery_days": 3
+      }
+    }
+  },
+  "BP-R-002": {
+    "name": "Brake Pads (Rear)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Nissan Altima",
+      "Honda Civic",
+      "Ford Fusion",
+      "Toyota Camry"
+    ],
+    "dealers": {
+      "DEALER-007": {
+        "quantity": 3,
+        "price": 65.6,
+        "delivery_days": 1
+      },
+      "DEALER-038": {
+        "quantity": 4,
+        "price": 44.2,
+        "delivery_days": 1
+      },
+      "DEALER-008": {
+        "quantity": 3,
+        "price": 62.65,
+        "delivery_days": 1
+      },
+      "DEALER-024": {
+        "quantity": 2,
+        "price": 79.94,
+        "delivery_days": 3
+      }
+    }
+  },
+  "BR-F-003": {
+    "name": "Brake Rotors (Front)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Honda Civic",
+      "Honda Accord",
+      "Nissan Altima"
+    ],
+    "dealers": {
+      "DEALER-038": {
+        "quantity": 2,
+        "price": 225.64,
+        "delivery_days": 2
+      },
+      "DEALER-039": {
+        "quantity": 3,
+        "price": 114.03,
+        "delivery_days": 1
+      },
+      "DEALER-040": {
+        "quantity": 3,
+        "price": 90.6,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 1,
+        "price": 142.31,
+        "delivery_days": 3
+      },
+      "DEALER-004": {
+        "quantity": 5,
+        "price": 118.21,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BR-R-004": {
+    "name": "Brake Rotors (Rear)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Ford Fusion",
+      "Honda Accord",
+      "Honda Civic",
+      "Nissan Altima",
+      "Toyota Camry"
+    ],
+    "dealers": {
+      "DEALER-045": {
+        "quantity": 1,
+        "price": 116.56,
+        "delivery_days": 3
+      },
+      "DEALER-003": {
+        "quantity": 5,
+        "price": 178.7,
+        "delivery_days": 1
+      },
+      "DEALER-036": {
+        "quantity": 4,
+        "price": 108.13,
+        "delivery_days": 1
+      },
+      "DEALER-001": {
+        "quantity": 4,
+        "price": 222.27,
+        "delivery_days": 1
+      },
+      "DEALER-012": {
+        "quantity": 4,
+        "price": 75.9,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 3,
+        "price": 149.25,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BC-F-005": {
+    "name": "Brake Calipers (Front)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Toyota Camry",
+      "Ford Fusion",
+      "Honda Civic",
+      "Honda Accord"
+    ],
+    "dealers": {
+      "DEALER-002": {
+        "quantity": 3,
+        "price": 181.96,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 3,
+        "price": 245.06,
+        "delivery_days": 1
+      },
+      "DEALER-014": {
+        "quantity": 0,
+        "price": 310.78,
+        "delivery_days": 5
+      },
+      "DEALER-028": {
+        "quantity": 7,
+        "price": 394.78,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BC-R-006": {
+    "name": "Brake Calipers (Rear)",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Toyota Camry",
+      "Nissan Altima",
+      "Honda Accord",
+      "Honda Civic",
+      "Ford Fusion"
+    ],
+    "dealers": {
+      "DEALER-040": {
+        "quantity": 2,
+        "price": 359.97,
+        "delivery_days": 3
+      },
+      "DEALER-010": {
+        "quantity": 5,
+        "price": 408.79,
+        "delivery_days": 1
+      },
+      "DEALER-045": {
+        "quantity": 5,
+        "price": 273.65,
+        "delivery_days": 1
+      },
+      "DEALER-033": {
+        "quantity": 6,
+        "price": 266.86,
+        "delivery_days": 1
+      },
+      "DEALER-024": {
+        "quantity": 2,
+        "price": 284.73,
+        "delivery_days": 2
+      },
+      "DEALER-003": {
+        "quantity": 4,
+        "price": 160.76,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BMC-007": {
+    "name": "Brake Master Cylinder",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Honda Accord",
+      "Honda Civic",
+      "Nissan Altima",
+      "Toyota Camry"
+    ],
+    "dealers": {
+      "DEALER-027": {
+        "quantity": 5,
+        "price": 257.63,
+        "delivery_days": 1
+      },
+      "DEALER-020": {
+        "quantity": 5,
+        "price": 177.46,
+        "delivery_days": 1
+      },
+      "DEALER-008": {
+        "quantity": 4,
+        "price": 303.6,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BF-008": {
+    "name": "Brake Fluid",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Toyota Camry",
+      "Nissan Altima",
+      "Ford Fusion",
+      "Honda Civic"
+    ],
+    "dealers": {
+      "DEALER-044": {
+        "quantity": 5,
+        "price": 24.67,
+        "delivery_days": 1
+      },
+      "DEALER-031": {
+        "quantity": 8,
+        "price": 17.47,
+        "delivery_days": 1
+      },
+      "DEALER-030": {
+        "quantity": 2,
+        "price": 23.62,
+        "delivery_days": 2
+      },
+      "DEALER-004": {
+        "quantity": 3,
+        "price": 27.12,
+        "delivery_days": 1
+      },
+      "DEALER-022": {
+        "quantity": 1,
+        "price": 30.18,
+        "delivery_days": 3
+      },
+      "DEALER-028": {
+        "quantity": 3,
+        "price": 21.87,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BL-009": {
+    "name": "Brake Lines",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Honda Civic",
+      "Toyota Camry",
+      "Nissan Altima"
+    ],
+    "dealers": {
+      "DEALER-036": {
+        "quantity": 2,
+        "price": 36.66,
+        "delivery_days": 1
+      },
+      "DEALER-033": {
+        "quantity": 3,
+        "price": 34.49,
+        "delivery_days": 1
+      },
+      "DEALER-032": {
+        "quantity": 9,
+        "price": 44.4,
+        "delivery_days": 1
+      },
+      "DEALER-006": {
+        "quantity": 5,
+        "price": 64.98,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 6,
+        "price": 34.7,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BB-010": {
+    "name": "Brake Booster",
+    "category": "brake",
+    "compatible_vehicles": [
+      "Honda Accord",
+      "Honda Civic",
+      "Nissan Altima"
+    ],
+    "dealers": {
+      "DEALER-033": {
+        "quantity": 5,
+        "price": 634.59,
+        "delivery_days": 1
+      },
+      "DEALER-035": {
+        "quantity": 3,
+        "price": 428.46,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 5,
+        "price": 448.26,
+        "delivery_days": 1
+      },
+      "DEALER-047": {
+        "quantity": 2,
+        "price": 490.06,
+        "delivery_days": 2
+      }
+    }
+  },
+  "OF-011": {
+    "name": "Oil Filter",
+    "category": "engine",
+    "compatible_vehicles": [
+      "Audi Q3",
+      "BMW 3 Series",
+      "Lexus RX",
+      "BMW X3",
+      "Mercedes C-Class"
+    ],
+    "dealers": {
+      "DEALER-032": {
+        "quantity": 5,
+        "price": 44.93,
+        "delivery_days": 1
+      },
+      "DEALER-049": {
+        "quantity": 3,
+        "price": 14.66,
+        "delivery_days": 1
+      },
+      "DEALER-039": {
+        "quantity": 5,
+        "price": 31.17,
+        "delivery_days": 1
+      },
+      "DEALER-036": {
+        "quantity": 6,
+        "price": 33.13,
+        "delivery_days": 1
+      }
+    }
+  },
+  "AF-012": {
+    "name": "Air Filter",
+    "category": "engine",
+    "compatible_vehicles": [
+      "Mercedes C-Class",
+      "Lexus RX",
+      "BMW X3",
+      "Audi Q3"
+    ],
+    "dealers": {
+      "DEALER-031": {
+        "quantity": 1,
+        "price": 15.3,
+        "delivery_days": 3
+      },
+      "DEALER-030": {
+        "quantity": 4,
+        "price": 21.72,
+        "delivery_days": 1
+      },
+      "DEALER-048": {
+        "quantity": 2,
+        "price": 33.53,
+        "delivery_days": 1
+      },
+      "DEALER-022": {
+        "quantity": 4,
+        "price": 20.7,
+        "delivery_days": 1
+      },
+      "DEALER-036": {
+        "quantity": 5,
+        "price": 27.77,
+        "delivery_days": 1
+      }
+    }
+  },
+  "FF-013": {
+    "name": "Fuel Filter",
+    "category": "engine",
+    "compatible_vehicles": [
+      "Audi Q3",
+      "Mercedes C-Class",
+      "BMW X3"
+    ],
+    "dealers": {
+      "DEALER-017": {
+        "quantity": 1,
+        "price": 15.28,
+        "delivery_days": 2
+      },
+      "DEALER-030": {
+        "quantity": 6,
+        "price": 29.77,
+        "delivery_days": 1
+      },
+      "DEALER-031": {
+        "quantity": 3,
+        "price": 41.55,
+        "delivery_days": 1
+      },
+      "DEALER-037": {
+        "quantity": 4,
+        "price": 26.71,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 1,
+        "price": 25.71,
+        "delivery_days": 3
+      },
+      "DEALER-012": {
+        "quantity": 4,
+        "price": 32.76,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SP-014": {
+    "name": "Spark Plugs",
+    "category": "engine",
+    "compatible_vehicles": [
+      "BMW 3 Series",
+      "Audi Q3",
+      "Lexus RX"
+    ],
+    "dealers": {
+      "DEALER-031": {
+        "quantity": 3,
+        "price": 20.26,
+        "delivery_days": 1
+      },
+      "DEALER-007": {
+        "quantity": 4,
+        "price": 17.73,
+        "delivery_days": 1
+      },
+      "DEALER-044": {
+        "quantity": 3,
+        "price": 19.02,
+        "delivery_days": 1
+      }
+    }
+  },
+  "IC-015": {
+    "name": "Ignition Coils",
+    "category": "engine",
+    "compatible_vehicles": [
+      "BMW X3",
+      "BMW 3 Series",
+      "Audi Q3",
+      "Mercedes C-Class"
+    ],
+    "dealers": {
+      "DEALER-001": {
+        "quantity": 1,
+        "price": 112.08,
+        "delivery_days": 1
+      },
+      "DEALER-025": {
+        "quantity": 5,
+        "price": 69.99,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 4,
+        "price": 163.65,
+        "delivery_days": 1
+      },
+      "DEALER-015": {
+        "quantity": 5,
+        "price": 209.4,
+        "delivery_days": 1
+      },
+      "DEALER-012": {
+        "quantity": 3,
+        "price": 129.28,
+        "delivery_days": 1
+      },
+      "DEALER-047": {
+        "quantity": 6,
+        "price": 176.41,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TB-016": {
+    "name": "Timing Belt",
+    "category": "engine",
+    "compatible_vehicles": [
+      "Audi Q3",
+      "Mercedes C-Class",
+      "BMW 3 Series",
+      "Lexus RX",
+      "BMW X3"
+    ],
+    "dealers": {
+      "DEALER-024": {
+        "quantity": 1,
+        "price": 49.93,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 6,
+        "price": 101.37,
+        "delivery_days": 1
+      },
+      "DEALER-047": {
+        "quantity": 7,
+        "price": 32.36,
+        "delivery_days": 1
+      },
+      "DEALER-021": {
+        "quantity": 2,
+        "price": 45.55,
+        "delivery_days": 1
+      }
+    }
+  },
+  "WP-017": {
+    "name": "Water Pump",
+    "category": "engine",
+    "compatible_vehicles": [
+      "BMW X3",
+      "Audi Q3",
+      "Mercedes C-Class",
+      "Lexus RX",
+      "BMW 3 Series"
+    ],
+    "dealers": {
+      "DEALER-043": {
+        "quantity": 8,
+        "price": 199.3,
+        "delivery_days": 1
+      },
+      "DEALER-037": {
+        "quantity": 5,
+        "price": 203.04,
+        "delivery_days": 1
+      },
+      "DEALER-015": {
+        "quantity": 2,
+        "price": 225.44,
+        "delivery_days": 2
+      },
+      "DEALER-016": {
+        "quantity": 3,
+        "price": 385.16,
+        "delivery_days": 1
+      },
+      "DEALER-027": {
+        "quantity": 4,
+        "price": 170.25,
+        "delivery_days": 1
+      },
+      "DEALER-001": {
+        "quantity": 5,
+        "price": 317.25,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TH-018": {
+    "name": "Thermostat",
+    "category": "engine",
+    "compatible_vehicles": [
+      "BMW X3",
+      "Lexus RX",
+      "Audi Q3"
+    ],
+    "dealers": {
+      "DEALER-034": {
+        "quantity": 1,
+        "price": 41.91,
+        "delivery_days": 1
+      },
+      "DEALER-046": {
+        "quantity": 2,
+        "price": 59.12,
+        "delivery_days": 3
+      },
+      "DEALER-047": {
+        "quantity": 8,
+        "price": 50.39,
+        "delivery_days": 1
+      }
+    }
+  },
+  "RAD-019": {
+    "name": "Radiator",
+    "category": "engine",
+    "compatible_vehicles": [
+      "BMW X3",
+      "Lexus RX",
+      "BMW 3 Series",
+      "Audi Q3"
+    ],
+    "dealers": {
+      "DEALER-041": {
+        "quantity": 2,
+        "price": 288.89,
+        "delivery_days": 3
+      },
+      "DEALER-003": {
+        "quantity": 3,
+        "price": 266.64,
+        "delivery_days": 1
+      },
+      "DEALER-001": {
+        "quantity": 3,
+        "price": 225.31,
+        "delivery_days": 1
+      }
+    }
+  },
+  "EM-020": {
+    "name": "Engine Mount",
+    "category": "engine",
+    "compatible_vehicles": [
+      "Lexus RX",
+      "BMW X3",
+      "Audi Q3",
+      "BMW 3 Series",
+      "Mercedes C-Class"
+    ],
+    "dealers": {
+      "DEALER-028": {
+        "quantity": 3,
+        "price": 167.51,
+        "delivery_days": 1
+      },
+      "DEALER-027": {
+        "quantity": 3,
+        "price": 157.8,
+        "delivery_days": 1
+      },
+      "DEALER-044": {
+        "quantity": 6,
+        "price": 87.89,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 1,
+        "price": 63.12,
+        "delivery_days": 1
+      },
+      "DEALER-021": {
+        "quantity": 5,
+        "price": 130.15,
+        "delivery_days": 1
+      },
+      "DEALER-048": {
+        "quantity": 0,
+        "price": 94.89,
+        "delivery_days": 4
+      }
+    }
+  },
+  "TF-021": {
+    "name": "Transmission Filter",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "GMC Sierra",
+      "Ram 1500",
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "Toyota Tundra"
+    ],
+    "dealers": {
+      "DEALER-033": {
+        "quantity": 4,
+        "price": 52.12,
+        "delivery_days": 1
+      },
+      "DEALER-005": {
+        "quantity": 2,
+        "price": 34.26,
+        "delivery_days": 3
+      },
+      "DEALER-026": {
+        "quantity": 3,
+        "price": 37.54,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 3,
+        "price": 53.55,
+        "delivery_days": 1
+      },
+      "DEALER-027": {
+        "quantity": 7,
+        "price": 62.34,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 5,
+        "price": 55.04,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TFL-022": {
+    "name": "Transmission Fluid",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Toyota Tundra",
+      "Chevrolet Silverado",
+      "GMC Sierra"
+    ],
+    "dealers": {
+      "DEALER-026": {
+        "quantity": 0,
+        "price": 25.6,
+        "delivery_days": 7
+      },
+      "DEALER-035": {
+        "quantity": 10,
+        "price": 26.0,
+        "delivery_days": 1
+      },
+      "DEALER-045": {
+        "quantity": 5,
+        "price": 37.73,
+        "delivery_days": 1
+      },
+      "DEALER-031": {
+        "quantity": 0,
+        "price": 21.47,
+        "delivery_days": 5
+      },
+      "DEALER-019": {
+        "quantity": 4,
+        "price": 26.74,
+        "delivery_days": 1
+      }
+    }
+  },
+  "CK-023": {
+    "name": "Clutch Kit",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "Ram 1500",
+      "Toyota Tundra",
+      "GMC Sierra"
+    ],
+    "dealers": {
+      "DEALER-014": {
+        "quantity": 3,
+        "price": 266.94,
+        "delivery_days": 1
+      },
+      "DEALER-016": {
+        "quantity": 1,
+        "price": 863.9,
+        "delivery_days": 1
+      },
+      "DEALER-048": {
+        "quantity": 4,
+        "price": 623.71,
+        "delivery_days": 1
+      },
+      "DEALER-031": {
+        "quantity": 4,
+        "price": 419.62,
+        "delivery_days": 1
+      },
+      "DEALER-020": {
+        "quantity": 4,
+        "price": 686.27,
+        "delivery_days": 1
+      }
+    }
+  },
+  "CVJ-024": {
+    "name": "CV Joint",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Chevrolet Silverado",
+      "GMC Sierra",
+      "Ram 1500",
+      "Ford F-150"
+    ],
+    "dealers": {
+      "DEALER-020": {
+        "quantity": 0,
+        "price": 281.98,
+        "delivery_days": 6
+      },
+      "DEALER-026": {
+        "quantity": 0,
+        "price": 234.13,
+        "delivery_days": 5
+      },
+      "DEALER-034": {
+        "quantity": 4,
+        "price": 176.67,
+        "delivery_days": 1
+      },
+      "DEALER-039": {
+        "quantity": 3,
+        "price": 190.69,
+        "delivery_days": 1
+      },
+      "DEALER-022": {
+        "quantity": 4,
+        "price": 122.83,
+        "delivery_days": 1
+      },
+      "DEALER-007": {
+        "quantity": 3,
+        "price": 100.62,
+        "delivery_days": 1
+      }
+    }
+  },
+  "DB-025": {
+    "name": "Drive Belt",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "Ram 1500"
+    ],
+    "dealers": {
+      "DEALER-026": {
+        "quantity": 3,
+        "price": 63.95,
+        "delivery_days": 1
+      },
+      "DEALER-050": {
+        "quantity": 0,
+        "price": 65.31,
+        "delivery_days": 7
+      },
+      "DEALER-043": {
+        "quantity": 3,
+        "price": 50.63,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TM-026": {
+    "name": "Transmission Mount",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Ram 1500",
+      "Toyota Tundra",
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "GMC Sierra"
+    ],
+    "dealers": {
+      "DEALER-045": {
+        "quantity": 4,
+        "price": 214.45,
+        "delivery_days": 1
+      },
+      "DEALER-017": {
+        "quantity": 3,
+        "price": 83.14,
+        "delivery_days": 1
+      },
+      "DEALER-001": {
+        "quantity": 0,
+        "price": 94.45,
+        "delivery_days": 7
+      }
+    }
+  },
+  "TC-027": {
+    "name": "Torque Converter",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "GMC Sierra",
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "Ram 1500",
+      "Toyota Tundra"
+    ],
+    "dealers": {
+      "DEALER-016": {
+        "quantity": 2,
+        "price": 1009.46,
+        "delivery_days": 3
+      },
+      "DEALER-006": {
+        "quantity": 4,
+        "price": 454.86,
+        "delivery_days": 1
+      },
+      "DEALER-011": {
+        "quantity": 1,
+        "price": 739.0,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SS-028": {
+    "name": "Shift Solenoid",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Ford F-150",
+      "Ram 1500",
+      "Toyota Tundra",
+      "GMC Sierra"
+    ],
+    "dealers": {
+      "DEALER-031": {
+        "quantity": 3,
+        "price": 188.97,
+        "delivery_days": 1
+      },
+      "DEALER-006": {
+        "quantity": 5,
+        "price": 314.56,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 9,
+        "price": 238.44,
+        "delivery_days": 1
+      },
+      "DEALER-026": {
+        "quantity": 0,
+        "price": 206.84,
+        "delivery_days": 4
+      },
+      "DEALER-023": {
+        "quantity": 4,
+        "price": 243.92,
+        "delivery_days": 1
+      },
+      "DEALER-005": {
+        "quantity": 3,
+        "price": 211.43,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TCL-029": {
+    "name": "Transmission Cooler",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Ford F-150",
+      "Toyota Tundra",
+      "Ram 1500",
+      "GMC Sierra"
+    ],
+    "dealers": {
+      "DEALER-025": {
+        "quantity": 2,
+        "price": 321.24,
+        "delivery_days": 3
+      },
+      "DEALER-047": {
+        "quantity": 6,
+        "price": 358.03,
+        "delivery_days": 1
+      },
+      "DEALER-030": {
+        "quantity": 8,
+        "price": 372.32,
+        "delivery_days": 1
+      }
+    }
+  },
+  "AS-030": {
+    "name": "Axle Shaft",
+    "category": "transmission",
+    "compatible_vehicles": [
+      "Toyota Tundra",
+      "Ford F-150",
+      "Chevrolet Silverado",
+      "GMC Sierra",
+      "Ram 1500"
+    ],
+    "dealers": {
+      "DEALER-034": {
+        "quantity": 0,
+        "price": 317.52,
+        "delivery_days": 6
+      },
+      "DEALER-035": {
+        "quantity": 3,
+        "price": 467.41,
+        "delivery_days": 1
+      },
+      "DEALER-028": {
+        "quantity": 4,
+        "price": 264.34,
+        "delivery_days": 1
+      },
+      "DEALER-046": {
+        "quantity": 6,
+        "price": 250.62,
+        "delivery_days": 1
+      },
+      "DEALER-016": {
+        "quantity": 3,
+        "price": 356.64,
+        "delivery_days": 1
+      },
+      "DEALER-011": {
+        "quantity": 6,
+        "price": 303.47,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SA-F-031": {
+    "name": "Shock Absorbers (Front)",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Tesla Model Y",
+      "Hyundai Elantra",
+      "Subaru Outback",
+      "Kia Forte",
+      "Tesla Model 3"
+    ],
+    "dealers": {
+      "DEALER-022": {
+        "quantity": 4,
+        "price": 153.99,
+        "delivery_days": 1
+      },
+      "DEALER-016": {
+        "quantity": 4,
+        "price": 168.38,
+        "delivery_days": 1
+      },
+      "DEALER-037": {
+        "quantity": 3,
+        "price": 218.37,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SA-R-032": {
+    "name": "Shock Absorbers (Rear)",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Subaru Outback",
+      "Tesla Model Y",
+      "Kia Forte",
+      "Hyundai Elantra",
+      "Tesla Model 3"
+    ],
+    "dealers": {
+      "DEALER-049": {
+        "quantity": 4,
+        "price": 266.78,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 3,
+        "price": 219.78,
+        "delivery_days": 1
+      },
+      "DEALER-012": {
+        "quantity": 5,
+        "price": 140.72,
+        "delivery_days": 1
+      }
+    }
+  },
+  "ST-F-033": {
+    "name": "Struts (Front)",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Subaru Outback",
+      "Kia Forte",
+      "Tesla Model 3",
+      "Hyundai Elantra"
+    ],
+    "dealers": {
+      "DEALER-011": {
+        "quantity": 5,
+        "price": 185.41,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 5,
+        "price": 325.67,
+        "delivery_days": 1
+      },
+      "DEALER-005": {
+        "quantity": 4,
+        "price": 182.91,
+        "delivery_days": 1
+      },
+      "DEALER-046": {
+        "quantity": 0,
+        "price": 222.85,
+        "delivery_days": 7
+      },
+      "DEALER-034": {
+        "quantity": 3,
+        "price": 318.06,
+        "delivery_days": 1
+      }
+    }
+  },
+  "ST-R-034": {
+    "name": "Struts (Rear)",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Tesla Model Y",
+      "Hyundai Elantra",
+      "Subaru Outback",
+      "Kia Forte",
+      "Tesla Model 3"
+    ],
+    "dealers": {
+      "DEALER-048": {
+        "quantity": 4,
+        "price": 165.64,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 3,
+        "price": 121.17,
+        "delivery_days": 1
+      },
+      "DEALER-050": {
+        "quantity": 0,
+        "price": 152.6,
+        "delivery_days": 4
+      },
+      "DEALER-045": {
+        "quantity": 8,
+        "price": 108.68,
+        "delivery_days": 1
+      }
+    }
+  },
+  "CA-035": {
+    "name": "Control Arms",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Tesla Model 3",
+      "Kia Forte",
+      "Hyundai Elantra",
+      "Tesla Model Y"
+    ],
+    "dealers": {
+      "DEALER-004": {
+        "quantity": 3,
+        "price": 110.02,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 0,
+        "price": 333.63,
+        "delivery_days": 5
+      },
+      "DEALER-015": {
+        "quantity": 3,
+        "price": 211.67,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 4,
+        "price": 178.63,
+        "delivery_days": 1
+      },
+      "DEALER-032": {
+        "quantity": 2,
+        "price": 158.88,
+        "delivery_days": 3
+      }
+    }
+  },
+  "BJ-036": {
+    "name": "Ball Joints",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Tesla Model Y",
+      "Subaru Outback",
+      "Hyundai Elantra"
+    ],
+    "dealers": {
+      "DEALER-036": {
+        "quantity": 4,
+        "price": 104.94,
+        "delivery_days": 1
+      },
+      "DEALER-011": {
+        "quantity": 4,
+        "price": 64.15,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 3,
+        "price": 101.81,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SBL-037": {
+    "name": "Sway Bar Links",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Hyundai Elantra",
+      "Tesla Model 3",
+      "Kia Forte"
+    ],
+    "dealers": {
+      "DEALER-012": {
+        "quantity": 4,
+        "price": 52.82,
+        "delivery_days": 1
+      },
+      "DEALER-018": {
+        "quantity": 2,
+        "price": 40.07,
+        "delivery_days": 3
+      },
+      "DEALER-029": {
+        "quantity": 3,
+        "price": 81.69,
+        "delivery_days": 1
+      },
+      "DEALER-019": {
+        "quantity": 4,
+        "price": 56.0,
+        "delivery_days": 1
+      },
+      "DEALER-030": {
+        "quantity": 3,
+        "price": 54.02,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 6,
+        "price": 40.83,
+        "delivery_days": 1
+      }
+    }
+  },
+  "CS-038": {
+    "name": "Coil Springs",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Subaru Outback",
+      "Tesla Model Y",
+      "Hyundai Elantra",
+      "Kia Forte",
+      "Tesla Model 3"
+    ],
+    "dealers": {
+      "DEALER-018": {
+        "quantity": 6,
+        "price": 175.98,
+        "delivery_days": 1
+      },
+      "DEALER-002": {
+        "quantity": 2,
+        "price": 105.73,
+        "delivery_days": 1
+      },
+      "DEALER-039": {
+        "quantity": 2,
+        "price": 78.63,
+        "delivery_days": 2
+      },
+      "DEALER-022": {
+        "quantity": 3,
+        "price": 70.78,
+        "delivery_days": 1
+      }
+    }
+  },
+  "TRE-039": {
+    "name": "Tie Rod Ends",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Tesla Model Y",
+      "Subaru Outback",
+      "Hyundai Elantra"
+    ],
+    "dealers": {
+      "DEALER-046": {
+        "quantity": 2,
+        "price": 46.14,
+        "delivery_days": 1
+      },
+      "DEALER-028": {
+        "quantity": 3,
+        "price": 48.7,
+        "delivery_days": 1
+      },
+      "DEALER-050": {
+        "quantity": 3,
+        "price": 43.68,
+        "delivery_days": 1
+      },
+      "DEALER-047": {
+        "quantity": 5,
+        "price": 79.48,
+        "delivery_days": 1
+      },
+      "DEALER-004": {
+        "quantity": 2,
+        "price": 62.38,
+        "delivery_days": 2
+      }
+    }
+  },
+  "SB-040": {
+    "name": "Stabilizer Bar",
+    "category": "suspension",
+    "compatible_vehicles": [
+      "Kia Forte",
+      "Tesla Model 3",
+      "Hyundai Elantra"
+    ],
+    "dealers": {
+      "DEALER-007": {
+        "quantity": 5,
+        "price": 88.19,
+        "delivery_days": 1
+      },
+      "DEALER-043": {
+        "quantity": 3,
+        "price": 102.9,
+        "delivery_days": 1
+      },
+      "DEALER-017": {
+        "quantity": 4,
+        "price": 151.91,
+        "delivery_days": 1
+      }
+    }
+  },
+  "BAT-041": {
+    "name": "Battery",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Land Rover Discovery",
+      "Jaguar XE"
+    ],
+    "dealers": {
+      "DEALER-018": {
+        "quantity": 3,
+        "price": 107.61,
+        "delivery_days": 1
+      },
+      "DEALER-040": {
+        "quantity": 0,
+        "price": 136.03,
+        "delivery_days": 7
+      },
+      "DEALER-025": {
+        "quantity": 5,
+        "price": 144.11,
+        "delivery_days": 1
+      },
+      "DEALER-005": {
+        "quantity": 5,
+        "price": 166.45,
+        "delivery_days": 1
+      },
+      "DEALER-039": {
+        "quantity": 3,
+        "price": 113.4,
+        "delivery_days": 1
+      },
+      "DEALER-035": {
+        "quantity": 3,
+        "price": 227.57,
+        "delivery_days": 1
+      }
+    }
+  },
+  "ALT-042": {
+    "name": "Alternator",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Land Rover Discovery",
+      "Volvo XC60",
+      "Volkswagen Jetta"
+    ],
+    "dealers": {
+      "DEALER-045": {
+        "quantity": 2,
+        "price": 424.16,
+        "delivery_days": 2
+      },
+      "DEALER-004": {
+        "quantity": 1,
+        "price": 334.86,
+        "delivery_days": 2
+      },
+      "DEALER-011": {
+        "quantity": 3,
+        "price": 328.19,
+        "delivery_days": 1
+      },
+      "DEALER-002": {
+        "quantity": 5,
+        "price": 262.93,
+        "delivery_days": 1
+      },
+      "DEALER-038": {
+        "quantity": 5,
+        "price": 295.16,
+        "delivery_days": 1
+      }
+    }
+  },
+  "STR-043": {
+    "name": "Starter",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Land Rover Discovery",
+      "Jaguar XE",
+      "Volvo XC60"
+    ],
+    "dealers": {
+      "DEALER-042": {
+        "quantity": 6,
+        "price": 345.15,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 1,
+        "price": 240.08,
+        "delivery_days": 3
+      },
+      "DEALER-033": {
+        "quantity": 0,
+        "price": 373.06,
+        "delivery_days": 6
+      }
+    }
+  },
+  "HLB-044": {
+    "name": "Headlight Bulbs",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Jaguar XE",
+      "Land Rover Discovery"
+    ],
+    "dealers": {
+      "DEALER-033": {
+        "quantity": 2,
+        "price": 34.86,
+        "delivery_days": 3
+      },
+      "DEALER-004": {
+        "quantity": 2,
+        "price": 12.94,
+        "delivery_days": 2
+      },
+      "DEALER-046": {
+        "quantity": 2,
+        "price": 22.85,
+        "delivery_days": 2
+      },
+      "DEALER-043": {
+        "quantity": 0,
+        "price": 22.27,
+        "delivery_days": 3
+      }
+    }
+  },
+  "TLB-045": {
+    "name": "Tail Light Bulbs",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Mazda CX-5",
+      "Land Rover Discovery",
+      "Jaguar XE",
+      "Volkswagen Jetta"
+    ],
+    "dealers": {
+      "DEALER-027": {
+        "quantity": 0,
+        "price": 29.65,
+        "delivery_days": 7
+      },
+      "DEALER-032": {
+        "quantity": 1,
+        "price": 13.11,
+        "delivery_days": 1
+      },
+      "DEALER-044": {
+        "quantity": 0,
+        "price": 30.59,
+        "delivery_days": 5
+      },
+      "DEALER-001": {
+        "quantity": 4,
+        "price": 48.36,
+        "delivery_days": 1
+      },
+      "DEALER-029": {
+        "quantity": 4,
+        "price": 41.66,
+        "delivery_days": 1
+      }
+    }
+  },
+  "FUS-046": {
+    "name": "Fuses",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Jaguar XE",
+      "Volkswagen Jetta",
+      "Volvo XC60"
+    ],
+    "dealers": {
+      "DEALER-036": {
+        "quantity": 3,
+        "price": 13.84,
+        "delivery_days": 1
+      },
+      "DEALER-017": {
+        "quantity": 3,
+        "price": 8.46,
+        "delivery_days": 1
+      },
+      "DEALER-008": {
+        "quantity": 6,
+        "price": 22.21,
+        "delivery_days": 1
+      },
+      "DEALER-033": {
+        "quantity": 4,
+        "price": 17.79,
+        "delivery_days": 1
+      },
+      "DEALER-006": {
+        "quantity": 5,
+        "price": 6.01,
+        "delivery_days": 1
+      },
+      "DEALER-026": {
+        "quantity": 2,
+        "price": 12.98,
+        "delivery_days": 3
+      }
+    }
+  },
+  "WH-047": {
+    "name": "Wiring Harness",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Land Rover Discovery",
+      "Volkswagen Jetta",
+      "Mazda CX-5",
+      "Jaguar XE"
+    ],
+    "dealers": {
+      "DEALER-019": {
+        "quantity": 5,
+        "price": 132.51,
+        "delivery_days": 1
+      },
+      "DEALER-014": {
+        "quantity": 1,
+        "price": 81.3,
+        "delivery_days": 1
+      },
+      "DEALER-017": {
+        "quantity": 1,
+        "price": 81.63,
+        "delivery_days": 3
+      },
+      "DEALER-035": {
+        "quantity": 9,
+        "price": 131.88,
+        "delivery_days": 1
+      },
+      "DEALER-007": {
+        "quantity": 4,
+        "price": 151.82,
+        "delivery_days": 1
+      },
+      "DEALER-042": {
+        "quantity": 3,
+        "price": 80.88,
+        "delivery_days": 1
+      }
+    }
+  },
+  "ECU-048": {
+    "name": "ECU Module",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Mazda CX-5",
+      "Land Rover Discovery"
+    ],
+    "dealers": {
+      "DEALER-004": {
+        "quantity": 1,
+        "price": 601.36,
+        "delivery_days": 2
+      },
+      "DEALER-048": {
+        "quantity": 6,
+        "price": 779.55,
+        "delivery_days": 1
+      },
+      "DEALER-023": {
+        "quantity": 3,
+        "price": 383.54,
+        "delivery_days": 1
+      },
+      "DEALER-007": {
+        "quantity": 7,
+        "price": 590.57,
+        "delivery_days": 1
+      },
+      "DEALER-002": {
+        "quantity": 2,
+        "price": 436.85,
+        "delivery_days": 3
+      },
+      "DEALER-008": {
+        "quantity": 1,
+        "price": 682.55,
+        "delivery_days": 1
+      }
+    }
+  },
+  "SEN-049": {
+    "name": "Sensors",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Volvo XC60",
+      "Jaguar XE",
+      "Mazda CX-5",
+      "Volkswagen Jetta"
+    ],
+    "dealers": {
+      "DEALER-026": {
+        "quantity": 2,
+        "price": 104.14,
+        "delivery_days": 3
+      },
+      "DEALER-008": {
+        "quantity": 1,
+        "price": 175.39,
+        "delivery_days": 3
+      },
+      "DEALER-038": {
+        "quantity": 1,
+        "price": 190.8,
+        "delivery_days": 3
+      },
+      "DEALER-001": {
+        "quantity": 5,
+        "price": 84.98,
+        "delivery_days": 1
+      },
+      "DEALER-021": {
+        "quantity": 1,
+        "price": 91.16,
+        "delivery_days": 1
+      },
+      "DEALER-041": {
+        "quantity": 1,
+        "price": 55.25,
+        "delivery_days": 2
+      }
+    }
+  },
+  "REL-050": {
+    "name": "Relays",
+    "category": "electrical",
+    "compatible_vehicles": [
+      "Jaguar XE",
+      "Mazda CX-5",
+      "Volkswagen Jetta"
+    ],
+    "dealers": {
+      "DEALER-029": {
+        "quantity": 3,
+        "price": 24.92,
+        "delivery_days": 1
+      },
+      "DEALER-013": {
+        "quantity": 2,
+        "price": 33.92,
+        "delivery_days": 1
+      },
+      "DEALER-038": {
+        "quantity": 8,
+        "price": 15.27,
+        "delivery_days": 1
+      },
+      "DEALER-047": {
+        "quantity": 3,
+        "price": 32.65,
+        "delivery_days": 1
+      }
+    }
+  }
+}

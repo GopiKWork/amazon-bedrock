@@ -1,0 +1,2282 @@
+{
+  "metadata": {
+    "generated_at": 1754696000.228419,
+    "generated_date": "2025-08-08 19:33:20",
+    "total_scenarios": 50,
+    "description": "Synthetic automotive dealer-OEM interaction data for S3 Vector showcase",
+    "filterable_metadata_keys": [
+      "region",
+      "manufacturer",
+      "vehicle_category",
+      "year_established",
+      "certified",
+      "specialties"
+    ],
+    "non_filterable_metadata_keys": [
+      "full_description",
+      "contact_details",
+      "service_history",
+      "detailed_specs"
+    ]
+  },
+  "scenarios": [
+    {
+      "id": "scenario_001",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Jacksonville Auto Group (Jacksonville, West Region)\n        Dealer Specialties: Luxury Vehicles, Parts & Accessories, Performance Tuning, Used Vehicle Sales\n        Dealer Focus: luxury, truck, electric\n        \n        OEM: BMW\n        Available Models: 3 Series, 5 Series, X5\n        Target Markets: Family, Performance, Business\n        \n        Vehicle Context: 2020 Mazda CX-3\n        Category: suv\n        Features: Collision Detection, Sunroof, GPS Navigation, Heated Seats, Cruise Control\n        Price Range: mid-range\n        \n        Scenario: Customer satisfaction feedback from Jacksonville Auto Group to BMW regarding CX-3 performance.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "BMW",
+        "vehicle_category": "suv",
+        "year_established": 2009,
+        "certified": true,
+        "specialties": [
+          "Parts & Accessories",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "Jacksonville Auto Group is a BMW dealership in the West region specializing in Luxury Vehicles, Parts & Accessories, Performance Tuning, Used Vehicle Sales. Engaged in customer feedback activities with BMW to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Jacksonville Auto Group, Jacksonville, West Region. Phone: (970) 523-6156. Email: contact@jacksonvilleauto.com. Hours: Mon-Sat 8AM-8PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2009, served over 21,938 customers, 85% satisfaction rating",
+        "detailed_specs": "75,495 sq ft facility, 18 service bays, certified technicians: 31, sales staff: 7"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Jacksonville Auto Group",
+        "location": "Jacksonville, West Region",
+        "region": "West",
+        "specialties": [
+          "Luxury Vehicles",
+          "Parts & Accessories",
+          "Performance Tuning",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "BMW",
+        "models": [
+          "3 Series",
+          "5 Series",
+          "X5"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Mazda",
+        "model": "CX-3",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_002",
+      "text": "Interaction Type: Sales Inquiry\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Fleet Sales, Collision Repair, Commercial Vehicles\n        Dealer Focus: sedan, suv\n        \n        OEM: Honda\n        Available Models: Ridgeline, CR-V, HR-V\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2024 Honda Civic Hatchback\n        Category: compact\n        Features: Wireless Charging, Lane Departure Warning, GPS Navigation, Keyless Entry, Leather Interior\n        Price Range: mid-range\n        \n        Scenario: Customer inquiry at Louisville Auto Group about Honda compact options in mid-range range.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Honda",
+        "vehicle_category": "compact",
+        "year_established": 2022,
+        "certified": false,
+        "specialties": [
+          "Fleet Sales",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Louisville Auto Group is a Honda dealership in the South region specializing in Fleet Sales, Collision Repair, Commercial Vehicles. Engaged in sales inquiry activities with Honda to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Outdoor Enthusiasts demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (324) 776-1695. Email: contact@louisvilleauto.com. Hours: Mon-Sat 9AM-9PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2022, served over 30,475 customers, 99% satisfaction rating",
+        "detailed_specs": "48,592 sq ft facility, 34 service bays, certified technicians: 21, sales staff: 11"
+      },
+      "interaction_type": "Sales Inquiry",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Fleet Sales",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Honda",
+        "models": [
+          "Ridgeline",
+          "CR-V",
+          "HR-V"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Honda",
+        "model": "Civic Hatchback",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_003",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Charlotte Auto Group (Charlotte, East Region)\n        Dealer Specialties: Fleet Sales, Parts & Accessories\n        Dealer Focus: suv, luxury, compact\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2023 Hyundai Kona Electric\n        Category: electric\n        Features: Lane Departure Warning, Collision Detection, USB Ports, Premium Sound System, Parking Sensors\n        Price Range: mid-range\n        \n        Scenario: Customer satisfaction feedback from Charlotte Auto Group to Toyota regarding Kona Electric performance.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Toyota",
+        "vehicle_category": "electric",
+        "year_established": 2022,
+        "certified": true,
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ],
+        "full_description": "Charlotte Auto Group is a Toyota dealership in the East region specializing in Fleet Sales, Parts & Accessories. Engaged in customer feedback activities with Toyota to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, East Region. Phone: (306) 929-1937. Email: contact@charlotteauto.com. Hours: Mon-Sat 7AM-8PM, Sun 12AM-5PM",
+        "service_history": "Operating since 2022, served over 11,012 customers, 87% satisfaction rating",
+        "detailed_specs": "42,246 sq ft facility, 25 service bays, certified technicians: 33, sales staff: 19, 5 charging stations"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, East Region",
+        "region": "East",
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Kona Electric",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_004",
+      "text": "Interaction Type: Quality Issue Report\n        \n        Dealer: San Francisco Auto Group (San Francisco, Central Region)\n        Dealer Specialties: Collision Repair, Service & Maintenance, New Vehicle Sales, Fleet Sales\n        Dealer Focus: luxury, compact, suv\n        \n        OEM: Audi\n        Available Models: Q5, R8, Q3\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2021 Nissan Leaf\n        Category: electric\n        Features: Collision Detection, Keyless Entry, Parking Sensors, Automatic Transmission, Lane Departure Warning\n        Price Range: economy\n        \n        Scenario: San Francisco Auto Group reports quality concerns to Audi about 2021 Leaf production batch.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Audi",
+        "vehicle_category": "electric",
+        "year_established": 2006,
+        "certified": false,
+        "specialties": [
+          "Service & Maintenance",
+          "Fleet Sales"
+        ],
+        "full_description": "San Francisco Auto Group is a Audi dealership in the Central region specializing in Collision Repair, Service & Maintenance, New Vehicle Sales, Fleet Sales. Engaged in quality issue report activities with Audi to enhance customer experience. The dealership focuses on economy price range vehicles and serves the Seniors demographic.",
+        "contact_details": "San Francisco Auto Group, San Francisco, Central Region. Phone: (833) 602-3819. Email: contact@sanfranciscoauto.com. Hours: Mon-Sat 9AM-9PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2006, served over 47,534 customers, 94% satisfaction rating",
+        "detailed_specs": "68,652 sq ft facility, 10 service bays, certified technicians: 17, sales staff: 12, 10 charging stations"
+      },
+      "interaction_type": "Quality Issue Report",
+      "dealer_info": {
+        "name": "San Francisco Auto Group",
+        "location": "San Francisco, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Collision Repair",
+          "Service & Maintenance",
+          "New Vehicle Sales",
+          "Fleet Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Audi",
+        "models": [
+          "Q5",
+          "R8",
+          "Q3"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Nissan",
+        "model": "Leaf",
+        "category": "electric",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_005",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: Las Vegas Auto Group (Las Vegas, Central Region)\n        Dealer Specialties: New Vehicle Sales, Collision Repair\n        Dealer Focus: electric, sedan\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2020 Mazda Mazda3\n        Category: sedan\n        Features: Wireless Charging, Cruise Control, All-Wheel Drive, Bluetooth Connectivity, Sunroof\n        Price Range: economy\n        \n        Scenario: Joint marketing campaign between Las Vegas Auto Group and Toyota targeting Business Executives demographic.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Toyota",
+        "vehicle_category": "sedan",
+        "year_established": 2009,
+        "certified": true,
+        "specialties": [
+          "Collision Repair",
+          "New Vehicle Sales"
+        ],
+        "full_description": "Las Vegas Auto Group is a Toyota dealership in the Central region specializing in New Vehicle Sales, Collision Repair. Collaborating with Toyota on promotional campaigns targeting Business Executives customers. The dealership focuses on economy price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Las Vegas Auto Group, Las Vegas, Central Region. Phone: (811) 413-8365. Email: contact@lasvegasauto.com. Hours: Mon-Sat 7AM-8PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2009, served over 29,654 customers, 99% satisfaction rating, marketing partnership with Toyota for 3 years",
+        "detailed_specs": "59,460 sq ft facility, 26 service bays, certified technicians: 16, sales staff: 13"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "Las Vegas Auto Group",
+        "location": "Las Vegas, Central Region",
+        "region": "Central",
+        "specialties": [
+          "New Vehicle Sales",
+          "Collision Repair"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Mazda",
+        "model": "Mazda3",
+        "category": "sedan",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_006",
+      "text": "Interaction Type: Quality Issue Report\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Fleet Sales, Collision Repair, Commercial Vehicles\n        Dealer Focus: sedan, suv\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2024 Nissan Leaf\n        Category: electric\n        Features: Parking Sensors, Leather Interior, Collision Detection, Backup Camera, Heated Seats\n        Price Range: mid-range\n        \n        Scenario: Louisville Auto Group reports quality concerns to Volkswagen about 2024 Leaf production batch.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "electric",
+        "year_established": 2010,
+        "certified": true,
+        "specialties": [
+          "Collision Repair",
+          "Fleet Sales"
+        ],
+        "full_description": "Louisville Auto Group is a Volkswagen dealership in the South region specializing in Fleet Sales, Collision Repair, Commercial Vehicles. Engaged in quality issue report activities with Volkswagen to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Students demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (324) 776-1695. Email: contact@louisvilleauto.com. Hours: Mon-Sat 9AM-9PM, Sun 11AM-6PM",
+        "service_history": "Operating since 2010, served over 40,259 customers, 85% satisfaction rating",
+        "detailed_specs": "37,931 sq ft facility, 10 service bays, certified technicians: 20, sales staff: 7, 17 charging stations"
+      },
+      "interaction_type": "Quality Issue Report",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Fleet Sales",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Nissan",
+        "model": "Leaf",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_007",
+      "text": "Interaction Type: Service Training\n        \n        Dealer: Portland Auto Group (Portland, East Region)\n        Dealer Specialties: Parts & Accessories, New Vehicle Sales, Collision Repair, Used Vehicle Sales\n        Dealer Focus: electric, truck, compact\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2020 Hyundai Genesis\n        Category: sedan\n        Features: Sunroof, USB Ports, Backup Camera, Bluetooth Connectivity\n        Price Range: mid-range\n        \n        Scenario: Toyota provides technical training to Portland Auto Group service team on Genesis maintenance procedures.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Toyota",
+        "vehicle_category": "sedan",
+        "year_established": 2009,
+        "certified": false,
+        "specialties": [
+          "Collision Repair",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "Portland Auto Group is a Toyota dealership in the East region specializing in Parts & Accessories, New Vehicle Sales, Collision Repair, Used Vehicle Sales. Participating in Toyota technical training programs for Genesis maintenance and repair procedures. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Portland Auto Group, Portland, East Region. Phone: (695) 939-5980. Email: contact@portlandauto.com. Hours: Mon-Sat 8AM-7PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2009, served over 15,273 customers, 91% satisfaction rating, certified Toyota service partner since 2020",
+        "detailed_specs": "76,336 sq ft facility, 16 service bays, certified technicians: 13, sales staff: 6"
+      },
+      "interaction_type": "Service Training",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, East Region",
+        "region": "East",
+        "specialties": [
+          "Parts & Accessories",
+          "New Vehicle Sales",
+          "Collision Repair",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Hyundai",
+        "model": "Genesis",
+        "category": "sedan",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_008",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: Portland Auto Group (Portland, North Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Ford\n        Available Models: Bronco, Escape, F-150\n        Target Markets: Family, Performance\n        \n        Vehicle Context: 2024 Nissan Leaf\n        Category: electric\n        Features: Parking Sensors, Leather Interior, Collision Detection, Backup Camera, Heated Seats\n        Price Range: mid-range\n        \n        Scenario: Emergency parts order from Portland Auto Group to Ford for electric vehicle repairs.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Ford",
+        "vehicle_category": "electric",
+        "year_established": 2012,
+        "certified": false,
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles"
+        ],
+        "full_description": "Portland Auto Group is a Ford dealership in the North region specializing in Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles. Maintaining extensive parts inventory for Ford vehicles with rapid order fulfillment capabilities. The dealership focuses on mid-range price range vehicles and serves the Students demographic.",
+        "contact_details": "Portland Auto Group, Portland, North Region. Phone: (909) 649-9407. Email: contact@portlandauto.com. Hours: Mon-Sat 9AM-8PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2012, served over 7,948 customers, 87% satisfaction rating",
+        "detailed_specs": "50,516 sq ft facility, 17 service bays, certified technicians: 29, sales staff: 5, 8 charging stations"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, North Region",
+        "region": "North",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Ford",
+        "models": [
+          "Bronco",
+          "Escape",
+          "F-150"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Nissan",
+        "model": "Leaf",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_009",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Charlotte Auto Group (Charlotte, West Region)\n        Dealer Specialties: Commercial Vehicles, Luxury Vehicles, Parts & Accessories\n        Dealer Focus: truck, luxury\n        \n        OEM: Honda\n        Available Models: Ridgeline, CR-V, HR-V\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2020 Lexus IS\n        Category: sedan\n        Features: Sunroof, USB Ports, Wireless Charging, Lane Departure Warning, Leather Interior\n        Price Range: premium\n        \n        Scenario: Customer satisfaction feedback from Charlotte Auto Group to Honda regarding IS performance.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Honda",
+        "vehicle_category": "sedan",
+        "year_established": 2009,
+        "certified": false,
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ],
+        "full_description": "Charlotte Auto Group is a Honda dealership in the West region specializing in Commercial Vehicles, Luxury Vehicles, Parts & Accessories. Engaged in customer feedback activities with Honda to enhance customer experience. The dealership focuses on premium price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, West Region. Phone: (402) 608-6947. Email: contact@charlotteauto.com. Hours: Mon-Sat 7AM-9PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2009, served over 27,770 customers, 94% satisfaction rating",
+        "detailed_specs": "38,906 sq ft facility, 30 service bays, certified technicians: 30, sales staff: 9"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, West Region",
+        "region": "West",
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Honda",
+        "models": [
+          "Ridgeline",
+          "CR-V",
+          "HR-V"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Lexus",
+        "model": "IS",
+        "category": "sedan",
+        "price_range": "premium"
+      }
+    },
+    {
+      "id": "scenario_010",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: Portland Auto Group (Portland, North Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Hyundai\n        Available Models: Genesis, Ioniq 5, Tucson\n        Target Markets: Business, Performance, Family, Eco-Friendly\n        \n        Vehicle Context: 2024 Lexus RX\n        Category: suv\n        Features: Bluetooth Connectivity, Collision Detection, Lane Departure Warning, Cruise Control, Parking Sensors\n        Price Range: premium\n        \n        Scenario: Emergency parts order from Portland Auto Group to Hyundai for suv vehicle repairs.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "suv",
+        "year_established": 2008,
+        "certified": false,
+        "specialties": [
+          "Commercial Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "Portland Auto Group is a Hyundai dealership in the North region specializing in Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles. Maintaining extensive parts inventory for Hyundai vehicles with rapid order fulfillment capabilities. The dealership focuses on premium price range vehicles and serves the Outdoor Enthusiasts demographic.",
+        "contact_details": "Portland Auto Group, Portland, North Region. Phone: (909) 649-9407. Email: contact@portlandauto.com. Hours: Mon-Sat 9AM-8PM, Sun 11AM-5PM",
+        "service_history": "Operating since 2008, served over 6,362 customers, 85% satisfaction rating",
+        "detailed_specs": "76,832 sq ft facility, 15 service bays, certified technicians: 30, sales staff: 22"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, North Region",
+        "region": "North",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Hyundai",
+        "models": [
+          "Genesis",
+          "Ioniq 5",
+          "Tucson"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Lexus",
+        "model": "RX",
+        "category": "suv",
+        "price_range": "premium"
+      }
+    },
+    {
+      "id": "scenario_011",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Portland Auto Group (Portland, East Region)\n        Dealer Specialties: Parts & Accessories, New Vehicle Sales, Collision Repair, Used Vehicle Sales\n        Dealer Focus: electric, truck, compact\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2021 BMW i3\n        Category: electric\n        Features: Sunroof, Keyless Entry, All-Wheel Drive, Backup Camera, Wireless Charging\n        Price Range: luxury\n        \n        Scenario: Volkswagen technical support assists Portland Auto Group with i3 diagnostic procedures.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "electric",
+        "year_established": 2016,
+        "certified": true,
+        "specialties": [
+          "Parts & Accessories",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "Portland Auto Group is a Volkswagen dealership in the East region specializing in Parts & Accessories, New Vehicle Sales, Collision Repair, Used Vehicle Sales. Engaged in technical support activities with Volkswagen to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Portland Auto Group, Portland, East Region. Phone: (695) 939-5980. Email: contact@portlandauto.com. Hours: Mon-Sat 8AM-8PM, Sun 11AM-7PM",
+        "service_history": "Operating since 2016, served over 6,306 customers, 91% satisfaction rating",
+        "detailed_specs": "43,927 sq ft facility, 21 service bays, certified technicians: 16, sales staff: 6, 9 charging stations"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, East Region",
+        "region": "East",
+        "specialties": [
+          "Parts & Accessories",
+          "New Vehicle Sales",
+          "Collision Repair",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "BMW",
+        "model": "i3",
+        "category": "electric",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_012",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Jacksonville Auto Group (Jacksonville, West Region)\n        Dealer Specialties: Collision Repair, Parts & Accessories\n        Dealer Focus: luxury, electric\n        \n        OEM: Ford\n        Available Models: Bronco, Escape, F-150\n        Target Markets: Family, Performance\n        \n        Vehicle Context: 2020 Chevrolet Bolt EUV\n        Category: electric\n        Features: Backup Camera, USB Ports, Automatic Transmission, All-Wheel Drive\n        Price Range: economy\n        \n        Scenario: Customer satisfaction feedback from Jacksonville Auto Group to Ford regarding Bolt EUV performance.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Ford",
+        "vehicle_category": "electric",
+        "year_established": 2010,
+        "certified": false,
+        "specialties": [
+          "Parts & Accessories",
+          "Collision Repair"
+        ],
+        "full_description": "Jacksonville Auto Group is a Ford dealership in the West region specializing in Collision Repair, Parts & Accessories. Engaged in customer feedback activities with Ford to enhance customer experience. The dealership focuses on economy price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Jacksonville Auto Group, Jacksonville, West Region. Phone: (691) 621-2615. Email: contact@jacksonvilleauto.com. Hours: Mon-Sat 7AM-8PM, Sun 10AM-5PM",
+        "service_history": "Operating since 2010, served over 33,156 customers, 96% satisfaction rating",
+        "detailed_specs": "28,043 sq ft facility, 19 service bays, certified technicians: 30, sales staff: 5, 15 charging stations"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Jacksonville Auto Group",
+        "location": "Jacksonville, West Region",
+        "region": "West",
+        "specialties": [
+          "Collision Repair",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Ford",
+        "models": [
+          "Bronco",
+          "Escape",
+          "F-150"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Chevrolet",
+        "model": "Bolt EUV",
+        "category": "electric",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_013",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: Jacksonville Auto Group (Jacksonville, North Region)\n        Dealer Specialties: Commercial Vehicles, Used Vehicle Sales\n        Dealer Focus: electric, truck\n        \n        OEM: Chevrolet\n        Available Models: Bolt EV, Equinox, Colorado\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2020 Hyundai Tucson\n        Category: suv\n        Features: Remote Start, Adaptive Cruise Control, Automatic Transmission, Keyless Entry\n        Price Range: mid-range\n        \n        Scenario: Emergency parts order from Jacksonville Auto Group to Chevrolet for suv vehicle repairs.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "suv",
+        "year_established": 2008,
+        "certified": true,
+        "specialties": [
+          "Commercial Vehicles",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "Jacksonville Auto Group is a Chevrolet dealership in the North region specializing in Commercial Vehicles, Used Vehicle Sales. Maintaining extensive parts inventory for Chevrolet vehicles with rapid order fulfillment capabilities. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Jacksonville Auto Group, Jacksonville, North Region. Phone: (816) 307-2477. Email: contact@jacksonvilleauto.com. Hours: Mon-Sat 9AM-8PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2008, served over 8,332 customers, 92% satisfaction rating",
+        "detailed_specs": "45,720 sq ft facility, 33 service bays, certified technicians: 20, sales staff: 12"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "Jacksonville Auto Group",
+        "location": "Jacksonville, North Region",
+        "region": "North",
+        "specialties": [
+          "Commercial Vehicles",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Chevrolet",
+        "models": [
+          "Bolt EV",
+          "Equinox",
+          "Colorado"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Hyundai",
+        "model": "Tucson",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_014",
+      "text": "Interaction Type: Promotional Campaign\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Performance Tuning, Collision Repair, Commercial Vehicles\n        Dealer Focus: suv\n        \n        OEM: Lexus\n        Available Models: UX Hybrid, GX, LC\n        Target Markets: Performance, Commercial\n        \n        Vehicle Context: 2022 Hyundai Accent\n        Category: compact\n        Features: Remote Start, Cruise Control, Keyless Entry, USB Ports, Leather Interior\n        Price Range: mid-range\n        \n        Scenario: Seasonal promotion planning between Louisville Auto Group and Lexus for compact vehicles.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Lexus",
+        "vehicle_category": "compact",
+        "year_established": 2009,
+        "certified": false,
+        "specialties": [
+          "Performance Tuning",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Louisville Auto Group is a Lexus dealership in the South region specializing in Performance Tuning, Collision Repair, Commercial Vehicles. Engaged in promotional campaign activities with Lexus to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (310) 973-1728. Email: contact@louisvilleauto.com. Hours: Mon-Sat 7AM-8PM, Sun 10AM-5PM",
+        "service_history": "Operating since 2009, served over 45,960 customers, 98% satisfaction rating",
+        "detailed_specs": "68,069 sq ft facility, 21 service bays, certified technicians: 40, sales staff: 9"
+      },
+      "interaction_type": "Promotional Campaign",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Performance Tuning",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Lexus",
+        "models": [
+          "UX Hybrid",
+          "GX",
+          "LC"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "Hyundai",
+        "model": "Accent",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_015",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Charlotte Auto Group (Charlotte, East Region)\n        Dealer Specialties: Fleet Sales, Parts & Accessories\n        Dealer Focus: suv, luxury, compact\n        \n        OEM: Mercedes-Benz\n        Available Models: GLC, C-Class, AMG GT\n        Target Markets: Family, Performance, Luxury, Commercial\n        \n        Vehicle Context: 2021 Honda Accord\n        Category: sedan\n        Features: USB Ports, Remote Start, Automatic Transmission, Keyless Entry, GPS Navigation\n        Price Range: economy\n        \n        Scenario: Mercedes-Benz technical support assists Charlotte Auto Group with Accord diagnostic procedures.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Mercedes-Benz",
+        "vehicle_category": "sedan",
+        "year_established": 2013,
+        "certified": false,
+        "specialties": [
+          "Parts & Accessories",
+          "Fleet Sales"
+        ],
+        "full_description": "Charlotte Auto Group is a Mercedes-Benz dealership in the East region specializing in Fleet Sales, Parts & Accessories. Engaged in technical support activities with Mercedes-Benz to enhance customer experience. The dealership focuses on economy price range vehicles and serves the Young Professionals demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, East Region. Phone: (306) 929-1937. Email: contact@charlotteauto.com. Hours: Mon-Sat 7AM-9PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2013, served over 22,198 customers, 94% satisfaction rating",
+        "detailed_specs": "69,135 sq ft facility, 14 service bays, certified technicians: 26, sales staff: 8"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, East Region",
+        "region": "East",
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Mercedes-Benz",
+        "models": [
+          "GLC",
+          "C-Class",
+          "AMG GT"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Honda",
+        "model": "Accord",
+        "category": "sedan",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_016",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: New York Auto Group (New York, West Region)\n        Dealer Specialties: Parts & Accessories, New Vehicle Sales, Used Vehicle Sales, Luxury Vehicles\n        Dealer Focus: suv, luxury\n        \n        OEM: BMW\n        Available Models: 3 Series, 5 Series, X5\n        Target Markets: Family, Performance, Business\n        \n        Vehicle Context: 2024 Nissan Leaf\n        Category: electric\n        Features: Parking Sensors, Leather Interior, Collision Detection, Backup Camera, Heated Seats\n        Price Range: mid-range\n        \n        Scenario: Joint marketing campaign between New York Auto Group and BMW targeting Students demographic.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "BMW",
+        "vehicle_category": "electric",
+        "year_established": 2017,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "New York Auto Group is a BMW dealership in the West region specializing in Parts & Accessories, New Vehicle Sales, Used Vehicle Sales, Luxury Vehicles. Collaborating with BMW on promotional campaigns targeting Students customers. The dealership focuses on mid-range price range vehicles and serves the Students demographic.",
+        "contact_details": "New York Auto Group, New York, West Region. Phone: (338) 976-5666. Email: contact@newyorkauto.com. Hours: Mon-Sat 8AM-7PM, Sun 11AM-5PM",
+        "service_history": "Operating since 2017, served over 22,177 customers, 89% satisfaction rating, marketing partnership with BMW for 6 years",
+        "detailed_specs": "63,337 sq ft facility, 34 service bays, certified technicians: 24, sales staff: 15, 16 charging stations"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "New York Auto Group",
+        "location": "New York, West Region",
+        "region": "West",
+        "specialties": [
+          "Parts & Accessories",
+          "New Vehicle Sales",
+          "Used Vehicle Sales",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "BMW",
+        "models": [
+          "3 Series",
+          "5 Series",
+          "X5"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Nissan",
+        "model": "Leaf",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_017",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Indianapolis Auto Group (Indianapolis, North Region)\n        Dealer Specialties: Commercial Vehicles, Service & Maintenance, Luxury Vehicles\n        Dealer Focus: sedan, truck, suv\n        \n        OEM: Honda\n        Available Models: Ridgeline, CR-V, HR-V\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2021 Mercedes-Benz EQB\n        Category: electric\n        Features: Lane Departure Warning, Automatic Transmission, Collision Detection, Wireless Charging, Leather Interior\n        Price Range: luxury\n        \n        Scenario: Customer satisfaction feedback from Indianapolis Auto Group to Honda regarding EQB performance.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Honda",
+        "vehicle_category": "electric",
+        "year_established": 2017,
+        "certified": false,
+        "specialties": [
+          "Luxury Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "Indianapolis Auto Group is a Honda dealership in the North region specializing in Commercial Vehicles, Service & Maintenance, Luxury Vehicles. Engaged in customer feedback activities with Honda to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Indianapolis Auto Group, Indianapolis, North Region. Phone: (269) 588-7349. Email: contact@indianapolisauto.com. Hours: Mon-Sat 7AM-8PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2017, served over 22,971 customers, 92% satisfaction rating",
+        "detailed_specs": "47,008 sq ft facility, 31 service bays, certified technicians: 26, sales staff: 12, 9 charging stations"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Indianapolis Auto Group",
+        "location": "Indianapolis, North Region",
+        "region": "North",
+        "specialties": [
+          "Commercial Vehicles",
+          "Service & Maintenance",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Honda",
+        "models": [
+          "Ridgeline",
+          "CR-V",
+          "HR-V"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Mercedes-Benz",
+        "model": "EQB",
+        "category": "electric",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_018",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: Albuquerque Auto Group (Albuquerque, East Region)\n        Dealer Specialties: Parts & Accessories, Used Vehicle Sales, Collision Repair, Fleet Sales\n        Dealer Focus: luxury, electric\n        \n        OEM: Honda\n        Available Models: Ridgeline, CR-V, HR-V\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2020 Audi e-tron\n        Category: electric\n        Features: Adaptive Cruise Control, Sunroof, Lane Departure Warning, Parking Sensors, USB Ports\n        Price Range: luxury\n        \n        Scenario: Joint marketing campaign between Albuquerque Auto Group and Honda targeting Seniors demographic.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Honda",
+        "vehicle_category": "electric",
+        "year_established": 2015,
+        "certified": false,
+        "specialties": [
+          "Collision Repair",
+          "Parts & Accessories"
+        ],
+        "full_description": "Albuquerque Auto Group is a Honda dealership in the East region specializing in Parts & Accessories, Used Vehicle Sales, Collision Repair, Fleet Sales. Collaborating with Honda on promotional campaigns targeting Seniors customers. The dealership focuses on luxury price range vehicles and serves the Seniors demographic.",
+        "contact_details": "Albuquerque Auto Group, Albuquerque, East Region. Phone: (359) 630-8933. Email: contact@albuquerqueauto.com. Hours: Mon-Sat 9AM-9PM, Sun 11AM-5PM",
+        "service_history": "Operating since 2015, served over 38,686 customers, 87% satisfaction rating, marketing partnership with Honda for 4 years",
+        "detailed_specs": "65,833 sq ft facility, 29 service bays, certified technicians: 37, sales staff: 8, 6 charging stations"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "Albuquerque Auto Group",
+        "location": "Albuquerque, East Region",
+        "region": "East",
+        "specialties": [
+          "Parts & Accessories",
+          "Used Vehicle Sales",
+          "Collision Repair",
+          "Fleet Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Honda",
+        "models": [
+          "Ridgeline",
+          "CR-V",
+          "HR-V"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Audi",
+        "model": "e-tron",
+        "category": "electric",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_019",
+      "text": "Interaction Type: Inventory Request\n        \n        Dealer: Charlotte Auto Group (Charlotte, East Region)\n        Dealer Specialties: Fleet Sales, Parts & Accessories\n        Dealer Focus: suv, luxury, compact\n        \n        OEM: Ford\n        Available Models: Bronco, Escape, F-150\n        Target Markets: Family, Performance\n        \n        Vehicle Context: 2024 Kia Soul\n        Category: compact\n        Features: GPS Navigation, Leather Interior, Adaptive Cruise Control, Remote Start\n        Price Range: mid-range\n        \n        Scenario: Charlotte Auto Group requests compact inventory from Ford for East region market demand.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Ford",
+        "vehicle_category": "compact",
+        "year_established": 2008,
+        "certified": false,
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ],
+        "full_description": "Charlotte Auto Group is a Ford dealership in the East region specializing in Fleet Sales, Parts & Accessories. Currently requesting compact inventory to meet growing demand in the East market. The dealership focuses on mid-range price range vehicles and serves the Students demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, East Region. Phone: (306) 929-1937. Email: contact@charlotteauto.com. Hours: Mon-Sat 7AM-9PM, Sun 12AM-6PM",
+        "service_history": "Operating since 2008, served over 34,155 customers, 95% satisfaction rating",
+        "detailed_specs": "58,584 sq ft facility, 25 service bays, certified technicians: 36, sales staff: 24"
+      },
+      "interaction_type": "Inventory Request",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, East Region",
+        "region": "East",
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Ford",
+        "models": [
+          "Bronco",
+          "Escape",
+          "F-150"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Kia",
+        "model": "Soul",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_020",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: Portland Auto Group (Portland, West Region)\n        Dealer Specialties: New Vehicle Sales, Electric Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Honda\n        Available Models: Ridgeline, CR-V, HR-V\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2022 Honda Civic Hatchback\n        Category: compact\n        Features: Lane Departure Warning, Premium Sound System, Keyless Entry, Automatic Transmission, Backup Camera\n        Price Range: mid-range\n        \n        Scenario: Joint marketing campaign between Portland Auto Group and Honda targeting Business Executives demographic.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Honda",
+        "vehicle_category": "compact",
+        "year_established": 2017,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Electric Vehicles"
+        ],
+        "full_description": "Portland Auto Group is a Honda dealership in the West region specializing in New Vehicle Sales, Electric Vehicles. Collaborating with Honda on promotional campaigns targeting Business Executives customers. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Portland Auto Group, Portland, West Region. Phone: (597) 503-3607. Email: contact@portlandauto.com. Hours: Mon-Sat 9AM-7PM, Sun 12AM-5PM",
+        "service_history": "Operating since 2017, served over 31,674 customers, 93% satisfaction rating, marketing partnership with Honda for 3 years",
+        "detailed_specs": "54,831 sq ft facility, 11 service bays, certified technicians: 10, sales staff: 7"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, West Region",
+        "region": "West",
+        "specialties": [
+          "New Vehicle Sales",
+          "Electric Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Honda",
+        "models": [
+          "Ridgeline",
+          "CR-V",
+          "HR-V"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "Honda",
+        "model": "Civic Hatchback",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_021",
+      "text": "Interaction Type: Service Training\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Fleet Sales, Collision Repair, Commercial Vehicles\n        Dealer Focus: sedan, suv\n        \n        OEM: Chevrolet\n        Available Models: Bolt EV, Equinox, Colorado\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2022 BMW 3 Series\n        Category: sedan\n        Features: Leather Interior, Heated Seats, Lane Departure Warning, Parking Sensors, Automatic Transmission\n        Price Range: luxury\n        \n        Scenario: Chevrolet provides technical training to Louisville Auto Group service team on 3 Series maintenance procedures.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "sedan",
+        "year_established": 2022,
+        "certified": true,
+        "specialties": [
+          "Collision Repair",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Louisville Auto Group is a Chevrolet dealership in the South region specializing in Fleet Sales, Collision Repair, Commercial Vehicles. Participating in Chevrolet technical training programs for 3 Series maintenance and repair procedures. The dealership focuses on luxury price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (324) 776-1695. Email: contact@louisvilleauto.com. Hours: Mon-Sat 7AM-7PM, Sun 10AM-5PM",
+        "service_history": "Operating since 2022, served over 33,375 customers, 99% satisfaction rating, certified Chevrolet service partner since 2021",
+        "detailed_specs": "78,863 sq ft facility, 23 service bays, certified technicians: 18, sales staff: 11"
+      },
+      "interaction_type": "Service Training",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Fleet Sales",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Chevrolet",
+        "models": [
+          "Bolt EV",
+          "Equinox",
+          "Colorado"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "BMW",
+        "model": "3 Series",
+        "category": "sedan",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_022",
+      "text": "Interaction Type: Sales Inquiry\n        \n        Dealer: New York Auto Group (New York, East Region)\n        Dealer Specialties: New Vehicle Sales, Used Vehicle Sales\n        Dealer Focus: compact\n        \n        OEM: Nissan\n        Available Models: Ariya, Pathfinder, Altima\n        Target Markets: Commercial, Business, Performance\n        \n        Vehicle Context: 2024 Kia Sportage\n        Category: suv\n        Features: Keyless Entry, Automatic Transmission, Premium Sound System, Remote Start, GPS Navigation\n        Price Range: mid-range\n        \n        Scenario: Customer inquiry at New York Auto Group about Nissan suv options in mid-range range.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Nissan",
+        "vehicle_category": "suv",
+        "year_established": 2021,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "New York Auto Group is a Nissan dealership in the East region specializing in New Vehicle Sales, Used Vehicle Sales. Engaged in sales inquiry activities with Nissan to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "New York Auto Group, New York, East Region. Phone: (970) 249-9731. Email: contact@newyorkauto.com. Hours: Mon-Sat 9AM-9PM, Sun 11AM-7PM",
+        "service_history": "Operating since 2021, served over 6,705 customers, 86% satisfaction rating",
+        "detailed_specs": "41,581 sq ft facility, 25 service bays, certified technicians: 15, sales staff: 18"
+      },
+      "interaction_type": "Sales Inquiry",
+      "dealer_info": {
+        "name": "New York Auto Group",
+        "location": "New York, East Region",
+        "region": "East",
+        "specialties": [
+          "New Vehicle Sales",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Nissan",
+        "models": [
+          "Ariya",
+          "Pathfinder",
+          "Altima"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Kia",
+        "model": "Sportage",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_023",
+      "text": "Interaction Type: Warranty Claim\n        \n        Dealer: Denver Auto Group (Denver, South Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, New Vehicle Sales\n        Dealer Focus: electric, compact\n        \n        OEM: Nissan\n        Available Models: Ariya, Pathfinder, Altima\n        Target Markets: Commercial, Business, Performance\n        \n        Vehicle Context: 2020 Lexus RC\n        Category: luxury\n        Features: Collision Detection, Adaptive Cruise Control, Leather Interior, Lane Departure Warning, Cruise Control\n        Price Range: premium\n        \n        Scenario: Denver Auto Group processes warranty claim for 2020 Lexus RC customer issue.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Nissan",
+        "vehicle_category": "luxury",
+        "year_established": 2022,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Electric Vehicles"
+        ],
+        "full_description": "Denver Auto Group is a Nissan dealership in the South region specializing in Service & Maintenance, Electric Vehicles, New Vehicle Sales. Processing warranty claims for 2020 Lexus RC vehicles with comprehensive customer support. The dealership focuses on premium price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Denver Auto Group, Denver, South Region. Phone: (720) 695-8602. Email: contact@denverauto.com. Hours: Mon-Sat 8AM-9PM, Sun 10AM-5PM",
+        "service_history": "Operating since 2022, served over 22,575 customers, 89% satisfaction rating, processes 302 warranty claims annually",
+        "detailed_specs": "67,670 sq ft facility, 30 service bays, certified technicians: 13, sales staff: 20, VIP customer lounge, concierge services"
+      },
+      "interaction_type": "Warranty Claim",
+      "dealer_info": {
+        "name": "Denver Auto Group",
+        "location": "Denver, South Region",
+        "region": "South",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "New Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Nissan",
+        "models": [
+          "Ariya",
+          "Pathfinder",
+          "Altima"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Lexus",
+        "model": "RC",
+        "category": "luxury",
+        "price_range": "premium"
+      }
+    },
+    {
+      "id": "scenario_024",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Charlotte Auto Group (Charlotte, West Region)\n        Dealer Specialties: Commercial Vehicles, Luxury Vehicles, Parts & Accessories\n        Dealer Focus: truck, luxury\n        \n        OEM: Hyundai\n        Available Models: Genesis, Ioniq 5, Tucson\n        Target Markets: Business, Performance, Family, Eco-Friendly\n        \n        Vehicle Context: 2022 BMW X7\n        Category: suv\n        Features: Automatic Transmission, Lane Departure Warning, All-Wheel Drive, Remote Start, Cruise Control\n        Price Range: luxury\n        \n        Scenario: Hyundai technical support assists Charlotte Auto Group with X7 diagnostic procedures.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "suv",
+        "year_established": 2009,
+        "certified": false,
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ],
+        "full_description": "Charlotte Auto Group is a Hyundai dealership in the West region specializing in Commercial Vehicles, Luxury Vehicles, Parts & Accessories. Engaged in technical support activities with Hyundai to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, West Region. Phone: (402) 608-6947. Email: contact@charlotteauto.com. Hours: Mon-Sat 8AM-9PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2009, served over 17,571 customers, 95% satisfaction rating",
+        "detailed_specs": "47,880 sq ft facility, 15 service bays, certified technicians: 27, sales staff: 10"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, West Region",
+        "region": "West",
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Hyundai",
+        "models": [
+          "Genesis",
+          "Ioniq 5",
+          "Tucson"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "BMW",
+        "model": "X7",
+        "category": "suv",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_025",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Indianapolis Auto Group (Indianapolis, West Region)\n        Dealer Specialties: Luxury Vehicles, Service & Maintenance, New Vehicle Sales, Commercial Vehicles\n        Dealer Focus: truck\n        \n        OEM: Subaru\n        Available Models: Forester, Impreza, Outback\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2022 BMW 3 Series\n        Category: sedan\n        Features: Leather Interior, Heated Seats, Lane Departure Warning, Parking Sensors, Automatic Transmission\n        Price Range: luxury\n        \n        Scenario: Customer satisfaction feedback from Indianapolis Auto Group to Subaru regarding 3 Series performance.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Subaru",
+        "vehicle_category": "sedan",
+        "year_established": 2013,
+        "certified": false,
+        "specialties": [
+          "Service & Maintenance",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Indianapolis Auto Group is a Subaru dealership in the West region specializing in Luxury Vehicles, Service & Maintenance, New Vehicle Sales, Commercial Vehicles. Engaged in customer feedback activities with Subaru to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Indianapolis Auto Group, Indianapolis, West Region. Phone: (612) 372-1429. Email: contact@indianapolisauto.com. Hours: Mon-Sat 9AM-7PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2013, served over 35,232 customers, 95% satisfaction rating",
+        "detailed_specs": "25,731 sq ft facility, 19 service bays, certified technicians: 26, sales staff: 25"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Indianapolis Auto Group",
+        "location": "Indianapolis, West Region",
+        "region": "West",
+        "specialties": [
+          "Luxury Vehicles",
+          "Service & Maintenance",
+          "New Vehicle Sales",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Subaru",
+        "models": [
+          "Forester",
+          "Impreza",
+          "Outback"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "BMW",
+        "model": "3 Series",
+        "category": "sedan",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_026",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: San Antonio Auto Group (San Antonio, North Region)\n        Dealer Specialties: Luxury Vehicles, Electric Vehicles, Service & Maintenance\n        Dealer Focus: electric, luxury, suv\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2020 Nissan Kicks\n        Category: compact\n        Features: Adaptive Cruise Control, Cruise Control, Premium Sound System, Leather Interior, Keyless Entry\n        Price Range: mid-range\n        \n        Scenario: Customer satisfaction feedback from San Antonio Auto Group to Volkswagen regarding Kicks performance.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "compact",
+        "year_established": 2010,
+        "certified": false,
+        "specialties": [
+          "Luxury Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "San Antonio Auto Group is a Volkswagen dealership in the North region specializing in Luxury Vehicles, Electric Vehicles, Service & Maintenance. Engaged in customer feedback activities with Volkswagen to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "San Antonio Auto Group, San Antonio, North Region. Phone: (811) 558-9060. Email: contact@sanantonioauto.com. Hours: Mon-Sat 8AM-9PM, Sun 12AM-5PM",
+        "service_history": "Operating since 2010, served over 22,558 customers, 92% satisfaction rating",
+        "detailed_specs": "60,660 sq ft facility, 12 service bays, certified technicians: 30, sales staff: 25"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "San Antonio Auto Group",
+        "location": "San Antonio, North Region",
+        "region": "North",
+        "specialties": [
+          "Luxury Vehicles",
+          "Electric Vehicles",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Nissan",
+        "model": "Kicks",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_027",
+      "text": "Interaction Type: Warranty Claim\n        \n        Dealer: Portland Auto Group (Portland, North Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Subaru\n        Available Models: Forester, Impreza, Outback\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2021 Nissan Maxima\n        Category: sedan\n        Features: Cruise Control, Leather Interior, Remote Start, Sunroof, All-Wheel Drive\n        Price Range: mid-range\n        \n        Scenario: Portland Auto Group processes warranty claim for 2021 Nissan Maxima customer issue.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Subaru",
+        "vehicle_category": "sedan",
+        "year_established": 2010,
+        "certified": true,
+        "specialties": [
+          "Electric Vehicles",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Portland Auto Group is a Subaru dealership in the North region specializing in Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles. Processing warranty claims for 2021 Nissan Maxima vehicles with comprehensive customer support. The dealership focuses on mid-range price range vehicles and serves the Young Professionals demographic.",
+        "contact_details": "Portland Auto Group, Portland, North Region. Phone: (909) 649-9407. Email: contact@portlandauto.com. Hours: Mon-Sat 9AM-7PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2010, served over 30,001 customers, 91% satisfaction rating, processes 316 warranty claims annually",
+        "detailed_specs": "58,375 sq ft facility, 14 service bays, certified technicians: 37, sales staff: 10"
+      },
+      "interaction_type": "Warranty Claim",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, North Region",
+        "region": "North",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Subaru",
+        "models": [
+          "Forester",
+          "Impreza",
+          "Outback"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Nissan",
+        "model": "Maxima",
+        "category": "sedan",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_028",
+      "text": "Interaction Type: Promotional Campaign\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Fleet Sales, Collision Repair, Commercial Vehicles\n        Dealer Focus: sedan, suv\n        \n        OEM: Subaru\n        Available Models: Forester, Impreza, Outback\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2021 Subaru Crosstrek\n        Category: compact\n        Features: Sunroof, GPS Navigation, Premium Sound System, Lane Departure Warning, Leather Interior\n        Price Range: mid-range\n        \n        Scenario: Seasonal promotion planning between Louisville Auto Group and Subaru for compact vehicles.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Subaru",
+        "vehicle_category": "compact",
+        "year_established": 2008,
+        "certified": true,
+        "specialties": [
+          "Commercial Vehicles",
+          "Fleet Sales"
+        ],
+        "full_description": "Louisville Auto Group is a Subaru dealership in the South region specializing in Fleet Sales, Collision Repair, Commercial Vehicles. Engaged in promotional campaign activities with Subaru to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (324) 776-1695. Email: contact@louisvilleauto.com. Hours: Mon-Sat 7AM-9PM, Sun 12AM-6PM",
+        "service_history": "Operating since 2008, served over 19,677 customers, 93% satisfaction rating",
+        "detailed_specs": "49,365 sq ft facility, 30 service bays, certified technicians: 30, sales staff: 23"
+      },
+      "interaction_type": "Promotional Campaign",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Fleet Sales",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Subaru",
+        "models": [
+          "Forester",
+          "Impreza",
+          "Outback"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_029",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Charlotte Auto Group (Charlotte, West Region)\n        Dealer Specialties: Commercial Vehicles, Luxury Vehicles, Parts & Accessories\n        Dealer Focus: truck, luxury\n        \n        OEM: Nissan\n        Available Models: Ariya, Pathfinder, Altima\n        Target Markets: Commercial, Business, Performance\n        \n        Vehicle Context: 2020 Ford Escape\n        Category: suv\n        Features: USB Ports, Cruise Control, Sunroof, Leather Interior\n        Price Range: economy\n        \n        Scenario: Nissan technical support assists Charlotte Auto Group with Escape diagnostic procedures.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Nissan",
+        "vehicle_category": "suv",
+        "year_established": 2007,
+        "certified": true,
+        "specialties": [
+          "Commercial Vehicles",
+          "Parts & Accessories"
+        ],
+        "full_description": "Charlotte Auto Group is a Nissan dealership in the West region specializing in Commercial Vehicles, Luxury Vehicles, Parts & Accessories. Engaged in technical support activities with Nissan to enhance customer experience. The dealership focuses on economy price range vehicles and serves the Seniors demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, West Region. Phone: (402) 608-6947. Email: contact@charlotteauto.com. Hours: Mon-Sat 9AM-8PM, Sun 11AM-6PM",
+        "service_history": "Operating since 2007, served over 24,789 customers, 91% satisfaction rating",
+        "detailed_specs": "58,570 sq ft facility, 19 service bays, certified technicians: 35, sales staff: 20"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, West Region",
+        "region": "West",
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Nissan",
+        "models": [
+          "Ariya",
+          "Pathfinder",
+          "Altima"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Ford",
+        "model": "Escape",
+        "category": "suv",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_030",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: San Diego Auto Group (San Diego, West Region)\n        Dealer Specialties: Electric Vehicles, Used Vehicle Sales, New Vehicle Sales, Commercial Vehicles\n        Dealer Focus: suv, sedan, electric\n        \n        OEM: Hyundai\n        Available Models: Genesis, Ioniq 5, Tucson\n        Target Markets: Business, Performance, Family, Eco-Friendly\n        \n        Vehicle Context: 2021 Mazda Mazda2\n        Category: compact\n        Features: Automatic Transmission, Backup Camera, Premium Sound System, Remote Start, Parking Sensors\n        Price Range: mid-range\n        \n        Scenario: Emergency parts order from San Diego Auto Group to Hyundai for compact vehicle repairs.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "compact",
+        "year_established": 2011,
+        "certified": true,
+        "specialties": [
+          "New Vehicle Sales",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "San Diego Auto Group is a Hyundai dealership in the West region specializing in Electric Vehicles, Used Vehicle Sales, New Vehicle Sales, Commercial Vehicles. Maintaining extensive parts inventory for Hyundai vehicles with rapid order fulfillment capabilities. The dealership focuses on mid-range price range vehicles and serves the Families demographic.",
+        "contact_details": "San Diego Auto Group, San Diego, West Region. Phone: (877) 606-7052. Email: contact@sandiegoauto.com. Hours: Mon-Sat 9AM-9PM, Sun 12AM-5PM",
+        "service_history": "Operating since 2011, served over 45,390 customers, 89% satisfaction rating",
+        "detailed_specs": "64,006 sq ft facility, 30 service bays, certified technicians: 20, sales staff: 21"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "San Diego Auto Group",
+        "location": "San Diego, West Region",
+        "region": "West",
+        "specialties": [
+          "Electric Vehicles",
+          "Used Vehicle Sales",
+          "New Vehicle Sales",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Hyundai",
+        "models": [
+          "Genesis",
+          "Ioniq 5",
+          "Tucson"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Mazda",
+        "model": "Mazda2",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_031",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Phoenix Auto Group (Phoenix, Central Region)\n        Dealer Specialties: Electric Vehicles, New Vehicle Sales, Service & Maintenance\n        Dealer Focus: luxury, suv, sedan\n        \n        OEM: Nissan\n        Available Models: Ariya, Pathfinder, Altima\n        Target Markets: Commercial, Business, Performance\n        \n        Vehicle Context: 2020 Audi e-tron\n        Category: electric\n        Features: Adaptive Cruise Control, Sunroof, Lane Departure Warning, Parking Sensors, USB Ports\n        Price Range: luxury\n        \n        Scenario: Nissan technical support assists Phoenix Auto Group with e-tron diagnostic procedures.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Nissan",
+        "vehicle_category": "electric",
+        "year_established": 2023,
+        "certified": true,
+        "specialties": [
+          "Electric Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "Phoenix Auto Group is a Nissan dealership in the Central region specializing in Electric Vehicles, New Vehicle Sales, Service & Maintenance. Engaged in technical support activities with Nissan to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Seniors demographic.",
+        "contact_details": "Phoenix Auto Group, Phoenix, Central Region. Phone: (458) 673-3123. Email: contact@phoenixauto.com. Hours: Mon-Sat 7AM-7PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2023, served over 5,668 customers, 96% satisfaction rating",
+        "detailed_specs": "68,279 sq ft facility, 23 service bays, certified technicians: 17, sales staff: 9, 19 charging stations"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Phoenix Auto Group",
+        "location": "Phoenix, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Electric Vehicles",
+          "New Vehicle Sales",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Nissan",
+        "models": [
+          "Ariya",
+          "Pathfinder",
+          "Altima"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Audi",
+        "model": "e-tron",
+        "category": "electric",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_032",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: San Antonio Auto Group (San Antonio, North Region)\n        Dealer Specialties: Luxury Vehicles, Electric Vehicles, Service & Maintenance\n        Dealer Focus: electric, luxury, suv\n        \n        OEM: Ford\n        Available Models: Bronco, Escape, F-150\n        Target Markets: Family, Performance\n        \n        Vehicle Context: 2021 BMW X5\n        Category: suv\n        Features: Cruise Control, Wireless Charging, USB Ports, GPS Navigation, Lane Departure Warning\n        Price Range: premium\n        \n        Scenario: Emergency parts order from San Antonio Auto Group to Ford for suv vehicle repairs.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Ford",
+        "vehicle_category": "suv",
+        "year_established": 2009,
+        "certified": true,
+        "specialties": [
+          "Luxury Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "San Antonio Auto Group is a Ford dealership in the North region specializing in Luxury Vehicles, Electric Vehicles, Service & Maintenance. Maintaining extensive parts inventory for Ford vehicles with rapid order fulfillment capabilities. The dealership focuses on premium price range vehicles and serves the Families demographic.",
+        "contact_details": "San Antonio Auto Group, San Antonio, North Region. Phone: (811) 558-9060. Email: contact@sanantonioauto.com. Hours: Mon-Sat 7AM-9PM, Sun 11AM-6PM",
+        "service_history": "Operating since 2009, served over 40,032 customers, 96% satisfaction rating",
+        "detailed_specs": "68,312 sq ft facility, 13 service bays, certified technicians: 31, sales staff: 17"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "San Antonio Auto Group",
+        "location": "San Antonio, North Region",
+        "region": "North",
+        "specialties": [
+          "Luxury Vehicles",
+          "Electric Vehicles",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Ford",
+        "models": [
+          "Bronco",
+          "Escape",
+          "F-150"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "BMW",
+        "model": "X5",
+        "category": "suv",
+        "price_range": "premium"
+      }
+    },
+    {
+      "id": "scenario_033",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: Fort Worth Auto Group (Fort Worth, West Region)\n        Dealer Specialties: Electric Vehicles, Parts & Accessories, Collision Repair, Service & Maintenance\n        Dealer Focus: truck, sedan\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2021 Subaru Crosstrek\n        Category: compact\n        Features: Leather Interior, Cruise Control, Heated Seats, Bluetooth Connectivity, Premium Sound System\n        Price Range: economy\n        \n        Scenario: Joint marketing campaign between Fort Worth Auto Group and Toyota targeting Students demographic.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Toyota",
+        "vehicle_category": "compact",
+        "year_established": 2014,
+        "certified": true,
+        "specialties": [
+          "Parts & Accessories",
+          "Electric Vehicles"
+        ],
+        "full_description": "Fort Worth Auto Group is a Toyota dealership in the West region specializing in Electric Vehicles, Parts & Accessories, Collision Repair, Service & Maintenance. Collaborating with Toyota on promotional campaigns targeting Students customers. The dealership focuses on economy price range vehicles and serves the Students demographic.",
+        "contact_details": "Fort Worth Auto Group, Fort Worth, West Region. Phone: (568) 822-6622. Email: contact@fortworthauto.com. Hours: Mon-Sat 9AM-7PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2014, served over 48,319 customers, 91% satisfaction rating, marketing partnership with Toyota for 8 years",
+        "detailed_specs": "28,372 sq ft facility, 24 service bays, certified technicians: 11, sales staff: 22"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "Fort Worth Auto Group",
+        "location": "Fort Worth, West Region",
+        "region": "West",
+        "specialties": [
+          "Electric Vehicles",
+          "Parts & Accessories",
+          "Collision Repair",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "category": "compact",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_034",
+      "text": "Interaction Type: Parts Order\n        \n        Dealer: Portland Auto Group (Portland, North Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Kia\n        Available Models: Telluride, Sorento, EV6\n        Target Markets: Business, Eco-Friendly, Luxury\n        \n        Vehicle Context: 2021 Mercedes-Benz GLA\n        Category: suv\n        Features: Wireless Charging, Adaptive Cruise Control, Parking Sensors, Bluetooth Connectivity, Lane Departure Warning\n        Price Range: luxury\n        \n        Scenario: Emergency parts order from Portland Auto Group to Kia for suv vehicle repairs.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "Kia",
+        "vehicle_category": "suv",
+        "year_established": 2009,
+        "certified": true,
+        "specialties": [
+          "Service & Maintenance",
+          "Luxury Vehicles"
+        ],
+        "full_description": "Portland Auto Group is a Kia dealership in the North region specializing in Service & Maintenance, Electric Vehicles, Commercial Vehicles, Luxury Vehicles. Maintaining extensive parts inventory for Kia vehicles with rapid order fulfillment capabilities. The dealership focuses on luxury price range vehicles and serves the Seniors demographic.",
+        "contact_details": "Portland Auto Group, Portland, North Region. Phone: (909) 649-9407. Email: contact@portlandauto.com. Hours: Mon-Sat 8AM-8PM, Sun 11AM-7PM",
+        "service_history": "Operating since 2009, served over 13,220 customers, 95% satisfaction rating",
+        "detailed_specs": "63,366 sq ft facility, 32 service bays, certified technicians: 19, sales staff: 18"
+      },
+      "interaction_type": "Parts Order",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, North Region",
+        "region": "North",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "Commercial Vehicles",
+          "Luxury Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Kia",
+        "models": [
+          "Telluride",
+          "Sorento",
+          "EV6"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Mercedes-Benz",
+        "model": "GLA",
+        "category": "suv",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_035",
+      "text": "Interaction Type: Sales Inquiry\n        \n        Dealer: Charlotte Auto Group (Charlotte, West Region)\n        Dealer Specialties: Commercial Vehicles, Luxury Vehicles, Parts & Accessories\n        Dealer Focus: truck, luxury\n        \n        OEM: Audi\n        Available Models: Q5, R8, Q3\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2021 Mazda CX-9\n        Category: suv\n        Features: Remote Start, All-Wheel Drive, Automatic Transmission, Backup Camera, Wireless Charging\n        Price Range: mid-range\n        \n        Scenario: Customer inquiry at Charlotte Auto Group about Audi suv options in mid-range range.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Audi",
+        "vehicle_category": "suv",
+        "year_established": 2006,
+        "certified": false,
+        "specialties": [
+          "Parts & Accessories",
+          "Luxury Vehicles"
+        ],
+        "full_description": "Charlotte Auto Group is a Audi dealership in the West region specializing in Commercial Vehicles, Luxury Vehicles, Parts & Accessories. Engaged in sales inquiry activities with Audi to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, West Region. Phone: (402) 608-6947. Email: contact@charlotteauto.com. Hours: Mon-Sat 9AM-8PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2006, served over 27,643 customers, 97% satisfaction rating",
+        "detailed_specs": "47,286 sq ft facility, 11 service bays, certified technicians: 10, sales staff: 10"
+      },
+      "interaction_type": "Sales Inquiry",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, West Region",
+        "region": "West",
+        "specialties": [
+          "Commercial Vehicles",
+          "Luxury Vehicles",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Audi",
+        "models": [
+          "Q5",
+          "R8",
+          "Q3"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Mazda",
+        "model": "CX-9",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_036",
+      "text": "Interaction Type: Service Training\n        \n        Dealer: Phoenix Auto Group (Phoenix, Central Region)\n        Dealer Specialties: Electric Vehicles, New Vehicle Sales, Service & Maintenance\n        Dealer Focus: luxury, suv, sedan\n        \n        OEM: Audi\n        Available Models: Q5, R8, Q3\n        Target Markets: Eco-Friendly, Business\n        \n        Vehicle Context: 2022 Ford F-250\n        Category: truck\n        Features: Bluetooth Connectivity, Leather Interior, All-Wheel Drive, Lane Departure Warning, Automatic Transmission\n        Price Range: mid-range\n        \n        Scenario: Audi provides technical training to Phoenix Auto Group service team on F-250 maintenance procedures.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Audi",
+        "vehicle_category": "truck",
+        "year_established": 2011,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Service & Maintenance"
+        ],
+        "full_description": "Phoenix Auto Group is a Audi dealership in the Central region specializing in Electric Vehicles, New Vehicle Sales, Service & Maintenance. Participating in Audi technical training programs for F-250 maintenance and repair procedures. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Phoenix Auto Group, Phoenix, Central Region. Phone: (458) 673-3123. Email: contact@phoenixauto.com. Hours: Mon-Sat 9AM-8PM, Sun 12AM-5PM",
+        "service_history": "Operating since 2011, served over 19,217 customers, 88% satisfaction rating, certified Audi service partner since 2021",
+        "detailed_specs": "29,686 sq ft facility, 35 service bays, certified technicians: 22, sales staff: 12, parts warehouse: 24,033 sq ft"
+      },
+      "interaction_type": "Service Training",
+      "dealer_info": {
+        "name": "Phoenix Auto Group",
+        "location": "Phoenix, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Electric Vehicles",
+          "New Vehicle Sales",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Audi",
+        "models": [
+          "Q5",
+          "R8",
+          "Q3"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "Ford",
+        "model": "F-250",
+        "category": "truck",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_037",
+      "text": "Interaction Type: Marketing Collaboration\n        \n        Dealer: Denver Auto Group (Denver, South Region)\n        Dealer Specialties: Service & Maintenance, Electric Vehicles, New Vehicle Sales\n        Dealer Focus: electric, compact\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2021 Subaru Crosstrek\n        Category: compact\n        Features: Sunroof, Automatic Transmission, Heated Seats, Wireless Charging, USB Ports\n        Price Range: mid-range\n        \n        Scenario: Joint marketing campaign between Denver Auto Group and Toyota targeting Suburban Families demographic.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Toyota",
+        "vehicle_category": "compact",
+        "year_established": 2022,
+        "certified": false,
+        "specialties": [
+          "Electric Vehicles",
+          "Service & Maintenance"
+        ],
+        "full_description": "Denver Auto Group is a Toyota dealership in the South region specializing in Service & Maintenance, Electric Vehicles, New Vehicle Sales. Collaborating with Toyota on promotional campaigns targeting Suburban Families customers. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Denver Auto Group, Denver, South Region. Phone: (720) 695-8602. Email: contact@denverauto.com. Hours: Mon-Sat 8AM-9PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2022, served over 22,217 customers, 86% satisfaction rating, marketing partnership with Toyota for 4 years",
+        "detailed_specs": "41,751 sq ft facility, 15 service bays, certified technicians: 38, sales staff: 23"
+      },
+      "interaction_type": "Marketing Collaboration",
+      "dealer_info": {
+        "name": "Denver Auto Group",
+        "location": "Denver, South Region",
+        "region": "South",
+        "specialties": [
+          "Service & Maintenance",
+          "Electric Vehicles",
+          "New Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_038",
+      "text": "Interaction Type: Warranty Claim\n        \n        Dealer: San Diego Auto Group (San Diego, East Region)\n        Dealer Specialties: New Vehicle Sales, Commercial Vehicles, Performance Tuning, Fleet Sales\n        Dealer Focus: luxury, truck, compact\n        \n        OEM: Chevrolet\n        Available Models: Bolt EV, Equinox, Colorado\n        Target Markets: Luxury, Eco-Friendly, Commercial\n        \n        Vehicle Context: 2022 Toyota 4Runner\n        Category: suv\n        Features: Adaptive Cruise Control, Wireless Charging, Bluetooth Connectivity, All-Wheel Drive, Remote Start\n        Price Range: mid-range\n        \n        Scenario: San Diego Auto Group processes warranty claim for 2022 Toyota 4Runner customer issue.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "suv",
+        "year_established": 2008,
+        "certified": true,
+        "specialties": [
+          "Commercial Vehicles",
+          "New Vehicle Sales"
+        ],
+        "full_description": "San Diego Auto Group is a Chevrolet dealership in the East region specializing in New Vehicle Sales, Commercial Vehicles, Performance Tuning, Fleet Sales. Processing warranty claims for 2022 Toyota 4Runner vehicles with comprehensive customer support. The dealership focuses on mid-range price range vehicles and serves the Families demographic.",
+        "contact_details": "San Diego Auto Group, San Diego, East Region. Phone: (592) 716-8734. Email: contact@sandiegoauto.com. Hours: Mon-Sat 9AM-7PM, Sun 12AM-6PM",
+        "service_history": "Operating since 2008, served over 26,239 customers, 87% satisfaction rating, processes 346 warranty claims annually",
+        "detailed_specs": "31,765 sq ft facility, 17 service bays, certified technicians: 9, sales staff: 7"
+      },
+      "interaction_type": "Warranty Claim",
+      "dealer_info": {
+        "name": "San Diego Auto Group",
+        "location": "San Diego, East Region",
+        "region": "East",
+        "specialties": [
+          "New Vehicle Sales",
+          "Commercial Vehicles",
+          "Performance Tuning",
+          "Fleet Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Chevrolet",
+        "models": [
+          "Bolt EV",
+          "Equinox",
+          "Colorado"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2022,
+        "make": "Toyota",
+        "model": "4Runner",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_039",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Milwaukee Auto Group (Milwaukee, West Region)\n        Dealer Specialties: Fleet Sales, Performance Tuning, Commercial Vehicles, New Vehicle Sales\n        Dealer Focus: electric, suv, sedan\n        \n        OEM: Toyota\n        Available Models: Prius Prime, Highlander, bZ4X\n        Target Markets: Eco-Friendly, Performance, Commercial, Luxury\n        \n        Vehicle Context: 2021 Toyota Prius Prime\n        Category: electric\n        Features: Remote Start, Heated Seats, Sunroof, Collision Detection, Keyless Entry\n        Price Range: economy\n        \n        Scenario: Customer satisfaction feedback from Milwaukee Auto Group to Toyota regarding Prius Prime performance.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Toyota",
+        "vehicle_category": "electric",
+        "year_established": 2016,
+        "certified": false,
+        "specialties": [
+          "New Vehicle Sales",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Milwaukee Auto Group is a Toyota dealership in the West region specializing in Fleet Sales, Performance Tuning, Commercial Vehicles, New Vehicle Sales. Engaged in customer feedback activities with Toyota to enhance customer experience. The dealership focuses on economy price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Milwaukee Auto Group, Milwaukee, West Region. Phone: (400) 289-8213. Email: contact@milwaukeeauto.com. Hours: Mon-Sat 9AM-8PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2016, served over 11,233 customers, 89% satisfaction rating",
+        "detailed_specs": "28,175 sq ft facility, 25 service bays, certified technicians: 16, sales staff: 19, 15 charging stations"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Milwaukee Auto Group",
+        "location": "Milwaukee, West Region",
+        "region": "West",
+        "specialties": [
+          "Fleet Sales",
+          "Performance Tuning",
+          "Commercial Vehicles",
+          "New Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Toyota",
+        "models": [
+          "Prius Prime",
+          "Highlander",
+          "bZ4X"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "category": "electric",
+        "price_range": "economy"
+      }
+    },
+    {
+      "id": "scenario_040",
+      "text": "Interaction Type: Quality Issue Report\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Performance Tuning, Collision Repair, Commercial Vehicles\n        Dealer Focus: suv\n        \n        OEM: Hyundai\n        Available Models: Genesis, Ioniq 5, Tucson\n        Target Markets: Business, Performance, Family, Eco-Friendly\n        \n        Vehicle Context: 2021 BMW i3\n        Category: electric\n        Features: Sunroof, Keyless Entry, All-Wheel Drive, Backup Camera, Wireless Charging\n        Price Range: luxury\n        \n        Scenario: Louisville Auto Group reports quality concerns to Hyundai about 2021 i3 production batch.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "electric",
+        "year_established": 2009,
+        "certified": true,
+        "specialties": [
+          "Collision Repair",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Louisville Auto Group is a Hyundai dealership in the South region specializing in Performance Tuning, Collision Repair, Commercial Vehicles. Engaged in quality issue report activities with Hyundai to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (310) 973-1728. Email: contact@louisvilleauto.com. Hours: Mon-Sat 9AM-8PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2009, served over 25,978 customers, 92% satisfaction rating",
+        "detailed_specs": "71,164 sq ft facility, 35 service bays, certified technicians: 10, sales staff: 24, 18 charging stations"
+      },
+      "interaction_type": "Quality Issue Report",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Performance Tuning",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Hyundai",
+        "models": [
+          "Genesis",
+          "Ioniq 5",
+          "Tucson"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "BMW",
+        "model": "i3",
+        "category": "electric",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_041",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Portland Auto Group (Portland, West Region)\n        Dealer Specialties: New Vehicle Sales, Electric Vehicles\n        Dealer Focus: sedan\n        \n        OEM: Nissan\n        Available Models: Ariya, Pathfinder, Altima\n        Target Markets: Commercial, Business, Performance\n        \n        Vehicle Context: 2020 Toyota RAV4\n        Category: suv\n        Features: All-Wheel Drive, Parking Sensors, Lane Departure Warning, Remote Start, Cruise Control\n        Price Range: mid-range\n        \n        Scenario: Nissan technical support assists Portland Auto Group with RAV4 diagnostic procedures.",
+      "metadata": {
+        "region": "West",
+        "manufacturer": "Nissan",
+        "vehicle_category": "suv",
+        "year_established": 2023,
+        "certified": true,
+        "specialties": [
+          "Electric Vehicles",
+          "New Vehicle Sales"
+        ],
+        "full_description": "Portland Auto Group is a Nissan dealership in the West region specializing in New Vehicle Sales, Electric Vehicles. Engaged in technical support activities with Nissan to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Urban Commuters demographic.",
+        "contact_details": "Portland Auto Group, Portland, West Region. Phone: (597) 503-3607. Email: contact@portlandauto.com. Hours: Mon-Sat 7AM-9PM, Sun 11AM-6PM",
+        "service_history": "Operating since 2023, served over 40,797 customers, 96% satisfaction rating",
+        "detailed_specs": "61,640 sq ft facility, 20 service bays, certified technicians: 18, sales staff: 24"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Portland Auto Group",
+        "location": "Portland, West Region",
+        "region": "West",
+        "specialties": [
+          "New Vehicle Sales",
+          "Electric Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Nissan",
+        "models": [
+          "Ariya",
+          "Pathfinder",
+          "Altima"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Toyota",
+        "model": "RAV4",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_042",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Las Vegas Auto Group (Las Vegas, Central Region)\n        Dealer Specialties: Service & Maintenance, New Vehicle Sales, Parts & Accessories, Used Vehicle Sales\n        Dealer Focus: compact\n        \n        OEM: Lexus\n        Available Models: UX Hybrid, GX, LC\n        Target Markets: Performance, Commercial\n        \n        Vehicle Context: 2021 Mercedes-Benz GLA\n        Category: suv\n        Features: Wireless Charging, Adaptive Cruise Control, Parking Sensors, Bluetooth Connectivity, Lane Departure Warning\n        Price Range: luxury\n        \n        Scenario: Customer satisfaction feedback from Las Vegas Auto Group to Lexus regarding GLA performance.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Lexus",
+        "vehicle_category": "suv",
+        "year_established": 2012,
+        "certified": false,
+        "specialties": [
+          "Service & Maintenance",
+          "Used Vehicle Sales"
+        ],
+        "full_description": "Las Vegas Auto Group is a Lexus dealership in the Central region specializing in Service & Maintenance, New Vehicle Sales, Parts & Accessories, Used Vehicle Sales. Engaged in customer feedback activities with Lexus to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Seniors demographic.",
+        "contact_details": "Las Vegas Auto Group, Las Vegas, Central Region. Phone: (860) 316-8537. Email: contact@lasvegasauto.com. Hours: Mon-Sat 9AM-7PM, Sun 12AM-6PM",
+        "service_history": "Operating since 2012, served over 23,956 customers, 97% satisfaction rating",
+        "detailed_specs": "50,047 sq ft facility, 31 service bays, certified technicians: 38, sales staff: 24"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Las Vegas Auto Group",
+        "location": "Las Vegas, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Service & Maintenance",
+          "New Vehicle Sales",
+          "Parts & Accessories",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Lexus",
+        "models": [
+          "UX Hybrid",
+          "GX",
+          "LC"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Mercedes-Benz",
+        "model": "GLA",
+        "category": "suv",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_043",
+      "text": "Interaction Type: Service Training\n        \n        Dealer: Columbus Auto Group (Columbus, North Region)\n        Dealer Specialties: Performance Tuning, Service & Maintenance\n        Dealer Focus: sedan, luxury, truck\n        \n        OEM: BMW\n        Available Models: 3 Series, 5 Series, X5\n        Target Markets: Family, Performance, Business\n        \n        Vehicle Context: 2020 Volkswagen ID.4\n        Category: electric\n        Features: Leather Interior, Bluetooth Connectivity, Automatic Transmission, All-Wheel Drive\n        Price Range: mid-range\n        \n        Scenario: BMW provides technical training to Columbus Auto Group service team on ID.4 maintenance procedures.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "BMW",
+        "vehicle_category": "electric",
+        "year_established": 2016,
+        "certified": true,
+        "specialties": [
+          "Service & Maintenance",
+          "Performance Tuning"
+        ],
+        "full_description": "Columbus Auto Group is a BMW dealership in the North region specializing in Performance Tuning, Service & Maintenance. Participating in BMW technical training programs for ID.4 maintenance and repair procedures. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Columbus Auto Group, Columbus, North Region. Phone: (877) 288-6813. Email: contact@columbusauto.com. Hours: Mon-Sat 8AM-9PM, Sun 10AM-5PM",
+        "service_history": "Operating since 2016, served over 32,805 customers, 92% satisfaction rating, certified BMW service partner since 2023",
+        "detailed_specs": "30,206 sq ft facility, 16 service bays, certified technicians: 13, sales staff: 19, 13 charging stations"
+      },
+      "interaction_type": "Service Training",
+      "dealer_info": {
+        "name": "Columbus Auto Group",
+        "location": "Columbus, North Region",
+        "region": "North",
+        "specialties": [
+          "Performance Tuning",
+          "Service & Maintenance"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "BMW",
+        "models": [
+          "3 Series",
+          "5 Series",
+          "X5"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Volkswagen",
+        "model": "ID.4",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_044",
+      "text": "Interaction Type: Quality Issue Report\n        \n        Dealer: San Diego Auto Group (San Diego, East Region)\n        Dealer Specialties: New Vehicle Sales, Commercial Vehicles, Performance Tuning, Fleet Sales\n        Dealer Focus: luxury, truck, compact\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2024 Nissan Leaf\n        Category: electric\n        Features: Parking Sensors, Leather Interior, Collision Detection, Backup Camera, Heated Seats\n        Price Range: mid-range\n        \n        Scenario: San Diego Auto Group reports quality concerns to Volkswagen about 2024 Leaf production batch.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "electric",
+        "year_established": 2013,
+        "certified": true,
+        "specialties": [
+          "Performance Tuning",
+          "New Vehicle Sales"
+        ],
+        "full_description": "San Diego Auto Group is a Volkswagen dealership in the East region specializing in New Vehicle Sales, Commercial Vehicles, Performance Tuning, Fleet Sales. Engaged in quality issue report activities with Volkswagen to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Students demographic.",
+        "contact_details": "San Diego Auto Group, San Diego, East Region. Phone: (592) 716-8734. Email: contact@sandiegoauto.com. Hours: Mon-Sat 7AM-8PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2013, served over 7,487 customers, 95% satisfaction rating",
+        "detailed_specs": "68,766 sq ft facility, 19 service bays, certified technicians: 14, sales staff: 11, 17 charging stations"
+      },
+      "interaction_type": "Quality Issue Report",
+      "dealer_info": {
+        "name": "San Diego Auto Group",
+        "location": "San Diego, East Region",
+        "region": "East",
+        "specialties": [
+          "New Vehicle Sales",
+          "Commercial Vehicles",
+          "Performance Tuning",
+          "Fleet Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Nissan",
+        "model": "Leaf",
+        "category": "electric",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_045",
+      "text": "Interaction Type: Inventory Request\n        \n        Dealer: Boston Auto Group (Boston, Central Region)\n        Dealer Specialties: Performance Tuning, Commercial Vehicles, New Vehicle Sales, Used Vehicle Sales\n        Dealer Focus: suv\n        \n        OEM: Ford\n        Available Models: Bronco, Escape, F-150\n        Target Markets: Family, Performance\n        \n        Vehicle Context: 2020 Mazda CX-3\n        Category: suv\n        Features: Collision Detection, Sunroof, GPS Navigation, Heated Seats, Cruise Control\n        Price Range: mid-range\n        \n        Scenario: Boston Auto Group requests suv inventory from Ford for Central region market demand.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Ford",
+        "vehicle_category": "suv",
+        "year_established": 2018,
+        "certified": true,
+        "specialties": [
+          "Used Vehicle Sales",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Boston Auto Group is a Ford dealership in the Central region specializing in Performance Tuning, Commercial Vehicles, New Vehicle Sales, Used Vehicle Sales. Currently requesting suv inventory to meet growing demand in the Central market. The dealership focuses on mid-range price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Boston Auto Group, Boston, Central Region. Phone: (252) 352-1069. Email: contact@bostonauto.com. Hours: Mon-Sat 9AM-8PM, Sun 10AM-7PM",
+        "service_history": "Operating since 2018, served over 6,251 customers, 97% satisfaction rating",
+        "detailed_specs": "44,039 sq ft facility, 25 service bays, certified technicians: 32, sales staff: 8"
+      },
+      "interaction_type": "Inventory Request",
+      "dealer_info": {
+        "name": "Boston Auto Group",
+        "location": "Boston, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Performance Tuning",
+          "Commercial Vehicles",
+          "New Vehicle Sales",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Ford",
+        "models": [
+          "Bronco",
+          "Escape",
+          "F-150"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Mazda",
+        "model": "CX-3",
+        "category": "suv",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_046",
+      "text": "Interaction Type: Promotional Campaign\n        \n        Dealer: Houston Auto Group (Houston, East Region)\n        Dealer Specialties: Fleet Sales, Commercial Vehicles, Used Vehicle Sales, Collision Repair\n        Dealer Focus: electric, compact, sedan\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2020 Mercedes-Benz GLA\n        Category: suv\n        Features: Cruise Control, Automatic Transmission, Heated Seats, Backup Camera\n        Price Range: premium\n        \n        Scenario: Seasonal promotion planning between Houston Auto Group and Volkswagen for suv vehicles.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "suv",
+        "year_established": 2012,
+        "certified": false,
+        "specialties": [
+          "Commercial Vehicles",
+          "Fleet Sales"
+        ],
+        "full_description": "Houston Auto Group is a Volkswagen dealership in the East region specializing in Fleet Sales, Commercial Vehicles, Used Vehicle Sales, Collision Repair. Engaged in promotional campaign activities with Volkswagen to enhance customer experience. The dealership focuses on premium price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Houston Auto Group, Houston, East Region. Phone: (755) 286-2981. Email: contact@houstonauto.com. Hours: Mon-Sat 7AM-9PM, Sun 12AM-6PM",
+        "service_history": "Operating since 2012, served over 24,347 customers, 92% satisfaction rating",
+        "detailed_specs": "46,356 sq ft facility, 23 service bays, certified technicians: 31, sales staff: 16"
+      },
+      "interaction_type": "Promotional Campaign",
+      "dealer_info": {
+        "name": "Houston Auto Group",
+        "location": "Houston, East Region",
+        "region": "East",
+        "specialties": [
+          "Fleet Sales",
+          "Commercial Vehicles",
+          "Used Vehicle Sales",
+          "Collision Repair"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2020,
+        "make": "Mercedes-Benz",
+        "model": "GLA",
+        "category": "suv",
+        "price_range": "premium"
+      }
+    },
+    {
+      "id": "scenario_047",
+      "text": "Interaction Type: Technical Support\n        \n        Dealer: Las Vegas Auto Group (Las Vegas, Central Region)\n        Dealer Specialties: Service & Maintenance, New Vehicle Sales, Parts & Accessories, Used Vehicle Sales\n        Dealer Focus: compact\n        \n        OEM: Mazda\n        Available Models: CX-5, CX-9, Mazda6\n        Target Markets: Eco-Friendly, Family, Performance\n        \n        Vehicle Context: 2021 Subaru Crosstrek\n        Category: compact\n        Features: Sunroof, GPS Navigation, Premium Sound System, Lane Departure Warning, Leather Interior\n        Price Range: mid-range\n        \n        Scenario: Mazda technical support assists Las Vegas Auto Group with Crosstrek diagnostic procedures.",
+      "metadata": {
+        "region": "Central",
+        "manufacturer": "Mazda",
+        "vehicle_category": "compact",
+        "year_established": 2016,
+        "certified": true,
+        "specialties": [
+          "Parts & Accessories",
+          "New Vehicle Sales"
+        ],
+        "full_description": "Las Vegas Auto Group is a Mazda dealership in the Central region specializing in Service & Maintenance, New Vehicle Sales, Parts & Accessories, Used Vehicle Sales. Engaged in technical support activities with Mazda to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Las Vegas Auto Group, Las Vegas, Central Region. Phone: (860) 316-8537. Email: contact@lasvegasauto.com. Hours: Mon-Sat 8AM-8PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2016, served over 40,489 customers, 85% satisfaction rating",
+        "detailed_specs": "32,508 sq ft facility, 26 service bays, certified technicians: 16, sales staff: 9"
+      },
+      "interaction_type": "Technical Support",
+      "dealer_info": {
+        "name": "Las Vegas Auto Group",
+        "location": "Las Vegas, Central Region",
+        "region": "Central",
+        "specialties": [
+          "Service & Maintenance",
+          "New Vehicle Sales",
+          "Parts & Accessories",
+          "Used Vehicle Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Mazda",
+        "models": [
+          "CX-5",
+          "CX-9",
+          "Mazda6"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "category": "compact",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_048",
+      "text": "Interaction Type: Promotional Campaign\n        \n        Dealer: Houston Auto Group (Houston, North Region)\n        Dealer Specialties: Service & Maintenance, Fleet Sales\n        Dealer Focus: electric, sedan, truck\n        \n        OEM: BMW\n        Available Models: 3 Series, 5 Series, X5\n        Target Markets: Family, Performance, Business\n        \n        Vehicle Context: 2021 Lexus LX\n        Category: suv\n        Features: Backup Camera, Lane Departure Warning, Sunroof, Adaptive Cruise Control, Automatic Transmission\n        Price Range: luxury\n        \n        Scenario: Seasonal promotion planning between Houston Auto Group and BMW for suv vehicles.",
+      "metadata": {
+        "region": "North",
+        "manufacturer": "BMW",
+        "vehicle_category": "suv",
+        "year_established": 2021,
+        "certified": false,
+        "specialties": [
+          "Service & Maintenance",
+          "Fleet Sales"
+        ],
+        "full_description": "Houston Auto Group is a BMW dealership in the North region specializing in Service & Maintenance, Fleet Sales. Engaged in promotional campaign activities with BMW to enhance customer experience. The dealership focuses on luxury price range vehicles and serves the Business Executives demographic.",
+        "contact_details": "Houston Auto Group, Houston, North Region. Phone: (910) 278-5039. Email: contact@houstonauto.com. Hours: Mon-Sat 7AM-9PM, Sun 12AM-7PM",
+        "service_history": "Operating since 2021, served over 44,682 customers, 99% satisfaction rating",
+        "detailed_specs": "42,470 sq ft facility, 13 service bays, certified technicians: 36, sales staff: 9"
+      },
+      "interaction_type": "Promotional Campaign",
+      "dealer_info": {
+        "name": "Houston Auto Group",
+        "location": "Houston, North Region",
+        "region": "North",
+        "specialties": [
+          "Service & Maintenance",
+          "Fleet Sales"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "BMW",
+        "models": [
+          "3 Series",
+          "5 Series",
+          "X5"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2021,
+        "make": "Lexus",
+        "model": "LX",
+        "category": "suv",
+        "price_range": "luxury"
+      }
+    },
+    {
+      "id": "scenario_049",
+      "text": "Interaction Type: Warranty Claim\n        \n        Dealer: Louisville Auto Group (Louisville, South Region)\n        Dealer Specialties: Performance Tuning, Collision Repair, Commercial Vehicles\n        Dealer Focus: suv\n        \n        OEM: Volkswagen\n        Available Models: Passat, ID.4, Golf\n        Target Markets: Family, Luxury\n        \n        Vehicle Context: 2024 Ford Fusion\n        Category: sedan\n        Features: Wireless Charging, All-Wheel Drive, GPS Navigation, Cruise Control, Sunroof\n        Price Range: mid-range\n        \n        Scenario: Louisville Auto Group processes warranty claim for 2024 Ford Fusion customer issue.",
+      "metadata": {
+        "region": "South",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "sedan",
+        "year_established": 2009,
+        "certified": false,
+        "specialties": [
+          "Collision Repair",
+          "Commercial Vehicles"
+        ],
+        "full_description": "Louisville Auto Group is a Volkswagen dealership in the South region specializing in Performance Tuning, Collision Repair, Commercial Vehicles. Processing warranty claims for 2024 Ford Fusion vehicles with comprehensive customer support. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Louisville Auto Group, Louisville, South Region. Phone: (310) 973-1728. Email: contact@louisvilleauto.com. Hours: Mon-Sat 8AM-9PM, Sun 11AM-6PM",
+        "service_history": "Operating since 2009, served over 21,870 customers, 93% satisfaction rating, processes 216 warranty claims annually",
+        "detailed_specs": "70,551 sq ft facility, 30 service bays, certified technicians: 40, sales staff: 5"
+      },
+      "interaction_type": "Warranty Claim",
+      "dealer_info": {
+        "name": "Louisville Auto Group",
+        "location": "Louisville, South Region",
+        "region": "South",
+        "specialties": [
+          "Performance Tuning",
+          "Collision Repair",
+          "Commercial Vehicles"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Volkswagen",
+        "models": [
+          "Passat",
+          "ID.4",
+          "Golf"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Ford",
+        "model": "Fusion",
+        "category": "sedan",
+        "price_range": "mid-range"
+      }
+    },
+    {
+      "id": "scenario_050",
+      "text": "Interaction Type: Customer Feedback\n        \n        Dealer: Charlotte Auto Group (Charlotte, East Region)\n        Dealer Specialties: Fleet Sales, Parts & Accessories\n        Dealer Focus: suv, luxury, compact\n        \n        OEM: Lexus\n        Available Models: UX Hybrid, GX, LC\n        Target Markets: Performance, Commercial\n        \n        Vehicle Context: 2024 Ford Fusion\n        Category: sedan\n        Features: Wireless Charging, All-Wheel Drive, GPS Navigation, Cruise Control, Sunroof\n        Price Range: mid-range\n        \n        Scenario: Customer satisfaction feedback from Charlotte Auto Group to Lexus regarding Fusion performance.",
+      "metadata": {
+        "region": "East",
+        "manufacturer": "Lexus",
+        "vehicle_category": "sedan",
+        "year_established": 2016,
+        "certified": true,
+        "specialties": [
+          "Parts & Accessories",
+          "Fleet Sales"
+        ],
+        "full_description": "Charlotte Auto Group is a Lexus dealership in the East region specializing in Fleet Sales, Parts & Accessories. Engaged in customer feedback activities with Lexus to enhance customer experience. The dealership focuses on mid-range price range vehicles and serves the Suburban Families demographic.",
+        "contact_details": "Charlotte Auto Group, Charlotte, East Region. Phone: (306) 929-1937. Email: contact@charlotteauto.com. Hours: Mon-Sat 7AM-9PM, Sun 10AM-6PM",
+        "service_history": "Operating since 2016, served over 20,408 customers, 99% satisfaction rating",
+        "detailed_specs": "71,293 sq ft facility, 34 service bays, certified technicians: 29, sales staff: 15"
+      },
+      "interaction_type": "Customer Feedback",
+      "dealer_info": {
+        "name": "Charlotte Auto Group",
+        "location": "Charlotte, East Region",
+        "region": "East",
+        "specialties": [
+          "Fleet Sales",
+          "Parts & Accessories"
+        ]
+      },
+      "oem_info": {
+        "manufacturer": "Lexus",
+        "models": [
+          "UX Hybrid",
+          "GX",
+          "LC"
+        ]
+      },
+      "vehicle_info": {
+        "year": 2024,
+        "make": "Ford",
+        "model": "Fusion",
+        "category": "sedan",
+        "price_range": "mid-range"
+      }
+    }
+  ]
+}

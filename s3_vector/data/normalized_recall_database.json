@@ -1,0 +1,1530 @@
+{
+  "RECALL-2021-001": {
+    "vin_patterns": [
+      "1FM5K8D*",
+      "1FTFW1ET*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "Mustang",
+      "F-150"
+    ],
+    "years": [
+      2018,
+      2019,
+      2020
+    ],
+    "description": "Fuel pump may fail causing engine stall",
+    "severity": "High",
+    "remedy": "Replace fuel pump assembly",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-24V-001",
+    "affected_vehicles": 208006,
+    "parts_needed": [
+      "FP-001",
+      "OPG-001",
+      "EM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-005",
+      "DEALER-029"
+    ]
+  },
+  "RECALL-2022-002": {
+    "vin_patterns": [
+      "5TDZA23C*",
+      "JTDKN3DP*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Corolla",
+      "Tacoma",
+      "Prius"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018
+    ],
+    "description": "Coolant leak may cause overheating",
+    "severity": "Medium",
+    "remedy": "Replace radiator hose",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-21V-002",
+    "affected_vehicles": 235038,
+    "parts_needed": [
+      "IM-001",
+      "EM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-030",
+      "DEALER-023",
+      "DEALER-013",
+      "DEALER-036"
+    ]
+  },
+  "RECALL-2020-003": {
+    "vin_patterns": [
+      "1FTFW1ET*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "F-150",
+      "Mustang"
+    ],
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "description": "Power window switches may malfunction",
+    "severity": "Low",
+    "remedy": "Replace window switch assembly",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-23V-003",
+    "affected_vehicles": 206968,
+    "parts_needed": [
+      "WH-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-015",
+      "DEALER-004",
+      "DEALER-034"
+    ]
+  },
+  "RECALL-2022-004": {
+    "vin_patterns": [
+      "2GNAXSEV*",
+      "1G1ZB5ST*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Equinox",
+      "Camaro",
+      "Corvette"
+    ],
+    "years": [
+      2018,
+      2019
+    ],
+    "description": "Radio may interfere with safety systems",
+    "severity": "Low",
+    "remedy": "Update radio software",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-22V-004",
+    "affected_vehicles": 68521,
+    "parts_needed": [
+      "HL-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-015",
+      "DEALER-047",
+      "DEALER-013",
+      "DEALER-040"
+    ]
+  },
+  "RECALL-2024-005": {
+    "vin_patterns": [
+      "WDC0G4HB*",
+      "W1KZF8DB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "GLS"
+    ],
+    "years": [
+      2015
+    ],
+    "description": "Coil springs may break",
+    "severity": "High",
+    "remedy": "Replace coil springs",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-23V-005",
+    "affected_vehicles": 46694,
+    "parts_needed": [
+      "SS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-034",
+      "DEALER-029",
+      "DEALER-026",
+      "DEALER-005"
+    ]
+  },
+  "RECALL-2024-006": {
+    "vin_patterns": [
+      "2T3BFREV*",
+      "4T1BF1FK*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Prius"
+    ],
+    "years": [
+      2018
+    ],
+    "description": "Stabilizer bar may crack",
+    "severity": "Medium",
+    "remedy": "Replace stabilizer bar",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-22V-006",
+    "affected_vehicles": 16343,
+    "parts_needed": [
+      "CS-001",
+      "BJ-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-002",
+      "DEALER-034",
+      "DEALER-013",
+      "DEALER-018"
+    ]
+  },
+  "RECALL-2021-007": {
+    "vin_patterns": [
+      "1HGBH41JXMM*",
+      "19XFC2F5*",
+      "1HGBH41JXMN*"
+    ],
+    "manufacturer": "Honda",
+    "models": [
+      "CR-V",
+      "Civic",
+      "Odyssey"
+    ],
+    "years": [
+      2016,
+      2017
+    ],
+    "description": "Stabilizer bar may crack",
+    "severity": "Medium",
+    "remedy": "Replace stabilizer bar",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-25V-007",
+    "affected_vehicles": 98036,
+    "parts_needed": [
+      "SBL-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-024",
+      "DEALER-008"
+    ]
+  },
+  "RECALL-2025-008": {
+    "vin_patterns": [
+      "1G1ZB5ST*",
+      "1GNSKCKC*",
+      "1GCRYDED*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Camaro",
+      "Traverse",
+      "Equinox"
+    ],
+    "years": [
+      2020
+    ],
+    "description": "Timing chain may break causing engine damage",
+    "severity": "High",
+    "remedy": "Replace timing chain and guides",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-23V-008",
+    "affected_vehicles": 139945,
+    "parts_needed": [
+      "TCA-001",
+      "RH-001",
+      "TC-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-020",
+      "DEALER-044",
+      "DEALER-019"
+    ]
+  },
+  "RECALL-2023-009": {
+    "vin_patterns": [
+      "4T1BF1FK*",
+      "JTDKN3DP*",
+      "5TDZA23C*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Prius",
+      "Camry",
+      "RAV4"
+    ],
+    "years": [
+      2019,
+      2020
+    ],
+    "description": "Brake pads may wear prematurely",
+    "severity": "High",
+    "remedy": "Replace brake pads and rotors",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-20V-009",
+    "affected_vehicles": 106238,
+    "parts_needed": [
+      "BP-001",
+      "ABS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-030",
+      "DEALER-007"
+    ]
+  },
+  "RECALL-2020-010": {
+    "vin_patterns": [
+      "2GNAXSEV*",
+      "1G1ZB5ST*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Malibu",
+      "Silverado",
+      "Traverse"
+    ],
+    "years": [
+      2015,
+      2016,
+      2017
+    ],
+    "description": "Torque converter may fail",
+    "severity": "High",
+    "remedy": "Replace torque converter",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-22V-010",
+    "affected_vehicles": 168747,
+    "parts_needed": [
+      "TS-001",
+      "TM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-015",
+      "DEALER-029"
+    ]
+  },
+  "RECALL-2022-011": {
+    "vin_patterns": [
+      "WBXHT910*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "X7",
+      "7 Series",
+      "Z4"
+    ],
+    "years": [
+      2017
+    ],
+    "description": "Tie rod ends may wear causing steering issues",
+    "severity": "High",
+    "remedy": "Replace tie rod ends",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-25V-011",
+    "affected_vehicles": 66436,
+    "parts_needed": [
+      "SB-001",
+      "BJ-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-034",
+      "DEALER-047",
+      "DEALER-029",
+      "DEALER-016"
+    ]
+  },
+  "RECALL-2020-012": {
+    "vin_patterns": [
+      "4JGDA5HB*",
+      "WDDGF4HB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "CLA",
+      "GLS"
+    ],
+    "years": [
+      2017,
+      2018
+    ],
+    "description": "Tie rod ends may wear causing steering issues",
+    "severity": "High",
+    "remedy": "Replace tie rod ends",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-22V-012",
+    "affected_vehicles": 60367,
+    "parts_needed": [
+      "CAB-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-048",
+      "DEALER-040",
+      "DEALER-003"
+    ]
+  },
+  "RECALL-2021-013": {
+    "vin_patterns": [
+      "1N4AL3AP*",
+      "3N1AB7AP*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Titan",
+      "Maxima"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018
+    ],
+    "description": "ECU software may cause erratic behavior",
+    "severity": "Medium",
+    "remedy": "Update ECU software",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-013",
+    "affected_vehicles": 126389,
+    "parts_needed": [
+      "RAD-001",
+      "WH-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-006",
+      "DEALER-013"
+    ]
+  },
+  "RECALL-2021-014": {
+    "vin_patterns": [
+      "5N1DR2MN*",
+      "5N1AT2MT*",
+      "1N4AL3AP*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Pathfinder",
+      "Maxima"
+    ],
+    "years": [
+      2020
+    ],
+    "description": "Parking brake may not engage properly",
+    "severity": "Medium",
+    "remedy": "Adjust parking brake cable",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-21V-014",
+    "affected_vehicles": 35663,
+    "parts_needed": [
+      "BC-001",
+      "BB-001",
+      "ABS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-043",
+      "DEALER-001"
+    ]
+  },
+  "RECALL-2020-015": {
+    "vin_patterns": [
+      "2T3BFREV*",
+      "JTDKN3DP*",
+      "4T1BF1FK*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "4Runner",
+      "Camry"
+    ],
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "description": "ABS system may malfunction",
+    "severity": "High",
+    "remedy": "Update ABS software and replace module",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-22V-015",
+    "affected_vehicles": 139696,
+    "parts_needed": [
+      "BMC-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-018",
+      "DEALER-047"
+    ]
+  },
+  "RECALL-2021-016": {
+    "vin_patterns": [
+      "1FTFW1ET*",
+      "1FM5K8D*",
+      "1FA6P8TH*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "Expedition"
+    ],
+    "years": [
+      2021
+    ],
+    "description": "Transmission may slip or fail to shift",
+    "severity": "High",
+    "remedy": "Replace transmission valve body",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-23V-016",
+    "affected_vehicles": 16651,
+    "parts_needed": [
+      "TS-001",
+      "TC-001",
+      "CVT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-015",
+      "DEALER-043"
+    ]
+  },
+  "RECALL-2022-017": {
+    "vin_patterns": [
+      "1FTFW1ET*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "Focus"
+    ],
+    "years": [
+      2019,
+      2020
+    ],
+    "description": "Transmission fluid may leak",
+    "severity": "Medium",
+    "remedy": "Replace transmission seals",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-20V-017",
+    "affected_vehicles": 57691,
+    "parts_needed": [
+      "TM-001",
+      "CVT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-045",
+      "DEALER-025",
+      "DEALER-005"
+    ]
+  },
+  "RECALL-2025-018": {
+    "vin_patterns": [
+      "W1KZF8DB*",
+      "WDC0G4HB*",
+      "WDDGF4HB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "E-Class",
+      "GLS"
+    ],
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "description": "Shock absorbers may fail",
+    "severity": "Medium",
+    "remedy": "Replace shock absorbers",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-21V-018",
+    "affected_vehicles": 193538,
+    "parts_needed": [
+      "SS-001",
+      "BJ-001",
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-046",
+      "DEALER-026",
+      "DEALER-049"
+    ]
+  },
+  "RECALL-2025-019": {
+    "vin_patterns": [
+      "2T3BFREV*",
+      "4T1BF1FK*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Tacoma",
+      "4Runner",
+      "Sienna"
+    ],
+    "years": [
+      2020,
+      2021,
+      2022
+    ],
+    "description": "ECU software may cause erratic behavior",
+    "severity": "Medium",
+    "remedy": "Update ECU software",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-019",
+    "affected_vehicles": 405199,
+    "parts_needed": [
+      "RAD-001",
+      "ECU-001",
+      "BAT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-014",
+      "DEALER-023",
+      "DEALER-015",
+      "DEALER-034"
+    ]
+  },
+  "RECALL-2020-020": {
+    "vin_patterns": [
+      "KM8SM4HF*",
+      "5NPE34AF*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Accent",
+      "Veloster"
+    ],
+    "years": [
+      2022,
+      2023,
+      2024
+    ],
+    "description": "Turbocharger may fail causing loss of power",
+    "severity": "High",
+    "remedy": "Replace turbocharger assembly",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-20V-020",
+    "affected_vehicles": 245281,
+    "parts_needed": [
+      "EM-001",
+      "OPG-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-042",
+      "DEALER-050",
+      "DEALER-002"
+    ]
+  },
+  "RECALL-2023-021": {
+    "vin_patterns": [
+      "4T1BF1FK*",
+      "5TDZA23C*",
+      "2T3BFREV*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "RAV4",
+      "Corolla"
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "description": "Turbocharger may fail causing loss of power",
+    "severity": "High",
+    "remedy": "Replace turbocharger assembly",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-21V-021",
+    "affected_vehicles": 114844,
+    "parts_needed": [
+      "TCA-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-027",
+      "DEALER-036",
+      "DEALER-025",
+      "DEALER-048"
+    ]
+  },
+  "RECALL-2024-022": {
+    "vin_patterns": [
+      "5N1AT2MT*",
+      "3N1AB7AP*",
+      "5N1DR2MN*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Pathfinder",
+      "Frontier",
+      "Titan"
+    ],
+    "years": [
+      2021,
+      2022
+    ],
+    "description": "Coolant leak may cause overheating",
+    "severity": "Medium",
+    "remedy": "Replace radiator hose",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-20V-022",
+    "affected_vehicles": 250921,
+    "parts_needed": [
+      "EM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-015",
+      "DEALER-017",
+      "DEALER-001",
+      "DEALER-023"
+    ]
+  },
+  "RECALL-2020-023": {
+    "vin_patterns": [
+      "WBXHT920*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "X5",
+      "X7"
+    ],
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "description": "Control arm bushings may wear prematurely",
+    "severity": "Medium",
+    "remedy": "Replace control arm bushings",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-21V-023",
+    "affected_vehicles": 250508,
+    "parts_needed": [
+      "TRE-001",
+      "SS-001",
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-030",
+      "DEALER-011",
+      "DEALER-014",
+      "DEALER-010"
+    ]
+  },
+  "RECALL-2021-024": {
+    "vin_patterns": [
+      "WBA8E1C0*",
+      "WBXHT920*",
+      "5UXCR6C0*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "5 Series",
+      "X3",
+      "X5"
+    ],
+    "years": [
+      2015,
+      2016
+    ],
+    "description": "Fuel pump may fail causing engine stall",
+    "severity": "High",
+    "remedy": "Replace fuel pump assembly",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-24V-024",
+    "affected_vehicles": 96317,
+    "parts_needed": [
+      "EM-001",
+      "TC-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-031",
+      "DEALER-049",
+      "DEALER-001",
+      "DEALER-012"
+    ]
+  },
+  "RECALL-2024-025": {
+    "vin_patterns": [
+      "2GNAXSEV*",
+      "1G1ZB5ST*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Corvette",
+      "Suburban",
+      "Camaro"
+    ],
+    "years": [
+      2023
+    ],
+    "description": "Starter may fail to engage",
+    "severity": "Medium",
+    "remedy": "Replace starter motor",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-025",
+    "affected_vehicles": 22979,
+    "parts_needed": [
+      "ECU-001",
+      "HL-001",
+      "WH-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-012",
+      "DEALER-033",
+      "DEALER-006"
+    ]
+  },
+  "RECALL-2022-026": {
+    "vin_patterns": [
+      "1GCRYDED*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Malibu",
+      "Camaro"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018
+    ],
+    "description": "Ball joints may separate causing loss of control",
+    "severity": "Critical",
+    "remedy": "Replace ball joints",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-22V-026",
+    "affected_vehicles": 238893,
+    "parts_needed": [
+      "SB-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-045",
+      "DEALER-034",
+      "DEALER-041"
+    ]
+  },
+  "RECALL-2021-027": {
+    "vin_patterns": [
+      "1GCRYDED*"
+    ],
+    "manufacturer": "Chevrolet",
+    "models": [
+      "Malibu",
+      "Equinox",
+      "Silverado"
+    ],
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "description": "Battery may overheat and leak",
+    "severity": "Critical",
+    "remedy": "Replace battery pack",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-20V-027",
+    "affected_vehicles": 81751,
+    "parts_needed": [
+      "BAT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-008",
+      "DEALER-011"
+    ]
+  },
+  "RECALL-2022-028": {
+    "vin_patterns": [
+      "1FM5K8D*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "Focus",
+      "Expedition",
+      "Edge"
+    ],
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "description": "Control arm bushings may wear prematurely",
+    "severity": "Medium",
+    "remedy": "Replace control arm bushings",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-25V-028",
+    "affected_vehicles": 368147,
+    "parts_needed": [
+      "SB-001",
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-013",
+      "DEALER-005",
+      "DEALER-017",
+      "DEALER-004"
+    ]
+  },
+  "RECALL-2023-029": {
+    "vin_patterns": [
+      "5NPE34AF*",
+      "KMHD14LA*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Santa Fe",
+      "Elantra",
+      "Tucson"
+    ],
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "description": "Coil springs may break",
+    "severity": "High",
+    "remedy": "Replace coil springs",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-23V-029",
+    "affected_vehicles": 169468,
+    "parts_needed": [
+      "TRE-001",
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-016",
+      "DEALER-007",
+      "DEALER-023"
+    ]
+  },
+  "RECALL-2020-030": {
+    "vin_patterns": [
+      "1N4AL3AP*",
+      "5N1DR2MN*",
+      "5N1AT2MT*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Frontier",
+      "Pathfinder"
+    ],
+    "years": [
+      2016,
+      2017
+    ],
+    "description": "Transmission may slip or fail to shift",
+    "severity": "High",
+    "remedy": "Replace transmission valve body",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-23V-030",
+    "affected_vehicles": 154634,
+    "parts_needed": [
+      "FD-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-023",
+      "DEALER-030"
+    ]
+  },
+  "RECALL-2022-031": {
+    "vin_patterns": [
+      "2T3BFREV*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Prius",
+      "Sienna"
+    ],
+    "years": [
+      2015
+    ],
+    "description": "Timing chain may break causing engine damage",
+    "severity": "High",
+    "remedy": "Replace timing chain and guides",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-20V-031",
+    "affected_vehicles": 22552,
+    "parts_needed": [
+      "FP-001",
+      "TC-001",
+      "EM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-018",
+      "DEALER-014"
+    ]
+  },
+  "RECALL-2023-032": {
+    "vin_patterns": [
+      "1N4AL3AP*",
+      "3N1AB7AP*",
+      "5N1AT2MT*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Pathfinder"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "description": "Wiring harness may short circuit causing fire",
+    "severity": "Critical",
+    "remedy": "Replace wiring harness",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-23V-032",
+    "affected_vehicles": 203793,
+    "parts_needed": [
+      "BAT-001",
+      "STR-001",
+      "PWS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-046",
+      "DEALER-027",
+      "DEALER-020"
+    ]
+  },
+  "RECALL-2024-033": {
+    "vin_patterns": [
+      "WBXHT920*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "X3",
+      "X5"
+    ],
+    "years": [
+      2019,
+      2020,
+      2021
+    ],
+    "description": "Air intake manifold may crack",
+    "severity": "Medium",
+    "remedy": "Replace intake manifold",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-033",
+    "affected_vehicles": 274590,
+    "parts_needed": [
+      "IM-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-046",
+      "DEALER-003"
+    ]
+  },
+  "RECALL-2022-034": {
+    "vin_patterns": [
+      "5N1DR2MN*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Sentra",
+      "Murano"
+    ],
+    "years": [
+      2023,
+      2024
+    ],
+    "description": "Power window switches may malfunction",
+    "severity": "Low",
+    "remedy": "Replace window switch assembly",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-20V-034",
+    "affected_vehicles": 156027,
+    "parts_needed": [
+      "HL-001",
+      "PWS-001",
+      "BAT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-037",
+      "DEALER-025"
+    ]
+  },
+  "RECALL-2023-035": {
+    "vin_patterns": [
+      "WBXHT910*",
+      "WBXHT920*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "7 Series",
+      "X7"
+    ],
+    "years": [
+      2019,
+      2020,
+      2021
+    ],
+    "description": "Wiring harness may short circuit causing fire",
+    "severity": "Critical",
+    "remedy": "Replace wiring harness",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-24V-035",
+    "affected_vehicles": 35936,
+    "parts_needed": [
+      "PWS-001",
+      "ECU-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-034",
+      "DEALER-015",
+      "DEALER-041",
+      "DEALER-022"
+    ]
+  },
+  "RECALL-2025-036": {
+    "vin_patterns": [
+      "KM8SM4HF*",
+      "5NPE34AF*",
+      "KMHD14LA*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Accent"
+    ],
+    "years": [
+      2019,
+      2020,
+      2021
+    ],
+    "description": "Control arm bushings may wear prematurely",
+    "severity": "Medium",
+    "remedy": "Replace control arm bushings",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-21V-036",
+    "affected_vehicles": 68992,
+    "parts_needed": [
+      "CAB-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-045",
+      "DEALER-012"
+    ]
+  },
+  "RECALL-2020-037": {
+    "vin_patterns": [
+      "KMHD14LA*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Accent"
+    ],
+    "years": [
+      2015,
+      2016
+    ],
+    "description": "Wiring harness may short circuit causing fire",
+    "severity": "Critical",
+    "remedy": "Replace wiring harness",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-22V-037",
+    "affected_vehicles": 29148,
+    "parts_needed": [
+      "WH-001",
+      "ECU-001",
+      "STR-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-002",
+      "DEALER-023",
+      "DEALER-038",
+      "DEALER-045"
+    ]
+  },
+  "RECALL-2024-038": {
+    "vin_patterns": [
+      "5UXCR6C0*",
+      "WBA8E1C0*",
+      "WBXHT910*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "5 Series",
+      "7 Series",
+      "Z4"
+    ],
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "description": "Alternator may fail causing loss of power",
+    "severity": "High",
+    "remedy": "Replace alternator",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-20V-038",
+    "affected_vehicles": 82166,
+    "parts_needed": [
+      "ALT-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-048",
+      "DEALER-029",
+      "DEALER-046",
+      "DEALER-032"
+    ]
+  },
+  "RECALL-2025-039": {
+    "vin_patterns": [
+      "1FA6P8TH*"
+    ],
+    "manufacturer": "Ford",
+    "models": [
+      "Edge"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "description": "Transmission fluid may leak",
+    "severity": "Medium",
+    "remedy": "Replace transmission seals",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-22V-039",
+    "affected_vehicles": 44921,
+    "parts_needed": [
+      "TC-001",
+      "TM-001",
+      "CL-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-001",
+      "DEALER-029",
+      "DEALER-049",
+      "DEALER-022"
+    ]
+  },
+  "RECALL-2021-040": {
+    "vin_patterns": [
+      "WBA8E1C0*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "X7",
+      "3 Series",
+      "Z4"
+    ],
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "description": "Power window switches may malfunction",
+    "severity": "Low",
+    "remedy": "Replace window switch assembly",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-21V-040",
+    "affected_vehicles": 206995,
+    "parts_needed": [
+      "RAD-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-019",
+      "DEALER-027",
+      "DEALER-047",
+      "DEALER-020"
+    ]
+  },
+  "RECALL-2022-041": {
+    "vin_patterns": [
+      "3N1AB7AP*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Murano"
+    ],
+    "years": [
+      2015,
+      2016
+    ],
+    "description": "Coil springs may break",
+    "severity": "High",
+    "remedy": "Replace coil springs",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-25V-041",
+    "affected_vehicles": 115928,
+    "parts_needed": [
+      "TRE-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-014",
+      "DEALER-002"
+    ]
+  },
+  "RECALL-2025-042": {
+    "vin_patterns": [
+      "KM8J33A4*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Elantra",
+      "Veloster"
+    ],
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "description": "Fuel injector may leak causing poor performance",
+    "severity": "Medium",
+    "remedy": "Replace fuel injectors",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-22V-042",
+    "affected_vehicles": 293136,
+    "parts_needed": [
+      "FI-001",
+      "IM-001",
+      "FP-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-008",
+      "DEALER-015"
+    ]
+  },
+  "RECALL-2024-043": {
+    "vin_patterns": [
+      "WBXHT920*",
+      "5UXCR6C0*",
+      "WBXHT910*"
+    ],
+    "manufacturer": "BMW",
+    "models": [
+      "X1",
+      "7 Series"
+    ],
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "description": "Alternator may fail causing loss of power",
+    "severity": "High",
+    "remedy": "Replace alternator",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-20V-043",
+    "affected_vehicles": 46638,
+    "parts_needed": [
+      "ALT-001",
+      "RAD-001",
+      "WH-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-033",
+      "DEALER-050",
+      "DEALER-011",
+      "DEALER-012"
+    ]
+  },
+  "RECALL-2023-044": {
+    "vin_patterns": [
+      "WDC0G4HB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "GLE"
+    ],
+    "years": [
+      2018
+    ],
+    "description": "Clutch may not disengage properly",
+    "severity": "High",
+    "remedy": "Replace clutch assembly",
+    "estimated_repair_time": "3-6 hours",
+    "recall_number": "NHTSA-21V-044",
+    "affected_vehicles": 22686,
+    "parts_needed": [
+      "FD-001",
+      "TS-001",
+      "SS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-025",
+      "DEALER-018",
+      "DEALER-045",
+      "DEALER-022"
+    ]
+  },
+  "RECALL-2020-045": {
+    "vin_patterns": [
+      "2T3BFREV*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Sienna"
+    ],
+    "years": [
+      2022
+    ],
+    "description": "Suspension struts may leak causing poor handling",
+    "severity": "Medium",
+    "remedy": "Replace suspension struts",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-045",
+    "affected_vehicles": 7733,
+    "parts_needed": [
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-046",
+      "DEALER-023",
+      "DEALER-022"
+    ]
+  },
+  "RECALL-2025-046": {
+    "vin_patterns": [
+      "5NPE34AF*",
+      "KM8SM4HF*"
+    ],
+    "manufacturer": "Hyundai",
+    "models": [
+      "Palisade",
+      "Elantra"
+    ],
+    "years": [
+      2022,
+      2023
+    ],
+    "description": "Sway bar links may break",
+    "severity": "Low",
+    "remedy": "Replace sway bar links",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-22V-046",
+    "affected_vehicles": 59608,
+    "parts_needed": [
+      "SB-001",
+      "TRE-001",
+      "CS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-013",
+      "DEALER-024",
+      "DEALER-036"
+    ]
+  },
+  "RECALL-2022-047": {
+    "vin_patterns": [
+      "5N1AT2MT*"
+    ],
+    "manufacturer": "Nissan",
+    "models": [
+      "Frontier",
+      "Rogue"
+    ],
+    "years": [
+      2019,
+      2020,
+      2021
+    ],
+    "description": "Power window switches may malfunction",
+    "severity": "Low",
+    "remedy": "Replace window switch assembly",
+    "estimated_repair_time": "1-2 hours",
+    "recall_number": "NHTSA-22V-047",
+    "affected_vehicles": 153093,
+    "parts_needed": [
+      "WH-001",
+      "ALT-001",
+      "PWS-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-034",
+      "DEALER-048",
+      "DEALER-032"
+    ]
+  },
+  "RECALL-2022-048": {
+    "vin_patterns": [
+      "W1KZF8DB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "GLE"
+    ],
+    "years": [
+      2016,
+      2017,
+      2018
+    ],
+    "description": "ECU software may cause erratic behavior",
+    "severity": "Medium",
+    "remedy": "Update ECU software",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-048",
+    "affected_vehicles": 94708,
+    "parts_needed": [
+      "WH-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-026",
+      "DEALER-008",
+      "DEALER-010",
+      "DEALER-020"
+    ]
+  },
+  "RECALL-2025-049": {
+    "vin_patterns": [
+      "4T1BF1FK*"
+    ],
+    "manufacturer": "Toyota",
+    "models": [
+      "Highlander",
+      "RAV4",
+      "4Runner"
+    ],
+    "years": [
+      2023,
+      2024
+    ],
+    "description": "Brake fluid leak may reduce braking effectiveness",
+    "severity": "Critical",
+    "remedy": "Replace brake master cylinder",
+    "estimated_repair_time": "4-8 hours",
+    "recall_number": "NHTSA-22V-049",
+    "affected_vehicles": 137456,
+    "parts_needed": [
+      "BL-001",
+      "BF-001",
+      "PBC-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-037",
+      "DEALER-045",
+      "DEALER-039",
+      "DEALER-016"
+    ]
+  },
+  "RECALL-2021-050": {
+    "vin_patterns": [
+      "WDC0G4HB*",
+      "WDDGF4HB*"
+    ],
+    "manufacturer": "Mercedes",
+    "models": [
+      "A-Class"
+    ],
+    "years": [
+      2015
+    ],
+    "description": "Shock absorbers may fail",
+    "severity": "Medium",
+    "remedy": "Replace shock absorbers",
+    "estimated_repair_time": "2-4 hours",
+    "recall_number": "NHTSA-24V-050",
+    "affected_vehicles": 32163,
+    "parts_needed": [
+      "SBL-001"
+    ],
+    "recommended_dealers": [
+      "DEALER-004",
+      "DEALER-010",
+      "DEALER-046",
+      "DEALER-047"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="S3 Vector Browser - Modern web interface for browsing AWS S3 Vector buckets, indexes, and items">
+    <meta name="author" content="S3 Vector Browser">
+    <title>S3 Vector Browser</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+    <link rel="icon" type="image/png" href="assets/icons/favicon.png">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="js/app.js" as="script">
+    <link rel="preload" href="css/main.css" as="style">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading S3 Vector Browser...</p>
+        </div>
+    </div>
+
+    <!-- Main Application Container -->
+    <div id="app" class="app-container" style="display: none;">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="header-left">
+                    <h1 class="app-title">
+                        <span class="app-icon">🗂️</span>
+                        S3 Vector Browser
+                    </h1>
+                </div>
+                <div class="header-right">
+                    <div id="aws-context" class="aws-context">
+                        <div class="context-item">
+                            <span class="context-label">Region:</span>
+                            <span id="current-region" class="context-value">Loading...</span>
+                        </div>
+                        <div class="context-item">
+                            <span class="context-label">Account:</span>
+                            <span id="current-account" class="context-value">Loading...</span>
+                        </div>
+                        <div class="context-item">
+                            <span class="context-label">Service:</span>
+                            <span id="service-type" class="context-value">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation Breadcrumb -->
+        <nav class="breadcrumb-nav">
+            <div class="breadcrumb-content">
+                <div id="breadcrumb" class="breadcrumb">
+                    <!-- Breadcrumb items will be inserted here -->
+                </div>
+                <div class="nav-actions">
+                    <button id="refresh-btn" class="btn btn-secondary" title="Refresh current view">
+                        <span class="btn-icon">🔄</span>
+                        Refresh
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <div class="content-container">
+                <!-- Dynamic content will be inserted here -->
+                <div id="content" class="content-area">
+                    <!-- Content components will be rendered here -->
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <div class="footer-content">
+                <p>&copy; 2025 S3 Vector Browser. Modern interface for AWS S3 Vectors.</p>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">Documentation</a>
+                    <a href="#" class="footer-link">API Reference</a>
+                    <a href="#" class="footer-link">Support</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="error-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Error</h3>
+                <button class="modal-close" onclick="closeErrorModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="error-message" class="error-message">
+                    <!-- Error message will be inserted here -->
+                </div>
+                <div id="error-details" class="error-details" style="display: none;">
+                    <!-- Error details will be inserted here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeErrorModal()">Close</button>
+                <button id="retry-btn" class="btn btn-primary" style="display: none;">Retry</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirm-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Confirm Action</h3>
+                <button class="modal-close" onclick="closeConfirmModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="confirm-message" class="confirm-message">
+                    <!-- Confirmation message will be inserted here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeConfirmModal()">Cancel</button>
+                <button id="confirm-btn" class="btn btn-danger">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container">
+        <!-- Toast notifications will be inserted here -->
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/utils/helpers.js"></script>
+    <script src="js/utils/formatters.js"></script>
+    <script src="js/utils/validators.js"></script>
+    <script src="js/api-client.js"></script>
+    <script src="js/state-manager.js"></script>
+    <script src="js/router.js"></script>
+    <script src="js/components/loading.js"></script>
+    <script src="js/components/breadcrumb.js"></script>
+    <script src="js/components/bucket-list.js"></script>
+    <script src="js/components/index-list.js"></script>
+    <script src="js/components/item-list.js"></script>
+    <script src="js/components/detail-view.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- Global Error Handler -->
+    <script>
+        window.addEventListener('error', function(event) {
+            console.error('Global error:', event.error);
+            showError('An unexpected error occurred', event.error.message);
+        });
+
+        window.addEventListener('unhandledrejection', function(event) {
+            console.error('Unhandled promise rejection:', event.reason);
+            showError('An unexpected error occurred', event.reason);
+        });
+    </script>
+</body>
+</html>

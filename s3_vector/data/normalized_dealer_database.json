@@ -1,0 +1,4028 @@
+{
+  "DEALER-001": {
+    "name": "Dodge Service Center",
+    "region": "West",
+    "location": "Chandler, AZ",
+    "state": "AZ",
+    "city": "Chandler",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "air_conditioning",
+      "tire_rotation",
+      "general_inspection",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 958-2593",
+      "address": "5432 Vehicle St, Chandler, AZ",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@dodgeservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2020,
+    "specialties": [
+      "Diesel Engines",
+      "Performance Tuning",
+      "Luxury Vehicles"
+    ]
+  },
+  "DEALER-002": {
+    "name": "Genesis Service Point",
+    "region": "South",
+    "location": "Knoxville, TN",
+    "state": "TN",
+    "city": "Knoxville",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "general_inspection",
+      "tire_rotation",
+      "engine_repair",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 753-4857",
+      "address": "4642 Parts Place, Knoxville, TN",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@genesisser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2020,
+    "specialties": [
+      "Paint & Body",
+      "Diesel Engines",
+      "Classic Cars",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-003": {
+    "name": "Maserati Service Center - South",
+    "region": "South",
+    "location": "Miami, FL",
+    "state": "FL",
+    "city": "Miami",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "air_conditioning",
+      "oil_change",
+      "engine_repair",
+      "electrical_diagnosis",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 244-9786",
+      "address": "7611 Service Center Dr, Miami, FL",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@maseratise.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2008,
+    "specialties": [
+      "Electrical Systems",
+      "Luxury Vehicles",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-004": {
+    "name": "Aston Martin Service",
+    "region": "Central",
+    "location": "Fargo, ND",
+    "state": "ND",
+    "city": "Fargo",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "tune_up",
+      "electrical_diagnosis",
+      "tire_rotation",
+      "transmission_service",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 537-8019",
+      "address": "3099 Maintenance Dr, Fargo, ND",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@astonmarti.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Service & Maintenance",
+      "Paint & Body",
+      "Collision Repair",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-005": {
+    "name": "McLaren Service Point",
+    "region": "North",
+    "location": "Grand Rapids, MI",
+    "state": "MI",
+    "city": "Grand Rapids",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "tune_up",
+      "oil_change",
+      "brake_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 370-7328",
+      "address": "9983 Garage Blvd, Grand Rapids, MI",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@mclarenser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2008,
+    "specialties": [
+      "Paint & Body",
+      "Fleet Services",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-006": {
+    "name": "Dodge Service Center",
+    "region": "North",
+    "location": "Lansing, MI",
+    "state": "MI",
+    "city": "Lansing",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "brake_service",
+      "tune_up",
+      "transmission_service",
+      "battery_replacement",
+      "oil_change",
+      "tire_rotation",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 580-2380",
+      "address": "1889 Service Center Dr, Lansing, MI",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@dodgeservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Warranty Work",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-007": {
+    "name": "Jeep Service Center",
+    "region": "Central",
+    "location": "Aurora, CO",
+    "state": "CO",
+    "city": "Aurora",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "engine_repair",
+      "general_inspection",
+      "electrical_diagnosis",
+      "transmission_service",
+      "battery_replacement",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 438-8708",
+      "address": "1614 Mechanic Way, Aurora, CO",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@jeepservic.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Classic Cars",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-008": {
+    "name": "Ferrari Service Center",
+    "region": "West",
+    "location": "North Las Vegas, NV",
+    "state": "NV",
+    "city": "North Las Vegas",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "air_conditioning",
+      "general_inspection",
+      "oil_change",
+      "tire_rotation",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 701-3852",
+      "address": "7550 Garage Blvd, North Las Vegas, NV",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@ferrariser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2019,
+    "specialties": [
+      "Paint & Body",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-009": {
+    "name": "Genesis Service Point - East",
+    "region": "East",
+    "location": "Philadelphia, PA",
+    "state": "PA",
+    "city": "Philadelphia",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "oil_change",
+      "transmission_service",
+      "battery_replacement",
+      "air_conditioning",
+      "engine_repair",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 854-1360",
+      "address": "8529 Dealer Drive, Philadelphia, PA",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@genesisser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Warranty Work",
+      "Commercial Vehicles",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-010": {
+    "name": "Lamborghini Service - East",
+    "region": "East",
+    "location": "Albany, NY",
+    "state": "NY",
+    "city": "Albany",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "brake_service",
+      "air_conditioning",
+      "tire_rotation",
+      "oil_change"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(206) 459-2327",
+      "address": "3032 Repair Road, Albany, NY",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@lamborghin.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Classic Cars",
+      "Luxury Vehicles",
+      "Performance Tuning",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-011": {
+    "name": "Hyundai Service Point",
+    "region": "South",
+    "location": "Jacksonville, FL",
+    "state": "FL",
+    "city": "Jacksonville",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "tire_rotation",
+      "general_inspection",
+      "oil_change",
+      "battery_replacement",
+      "brake_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(555) 687-8497",
+      "address": "5327 Workshop Way, Jacksonville, FL",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@hyundaiser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2010,
+    "specialties": [
+      "Service & Maintenance",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-012": {
+    "name": "Infiniti Service Hub",
+    "region": "South",
+    "location": "Mobile, AL",
+    "state": "AL",
+    "city": "Mobile",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "oil_change",
+      "transmission_service",
+      "tire_rotation",
+      "tune_up",
+      "general_inspection",
+      "engine_repair",
+      "air_conditioning"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(555) 210-5817",
+      "address": "8170 Dealer Drive, Mobile, AL",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@infinitise.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Warranty Work",
+      "Hybrid & Electric",
+      "Electrical Systems",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-013": {
+    "name": "Smart Service Point",
+    "region": "South",
+    "location": "Mobile, AL",
+    "state": "AL",
+    "city": "Mobile",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "tune_up",
+      "air_conditioning",
+      "battery_replacement",
+      "oil_change",
+      "transmission_service",
+      "engine_repair"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(206) 788-8488",
+      "address": "6822 Service Center Dr, Mobile, AL",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@smartservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Commercial Vehicles",
+      "Collision Repair",
+      "Electrical Systems",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-014": {
+    "name": "Lexus Service Center",
+    "region": "West",
+    "location": "Mesa, AZ",
+    "state": "AZ",
+    "city": "Mesa",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "engine_repair",
+      "transmission_service",
+      "brake_service",
+      "general_inspection",
+      "air_conditioning",
+      "tire_rotation",
+      "battery_replacement"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(713) 246-5849",
+      "address": "8808 Maintenance Dr, Mesa, AZ",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@lexusservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2000,
+    "specialties": [
+      "Classic Cars",
+      "Commercial Vehicles",
+      "Luxury Vehicles"
+    ]
+  },
+  "DEALER-015": {
+    "name": "Lamborghini Service",
+    "region": "West",
+    "location": "Tucson, AZ",
+    "state": "AZ",
+    "city": "Tucson",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "brake_service",
+      "tune_up",
+      "engine_repair",
+      "oil_change",
+      "general_inspection",
+      "air_conditioning",
+      "battery_replacement"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(312) 906-1224",
+      "address": "1037 Vehicle St, Tucson, AZ",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@lamborghin.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Luxury Vehicles",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-016": {
+    "name": "Chrysler Service Hub",
+    "region": "North",
+    "location": "Cincinnati, OH",
+    "state": "OH",
+    "city": "Cincinnati",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "engine_repair",
+      "general_inspection",
+      "electrical_diagnosis",
+      "transmission_service",
+      "tire_rotation",
+      "battery_replacement",
+      "air_conditioning",
+      "brake_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(202) 947-3763",
+      "address": "8329 Parts Place, Cincinnati, OH",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@chryslerse.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Fleet Services",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-017": {
+    "name": "Mercedes-Benz Center - North",
+    "region": "North",
+    "location": "Kenosha, WI",
+    "state": "WI",
+    "city": "Kenosha",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "battery_replacement",
+      "brake_service",
+      "engine_repair",
+      "electrical_diagnosis",
+      "air_conditioning",
+      "general_inspection",
+      "transmission_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(312) 645-5467",
+      "address": "6404 Mechanic Way, Kenosha, WI",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@mercedesbe.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1996,
+    "specialties": [
+      "Classic Cars",
+      "Luxury Vehicles",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-018": {
+    "name": "Aston Martin Service",
+    "region": "North",
+    "location": "Minneapolis, MN",
+    "state": "MN",
+    "city": "Minneapolis",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "tire_rotation",
+      "general_inspection",
+      "electrical_diagnosis",
+      "engine_repair",
+      "tune_up",
+      "battery_replacement",
+      "brake_service",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(214) 225-7632",
+      "address": "2313 Garage Blvd, Minneapolis, MN",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@astonmarti.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Service & Maintenance",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-019": {
+    "name": "Chrysler Service Hub",
+    "region": "East",
+    "location": "New York, NY",
+    "state": "NY",
+    "city": "New York",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "oil_change",
+      "electrical_diagnosis",
+      "engine_repair",
+      "air_conditioning",
+      "battery_replacement",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 376-3865",
+      "address": "4595 Dealer Drive, New York, NY",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@chryslerse.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2019,
+    "specialties": [
+      "Service & Maintenance",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-020": {
+    "name": "Honda Service Center - West",
+    "region": "West",
+    "location": "Sacramento, CA",
+    "state": "CA",
+    "city": "Sacramento",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "tune_up",
+      "oil_change",
+      "battery_replacement",
+      "transmission_service",
+      "engine_repair",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 995-2542",
+      "address": "7009 Motor Ave, Sacramento, CA",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@hondaservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2007,
+    "specialties": [
+      "Diesel Engines",
+      "Electrical Systems",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-021": {
+    "name": "Buick Service Station - South",
+    "region": "South",
+    "location": "Huntsville, AL",
+    "state": "AL",
+    "city": "Huntsville",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "engine_repair",
+      "general_inspection",
+      "tire_rotation",
+      "battery_replacement",
+      "transmission_service",
+      "oil_change",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 320-4761",
+      "address": "7438 Maintenance Dr, Huntsville, AL",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@buickservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Electrical Systems",
+      "Hybrid & Electric",
+      "Luxury Vehicles"
+    ]
+  },
+  "DEALER-022": {
+    "name": "Ford Service Center",
+    "region": "East",
+    "location": "Worcester, MA",
+    "state": "MA",
+    "city": "Worcester",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "general_inspection",
+      "air_conditioning",
+      "tire_rotation",
+      "tune_up",
+      "transmission_service",
+      "oil_change",
+      "brake_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 732-2021",
+      "address": "5678 Service Center Dr, Worcester, MA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@fordservic.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Diesel Engines",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-023": {
+    "name": "Kia Motors Service",
+    "region": "North",
+    "location": "Sioux City, IA",
+    "state": "IA",
+    "city": "Sioux City",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "tune_up",
+      "transmission_service",
+      "tire_rotation",
+      "oil_change",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 799-6046",
+      "address": "9601 Vehicle St, Sioux City, IA",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@kiamotorss.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Luxury Vehicles",
+      "Electrical Systems",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-024": {
+    "name": "Alfa Romeo Service - North",
+    "region": "North",
+    "location": "Indianapolis, IN",
+    "state": "IN",
+    "city": "Indianapolis",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "oil_change",
+      "tune_up",
+      "tire_rotation",
+      "engine_repair",
+      "air_conditioning",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 255-5584",
+      "address": "6964 Dealer Drive, Indianapolis, IN",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@alfaromeos.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Warranty Work",
+      "Commercial Vehicles",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-025": {
+    "name": "GMC Service Hub",
+    "region": "North",
+    "location": "Peoria, IL",
+    "state": "IL",
+    "city": "Peoria",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "air_conditioning",
+      "general_inspection",
+      "brake_service",
+      "oil_change",
+      "transmission_service",
+      "tire_rotation",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 856-6220",
+      "address": "6018 Workshop Way, Peoria, IL",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@gmcservice.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Collision Repair",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-026": {
+    "name": "Mercury Service Hub",
+    "region": "South",
+    "location": "Savannah, GA",
+    "state": "GA",
+    "city": "Savannah",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "oil_change",
+      "tire_rotation",
+      "air_conditioning",
+      "battery_replacement",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(213) 301-7814",
+      "address": "1100 Parts Place, Savannah, GA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@mercuryser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Fleet Services",
+      "Diesel Engines",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-027": {
+    "name": "BMW Authorized Dealer",
+    "region": "West",
+    "location": "Meridian, ID",
+    "state": "ID",
+    "city": "Meridian",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "air_conditioning",
+      "engine_repair",
+      "general_inspection",
+      "oil_change",
+      "electrical_diagnosis",
+      "tune_up",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 643-4296",
+      "address": "5298 Vehicle St, Meridian, ID",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@bmwauthori.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Paint & Body",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-028": {
+    "name": "Infiniti Service Hub",
+    "region": "South",
+    "location": "Durham, NC",
+    "state": "NC",
+    "city": "Durham",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "tire_rotation",
+      "electrical_diagnosis",
+      "battery_replacement",
+      "transmission_service",
+      "brake_service",
+      "air_conditioning"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(213) 635-5362",
+      "address": "2330 Vehicle St, Durham, NC",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@infinitise.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2004,
+    "specialties": [
+      "Service & Maintenance",
+      "Paint & Body",
+      "Diesel Engines",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-029": {
+    "name": "Lincoln Service Station",
+    "region": "South",
+    "location": "Knoxville, TN",
+    "state": "TN",
+    "city": "Knoxville",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "battery_replacement",
+      "tire_rotation",
+      "tune_up",
+      "general_inspection",
+      "transmission_service",
+      "air_conditioning",
+      "oil_change",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 834-1524",
+      "address": "8521 Maintenance Dr, Knoxville, TN",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@lincolnser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2013,
+    "specialties": [
+      "Hybrid & Electric",
+      "Service & Maintenance",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-030": {
+    "name": "Scion Service Hub",
+    "region": "North",
+    "location": "Detroit, MI",
+    "state": "MI",
+    "city": "Detroit",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "battery_replacement",
+      "air_conditioning",
+      "oil_change",
+      "engine_repair",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 605-4292",
+      "address": "2743 Garage Blvd, Detroit, MI",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@scionservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Service & Maintenance",
+      "Collision Repair",
+      "Fleet Services",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-031": {
+    "name": "Ford Service Center",
+    "region": "South",
+    "location": "Atlanta, GA",
+    "state": "GA",
+    "city": "Atlanta",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "oil_change",
+      "transmission_service",
+      "brake_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(206) 435-7020",
+      "address": "2003 Service Center Dr, Atlanta, GA",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@fordservic.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Luxury Vehicles",
+      "Classic Cars",
+      "Commercial Vehicles",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-032": {
+    "name": "Tesla Service Hub",
+    "region": "North",
+    "location": "South Bend, IN",
+    "state": "IN",
+    "city": "South Bend",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "general_inspection",
+      "electrical_diagnosis",
+      "oil_change",
+      "air_conditioning",
+      "battery_replacement",
+      "brake_service",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 743-2144",
+      "address": "4582 Workshop Way, South Bend, IN",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@teslaservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1998,
+    "specialties": [
+      "Classic Cars",
+      "Diesel Engines",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-033": {
+    "name": "Scion Service Hub - East",
+    "region": "East",
+    "location": "Allentown, PA",
+    "state": "PA",
+    "city": "Allentown",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "tune_up",
+      "tire_rotation",
+      "battery_replacement",
+      "engine_repair",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 190-6088",
+      "address": "3269 Dealer Drive, Allentown, PA",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@scionservi.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2007,
+    "specialties": [
+      "Warranty Work",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-034": {
+    "name": "Ferrari Service Center",
+    "region": "Central",
+    "location": "Grand Forks, ND",
+    "state": "ND",
+    "city": "Grand Forks",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "general_inspection",
+      "brake_service",
+      "tune_up",
+      "engine_repair",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 959-7215",
+      "address": "3836 Vehicle St, Grand Forks, ND",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@ferrariser.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2016,
+    "specialties": [
+      "Classic Cars",
+      "Electrical Systems",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-035": {
+    "name": "McLaren Service Point - East",
+    "region": "East",
+    "location": "Rockville, MD",
+    "state": "MD",
+    "city": "Rockville",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "engine_repair",
+      "brake_service",
+      "oil_change",
+      "transmission_service",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 626-7427",
+      "address": "4832 Vehicle St, Rockville, MD",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@mclarenser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2016,
+    "specialties": [
+      "Diesel Engines",
+      "Electrical Systems",
+      "Service & Maintenance",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-036": {
+    "name": "Rolls-Royce Service",
+    "region": "South",
+    "location": "Birmingham, AL",
+    "state": "AL",
+    "city": "Birmingham",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "engine_repair",
+      "brake_service",
+      "battery_replacement",
+      "oil_change",
+      "air_conditioning",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 688-1265",
+      "address": "2967 Motor Ave, Birmingham, AL",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@rollsroyce.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Paint & Body",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-037": {
+    "name": "Mini Service Center",
+    "region": "South",
+    "location": "Orlando, FL",
+    "state": "FL",
+    "city": "Orlando",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "brake_service",
+      "air_conditioning",
+      "battery_replacement",
+      "tune_up",
+      "electrical_diagnosis",
+      "transmission_service",
+      "engine_repair",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 524-2452",
+      "address": "3290 Motor Ave, Orlando, FL",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@miniservic.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Commercial Vehicles",
+      "Diesel Engines",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-038": {
+    "name": "Subaru Service Center",
+    "region": "North",
+    "location": "Kenosha, WI",
+    "state": "WI",
+    "city": "Kenosha",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "tire_rotation",
+      "oil_change",
+      "transmission_service",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 636-6266",
+      "address": "2422 Auto Lane, Kenosha, WI",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@subaruserv.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1996,
+    "specialties": [
+      "Paint & Body",
+      "Service & Maintenance",
+      "Hybrid & Electric",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-039": {
+    "name": "Tesla Service Hub",
+    "region": "North",
+    "location": "Duluth, MN",
+    "state": "MN",
+    "city": "Duluth",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "general_inspection",
+      "engine_repair",
+      "tire_rotation",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 391-5681",
+      "address": "6295 Auto Lane, Duluth, MN",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@teslaservi.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1997,
+    "specialties": [
+      "Fleet Services",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-040": {
+    "name": "Land Rover Service",
+    "region": "South",
+    "location": "Columbia, SC",
+    "state": "SC",
+    "city": "Columbia",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "battery_replacement",
+      "engine_repair",
+      "tire_rotation",
+      "transmission_service",
+      "general_inspection",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 881-2166",
+      "address": "2363 Vehicle St, Columbia, SC",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@landrovers.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Diesel Engines",
+      "Collision Repair",
+      "Service & Maintenance",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-041": {
+    "name": "Lexus Service Center - East",
+    "region": "East",
+    "location": "New York, NY",
+    "state": "NY",
+    "city": "New York",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "tune_up",
+      "general_inspection",
+      "brake_service",
+      "engine_repair"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(312) 423-2982",
+      "address": "2222 Service Blvd, New York, NY",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@lexusservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2008,
+    "specialties": [
+      "Electrical Systems",
+      "Luxury Vehicles",
+      "Fleet Services",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-042": {
+    "name": "Saturn Service Center - West",
+    "region": "West",
+    "location": "Salt Lake City, UT",
+    "state": "UT",
+    "city": "Salt Lake City",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "brake_service",
+      "oil_change",
+      "tire_rotation",
+      "battery_replacement",
+      "tune_up",
+      "air_conditioning",
+      "general_inspection",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 280-1426",
+      "address": "8712 Service Blvd, Salt Lake City, UT",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@saturnserv.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Warranty Work",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-043": {
+    "name": "McLaren Service Point - South",
+    "region": "South",
+    "location": "Lafayette, LA",
+    "state": "LA",
+    "city": "Lafayette",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "brake_service",
+      "air_conditioning",
+      "general_inspection",
+      "engine_repair",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 568-6409",
+      "address": "2896 Service Blvd, Lafayette, LA",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@mclarenser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Paint & Body",
+      "Hybrid & Electric",
+      "Classic Cars",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-044": {
+    "name": "Mini Service Center",
+    "region": "South",
+    "location": "Tallahassee, FL",
+    "state": "FL",
+    "city": "Tallahassee",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "engine_repair",
+      "air_conditioning",
+      "brake_service",
+      "tire_rotation",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 144-4949",
+      "address": "2409 Dealer Drive, Tallahassee, FL",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@miniservic.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Commercial Vehicles",
+      "Paint & Body",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-045": {
+    "name": "Mercury Service Hub",
+    "region": "West",
+    "location": "Gillette, WY",
+    "state": "WY",
+    "city": "Gillette",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "general_inspection",
+      "oil_change",
+      "battery_replacement",
+      "transmission_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 806-7682",
+      "address": "575 Parts Place, Gillette, WY",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@mercuryser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2007,
+    "specialties": [
+      "Diesel Engines",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-046": {
+    "name": "Cadillac Service Center",
+    "region": "Central",
+    "location": "Grand Forks, ND",
+    "state": "ND",
+    "city": "Grand Forks",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "battery_replacement",
+      "tune_up",
+      "engine_repair",
+      "air_conditioning",
+      "brake_service",
+      "oil_change",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(213) 651-2660",
+      "address": "6939 Workshop Way, Grand Forks, ND",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@cadillacse.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Fleet Services",
+      "Hybrid & Electric",
+      "Warranty Work",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-047": {
+    "name": "Genesis Service Point - East",
+    "region": "East",
+    "location": "Cambridge, MA",
+    "state": "MA",
+    "city": "Cambridge",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "tire_rotation",
+      "engine_repair",
+      "general_inspection",
+      "battery_replacement"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(214) 602-6513",
+      "address": "1897 Repair Road, Cambridge, MA",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@genesisser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Paint & Body",
+      "Warranty Work",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-048": {
+    "name": "Honda Service Center",
+    "region": "West",
+    "location": "West Valley City, UT",
+    "state": "UT",
+    "city": "West Valley City",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "battery_replacement",
+      "electrical_diagnosis",
+      "oil_change",
+      "general_inspection",
+      "air_conditioning",
+      "engine_repair",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 613-8416",
+      "address": "149 Repair Road, West Valley City, UT",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@hondaservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Fleet Services",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-049": {
+    "name": "Subaru Service Center - Central",
+    "region": "Central",
+    "location": "Columbia, MO",
+    "state": "MO",
+    "city": "Columbia",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "brake_service",
+      "air_conditioning",
+      "electrical_diagnosis",
+      "tire_rotation",
+      "battery_replacement",
+      "engine_repair",
+      "tune_up"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(206) 472-1351",
+      "address": "101 Garage Blvd, Columbia, MO",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@subaruserv.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Fleet Services",
+      "Performance Tuning",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-050": {
+    "name": "McLaren Service Point - North",
+    "region": "North",
+    "location": "St. Paul, MN",
+    "state": "MN",
+    "city": "St. Paul",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "brake_service",
+      "air_conditioning",
+      "general_inspection",
+      "engine_repair",
+      "oil_change",
+      "tire_rotation",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 297-7738",
+      "address": "4323 Garage Blvd, St. Paul, MN",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@mclarenser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Paint & Body",
+      "Commercial Vehicles",
+      "Luxury Vehicles",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-051": {
+    "name": "Pontiac Service Point",
+    "region": "North",
+    "location": "Peoria, IL",
+    "state": "IL",
+    "city": "Peoria",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "tune_up",
+      "electrical_diagnosis",
+      "oil_change",
+      "air_conditioning",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 116-9254",
+      "address": "6313 Maintenance Dr, Peoria, IL",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@pontiacser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Service & Maintenance",
+      "Performance Tuning",
+      "Paint & Body",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-052": {
+    "name": "Pontiac Service Point",
+    "region": "North",
+    "location": "Madison, WI",
+    "state": "WI",
+    "city": "Madison",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "brake_service",
+      "tune_up",
+      "engine_repair",
+      "general_inspection",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 580-7031",
+      "address": "8901 Mechanic Way, Madison, WI",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@pontiacser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2012,
+    "specialties": [
+      "Electrical Systems",
+      "Luxury Vehicles",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-053": {
+    "name": "Chevrolet Dealership",
+    "region": "West",
+    "location": "West Valley City, UT",
+    "state": "UT",
+    "city": "West Valley City",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "tire_rotation",
+      "oil_change",
+      "transmission_service",
+      "battery_replacement",
+      "air_conditioning"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(214) 807-5948",
+      "address": "8152 Maintenance Dr, West Valley City, UT",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@chevroletd.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Performance Tuning",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-054": {
+    "name": "Cadillac Service Center - South",
+    "region": "South",
+    "location": "Miami, FL",
+    "state": "FL",
+    "city": "Miami",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "air_conditioning",
+      "transmission_service",
+      "general_inspection",
+      "tune_up",
+      "brake_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 129-3833",
+      "address": "1748 Repair Road, Miami, FL",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@cadillacse.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Service & Maintenance",
+      "Performance Tuning",
+      "Paint & Body",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-055": {
+    "name": "Jaguar Service Hub",
+    "region": "South",
+    "location": "Lafayette, LA",
+    "state": "LA",
+    "city": "Lafayette",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "general_inspection",
+      "oil_change",
+      "air_conditioning",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 377-2719",
+      "address": "5918 Maintenance Dr, Lafayette, LA",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@jaguarserv.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1997,
+    "specialties": [
+      "Diesel Engines",
+      "Performance Tuning",
+      "Classic Cars",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-056": {
+    "name": "Lexus Service Center - North",
+    "region": "North",
+    "location": "Columbus, OH",
+    "state": "OH",
+    "city": "Columbus",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "general_inspection",
+      "battery_replacement",
+      "transmission_service",
+      "tire_rotation",
+      "tune_up",
+      "oil_change"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(214) 744-1192",
+      "address": "2508 Auto Lane, Columbus, OH",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@lexusservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2010,
+    "specialties": [
+      "Collision Repair",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-057": {
+    "name": "Land Rover Service",
+    "region": "East",
+    "location": "Frederick, MD",
+    "state": "MD",
+    "city": "Frederick",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "battery_replacement",
+      "transmission_service",
+      "brake_service",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 779-6553",
+      "address": "8782 Maintenance Dr, Frederick, MD",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@landrovers.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Performance Tuning",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-058": {
+    "name": "Cadillac Service Center",
+    "region": "Central",
+    "location": "Kansas City, KS",
+    "state": "KS",
+    "city": "Kansas City",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "transmission_service",
+      "battery_replacement",
+      "air_conditioning",
+      "engine_repair",
+      "tune_up",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 606-5495",
+      "address": "4309 Garage Blvd, Kansas City, KS",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@cadillacse.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2012,
+    "specialties": [
+      "Collision Repair",
+      "Performance Tuning",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-059": {
+    "name": "Nissan Service Hub",
+    "region": "West",
+    "location": "Phoenix, AZ",
+    "state": "AZ",
+    "city": "Phoenix",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "engine_repair",
+      "oil_change",
+      "brake_service",
+      "transmission_service",
+      "electrical_diagnosis",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 919-6951",
+      "address": "9390 Repair Road, Phoenix, AZ",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@nissanserv.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Luxury Vehicles",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-060": {
+    "name": "Oldsmobile Service",
+    "region": "South",
+    "location": "Atlanta, GA",
+    "state": "GA",
+    "city": "Atlanta",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "tire_rotation",
+      "engine_repair",
+      "air_conditioning",
+      "oil_change",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 392-1191",
+      "address": "6430 Auto Lane, Atlanta, GA",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@oldsmobile.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Paint & Body",
+      "Hybrid & Electric",
+      "Service & Maintenance",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-061": {
+    "name": "Buick Service Station - Central",
+    "region": "Central",
+    "location": "Las Cruces, NM",
+    "state": "NM",
+    "city": "Las Cruces",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "tune_up",
+      "oil_change",
+      "general_inspection",
+      "electrical_diagnosis",
+      "tire_rotation",
+      "air_conditioning",
+      "transmission_service",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 257-4717",
+      "address": "4604 Mechanic Way, Las Cruces, NM",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@buickservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Warranty Work",
+      "Commercial Vehicles"
+    ]
+  },
+  "DEALER-062": {
+    "name": "Porsche Service Center",
+    "region": "East",
+    "location": "Elizabeth, NJ",
+    "state": "NJ",
+    "city": "Elizabeth",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "transmission_service",
+      "air_conditioning",
+      "brake_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 898-7850",
+      "address": "1284 Vehicle St, Elizabeth, NJ",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@porscheser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Commercial Vehicles",
+      "Performance Tuning",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-063": {
+    "name": "Ferrari Service Center",
+    "region": "West",
+    "location": "Salem, OR",
+    "state": "OR",
+    "city": "Salem",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "battery_replacement",
+      "electrical_diagnosis",
+      "air_conditioning",
+      "engine_repair",
+      "tire_rotation",
+      "brake_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(206) 604-1848",
+      "address": "8940 Repair Road, Salem, OR",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@ferrariser.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2017,
+    "specialties": [
+      "Commercial Vehicles",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-064": {
+    "name": "Hyundai Service Point",
+    "region": "West",
+    "location": "Meridian, ID",
+    "state": "ID",
+    "city": "Meridian",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "brake_service",
+      "engine_repair",
+      "electrical_diagnosis",
+      "tune_up",
+      "battery_replacement",
+      "transmission_service",
+      "oil_change",
+      "tire_rotation"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(617) 519-5644",
+      "address": "6311 Service Center Dr, Meridian, ID",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@hyundaiser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2006,
+    "specialties": [
+      "Paint & Body",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-065": {
+    "name": "BMW Authorized Dealer",
+    "region": "Central",
+    "location": "Lincoln, NE",
+    "state": "NE",
+    "city": "Lincoln",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "brake_service",
+      "tire_rotation",
+      "battery_replacement",
+      "air_conditioning",
+      "oil_change",
+      "electrical_diagnosis",
+      "engine_repair",
+      "tune_up"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(312) 141-5491",
+      "address": "8626 Garage Blvd, Lincoln, NE",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@bmwauthori.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2003,
+    "specialties": [
+      "Collision Repair",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-066": {
+    "name": "Mitsubishi Service - South",
+    "region": "South",
+    "location": "Montgomery, AL",
+    "state": "AL",
+    "city": "Montgomery",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "tune_up",
+      "air_conditioning",
+      "tire_rotation",
+      "engine_repair",
+      "electrical_diagnosis",
+      "transmission_service",
+      "battery_replacement"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 871-7724",
+      "address": "9945 Maintenance Dr, Montgomery, AL",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@mitsubishi.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Luxury Vehicles",
+      "Hybrid & Electric",
+      "Commercial Vehicles",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-067": {
+    "name": "Porsche Service Center",
+    "region": "North",
+    "location": "Minneapolis, MN",
+    "state": "MN",
+    "city": "Minneapolis",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "battery_replacement",
+      "transmission_service",
+      "electrical_diagnosis",
+      "tire_rotation",
+      "tune_up",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 780-4141",
+      "address": "4790 Service Center Dr, Minneapolis, MN",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@porscheser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2012,
+    "specialties": [
+      "Service & Maintenance",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-068": {
+    "name": "Volvo Service Center - North",
+    "region": "North",
+    "location": "Toledo, OH",
+    "state": "OH",
+    "city": "Toledo",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "transmission_service",
+      "tune_up",
+      "engine_repair",
+      "battery_replacement",
+      "oil_change",
+      "brake_service",
+      "general_inspection",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 254-1394",
+      "address": "3794 Auto Lane, Toledo, OH",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@volvoservi.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2016,
+    "specialties": [
+      "Commercial Vehicles",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-069": {
+    "name": "Toyota Service Plus",
+    "region": "North",
+    "location": "South Bend, IN",
+    "state": "IN",
+    "city": "South Bend",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "tune_up",
+      "engine_repair",
+      "transmission_service",
+      "battery_replacement",
+      "tire_rotation"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(202) 979-1153",
+      "address": "6931 Service Blvd, South Bend, IN",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@toyotaserv.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2012,
+    "specialties": [
+      "Commercial Vehicles",
+      "Classic Cars",
+      "Hybrid & Electric",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-070": {
+    "name": "Lotus Service Hub",
+    "region": "South",
+    "location": "Lafayette, LA",
+    "state": "LA",
+    "city": "Lafayette",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "air_conditioning",
+      "tune_up",
+      "brake_service",
+      "general_inspection",
+      "electrical_diagnosis",
+      "oil_change",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(213) 509-3068",
+      "address": "4803 Mechanic Way, Lafayette, LA",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@lotusservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Collision Repair",
+      "Classic Cars",
+      "Electrical Systems"
+    ]
+  },
+  "DEALER-071": {
+    "name": "Ram Service Point",
+    "region": "East",
+    "location": "Portland, ME",
+    "state": "ME",
+    "city": "Portland",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "transmission_service",
+      "tire_rotation",
+      "engine_repair",
+      "battery_replacement",
+      "tune_up",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 297-4911",
+      "address": "7612 Maintenance Dr, Portland, ME",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@ramservice.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2011,
+    "specialties": [
+      "Warranty Work",
+      "Service & Maintenance",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-072": {
+    "name": "Chevrolet Dealership - East",
+    "region": "East",
+    "location": "Norfolk, VA",
+    "state": "VA",
+    "city": "Norfolk",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "engine_repair",
+      "tune_up",
+      "tire_rotation",
+      "battery_replacement",
+      "brake_service",
+      "oil_change",
+      "transmission_service",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(213) 175-2129",
+      "address": "9864 Parts Place, Norfolk, VA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@chevroletd.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1995,
+    "specialties": [
+      "Commercial Vehicles",
+      "Luxury Vehicles",
+      "Diesel Engines",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-073": {
+    "name": "Oldsmobile Service",
+    "region": "Central",
+    "location": "Tulsa, OK",
+    "state": "OK",
+    "city": "Tulsa",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "brake_service",
+      "battery_replacement",
+      "general_inspection",
+      "air_conditioning",
+      "electrical_diagnosis",
+      "tune_up",
+      "tire_rotation",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 597-7406",
+      "address": "1235 Motor Ave, Tulsa, OK",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@oldsmobile.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1998,
+    "specialties": [
+      "Service & Maintenance",
+      "Fleet Services",
+      "Paint & Body",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-074": {
+    "name": "Lexus Service Center",
+    "region": "West",
+    "location": "Seattle, WA",
+    "state": "WA",
+    "city": "Seattle",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "brake_service",
+      "transmission_service",
+      "general_inspection",
+      "engine_repair",
+      "electrical_diagnosis",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 380-4846",
+      "address": "3477 Maintenance Dr, Seattle, WA",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@lexusservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Luxury Vehicles",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-075": {
+    "name": "Nissan Service Hub",
+    "region": "South",
+    "location": "New Orleans, LA",
+    "state": "LA",
+    "city": "New Orleans",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "engine_repair",
+      "electrical_diagnosis",
+      "battery_replacement",
+      "brake_service",
+      "oil_change"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 573-4605",
+      "address": "9431 Garage Blvd, New Orleans, LA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@nissanserv.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2009,
+    "specialties": [
+      "Classic Cars",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-076": {
+    "name": "Suzuki Service Center",
+    "region": "Central",
+    "location": "Oklahoma City, OK",
+    "state": "OK",
+    "city": "Oklahoma City",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "tire_rotation",
+      "electrical_diagnosis",
+      "engine_repair",
+      "air_conditioning",
+      "brake_service",
+      "general_inspection",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(404) 436-8421",
+      "address": "3960 Maintenance Dr, Oklahoma City, OK",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@suzukiserv.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2011,
+    "specialties": [
+      "Performance Tuning",
+      "Paint & Body",
+      "Classic Cars",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-077": {
+    "name": "Mazda Service Hub",
+    "region": "South",
+    "location": "Rock Hill, SC",
+    "state": "SC",
+    "city": "Rock Hill",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "general_inspection",
+      "air_conditioning",
+      "tune_up",
+      "electrical_diagnosis",
+      "oil_change",
+      "tire_rotation",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 594-6710",
+      "address": "1972 Garage Blvd, Rock Hill, SC",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@mazdaservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Service & Maintenance",
+      "Diesel Engines",
+      "Commercial Vehicles",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-078": {
+    "name": "Pontiac Service Point",
+    "region": "West",
+    "location": "Anchorage, AK",
+    "state": "AK",
+    "city": "Anchorage",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "tire_rotation",
+      "tune_up",
+      "oil_change",
+      "general_inspection",
+      "battery_replacement",
+      "electrical_diagnosis",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 683-5026",
+      "address": "9647 Workshop Way, Anchorage, AK",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@pontiacser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Collision Repair",
+      "Fleet Services",
+      "Paint & Body",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-079": {
+    "name": "Suzuki Service Center",
+    "region": "Central",
+    "location": "Topeka, KS",
+    "state": "KS",
+    "city": "Topeka",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "tune_up",
+      "general_inspection",
+      "battery_replacement",
+      "oil_change",
+      "air_conditioning",
+      "engine_repair",
+      "electrical_diagnosis",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(214) 837-6366",
+      "address": "2957 Service Blvd, Topeka, KS",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@suzukiserv.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2019,
+    "specialties": [
+      "Collision Repair",
+      "Commercial Vehicles",
+      "Diesel Engines",
+      "Service & Maintenance"
+    ]
+  },
+  "DEALER-080": {
+    "name": "Land Rover Service - Central",
+    "region": "Central",
+    "location": "Oklahoma City, OK",
+    "state": "OK",
+    "city": "Oklahoma City",
+    "manufacturer_specialties": [
+      "Ford",
+      "Chevrolet",
+      "GMC"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "tire_rotation",
+      "tune_up",
+      "battery_replacement",
+      "transmission_service",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 777-2567",
+      "address": "5746 Dealer Drive, Oklahoma City, OK",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@landrovers.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1996,
+    "specialties": [
+      "Electrical Systems",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-081": {
+    "name": "Isuzu Service Point",
+    "region": "South",
+    "location": "Baton Rouge, LA",
+    "state": "LA",
+    "city": "Baton Rouge",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "engine_repair",
+      "tune_up",
+      "oil_change",
+      "air_conditioning",
+      "battery_replacement",
+      "tire_rotation",
+      "transmission_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(202) 462-6155",
+      "address": "2900 Mechanic Way, Baton Rouge, LA",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@isuzuservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2007,
+    "specialties": [
+      "Diesel Engines",
+      "Collision Repair",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-082": {
+    "name": "Lincoln Service Station",
+    "region": "West",
+    "location": "Idaho Falls, ID",
+    "state": "ID",
+    "city": "Idaho Falls",
+    "manufacturer_specialties": [
+      "Subaru",
+      "Mazda",
+      "Volkswagen"
+    ],
+    "services": [
+      "tire_rotation",
+      "battery_replacement",
+      "transmission_service",
+      "general_inspection",
+      "brake_service",
+      "oil_change",
+      "tune_up",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(617) 660-4885",
+      "address": "829 Motor Ave, Idaho Falls, ID",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@lincolnser.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2015,
+    "specialties": [
+      "Diesel Engines",
+      "Service & Maintenance",
+      "Collision Repair",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-083": {
+    "name": "Mercedes-Benz Center",
+    "region": "South",
+    "location": "Baton Rouge, LA",
+    "state": "LA",
+    "city": "Baton Rouge",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "battery_replacement",
+      "transmission_service",
+      "general_inspection",
+      "engine_repair",
+      "electrical_diagnosis",
+      "oil_change",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 191-2192",
+      "address": "244 Garage Blvd, Baton Rouge, LA",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@mercedesbe.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2017,
+    "specialties": [
+      "Luxury Vehicles",
+      "Commercial Vehicles",
+      "Fleet Services",
+      "Classic Cars"
+    ]
+  },
+  "DEALER-084": {
+    "name": "Genesis Service Point",
+    "region": "East",
+    "location": "Warwick, RI",
+    "state": "RI",
+    "city": "Warwick",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "air_conditioning",
+      "tune_up",
+      "transmission_service",
+      "brake_service"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(713) 648-9820",
+      "address": "285 Service Blvd, Warwick, RI",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@genesisser.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2008,
+    "specialties": [
+      "Commercial Vehicles",
+      "Hybrid & Electric",
+      "Fleet Services",
+      "Luxury Vehicles"
+    ]
+  },
+  "DEALER-085": {
+    "name": "Rolls-Royce Service",
+    "region": "Central",
+    "location": "Grand Forks, ND",
+    "state": "ND",
+    "city": "Grand Forks",
+    "manufacturer_specialties": [
+      "Lexus",
+      "Acura",
+      "Infiniti"
+    ],
+    "services": [
+      "general_inspection",
+      "battery_replacement",
+      "air_conditioning",
+      "oil_change",
+      "tire_rotation",
+      "brake_service",
+      "transmission_service",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 927-4444",
+      "address": "8518 Auto Lane, Grand Forks, ND",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@rollsroyce.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2002,
+    "specialties": [
+      "Classic Cars",
+      "Electrical Systems",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-086": {
+    "name": "Audi Service Station",
+    "region": "North",
+    "location": "Kenosha, WI",
+    "state": "WI",
+    "city": "Kenosha",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "tire_rotation",
+      "battery_replacement",
+      "transmission_service",
+      "brake_service",
+      "oil_change",
+      "air_conditioning",
+      "electrical_diagnosis",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 906-1810",
+      "address": "292 Service Center Dr, Kenosha, WI",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@audiservic.gmail.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Fleet Services",
+      "Hybrid & Electric",
+      "Commercial Vehicles",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-087": {
+    "name": "Jeep Service Center - Central",
+    "region": "Central",
+    "location": "Overland Park, KS",
+    "state": "KS",
+    "city": "Overland Park",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "tune_up",
+      "transmission_service",
+      "electrical_diagnosis",
+      "oil_change",
+      "brake_service",
+      "engine_repair",
+      "air_conditioning",
+      "battery_replacement"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(214) 690-4178",
+      "address": "5310 Motor Ave, Overland Park, KS",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@jeepservic.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2001,
+    "specialties": [
+      "Electrical Systems",
+      "Hybrid & Electric",
+      "Commercial Vehicles"
+    ]
+  },
+  "DEALER-088": {
+    "name": "Mitsubishi Service",
+    "region": "East",
+    "location": "Paterson, NJ",
+    "state": "NJ",
+    "city": "Paterson",
+    "manufacturer_specialties": [
+      "Volvo",
+      "Jaguar",
+      "Land Rover"
+    ],
+    "services": [
+      "tire_rotation",
+      "electrical_diagnosis",
+      "engine_repair",
+      "transmission_service",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(213) 551-4040",
+      "address": "3993 Dealer Drive, Paterson, NJ",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@mitsubishi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Hybrid & Electric",
+      "Classic Cars",
+      "Warranty Work"
+    ]
+  },
+  "DEALER-089": {
+    "name": "Acura Service Point",
+    "region": "West",
+    "location": "Billings, MT",
+    "state": "MT",
+    "city": "Billings",
+    "manufacturer_specialties": [
+      "Cadillac",
+      "Buick",
+      "Lincoln"
+    ],
+    "services": [
+      "electrical_diagnosis",
+      "brake_service",
+      "air_conditioning",
+      "tire_rotation",
+      "general_inspection",
+      "battery_replacement",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 412-9353",
+      "address": "6970 Motor Ave, Billings, MT",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@acuraservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1997,
+    "specialties": [
+      "Paint & Body",
+      "Service & Maintenance",
+      "Hybrid & Electric"
+    ]
+  },
+  "DEALER-090": {
+    "name": "Mercedes-Benz Center - Central",
+    "region": "Central",
+    "location": "Grand Forks, ND",
+    "state": "ND",
+    "city": "Grand Forks",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "tune_up",
+      "general_inspection",
+      "oil_change",
+      "air_conditioning"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 636-6063",
+      "address": "5421 Vehicle St, Grand Forks, ND",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@mercedesbe.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1997,
+    "specialties": [
+      "Paint & Body",
+      "Warranty Work",
+      "Commercial Vehicles",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-091": {
+    "name": "Toyota Service Plus - East",
+    "region": "East",
+    "location": "Erie, PA",
+    "state": "PA",
+    "city": "Erie",
+    "manufacturer_specialties": [
+      "Hyundai",
+      "Kia",
+      "Genesis"
+    ],
+    "services": [
+      "general_inspection",
+      "tire_rotation",
+      "battery_replacement",
+      "air_conditioning",
+      "engine_repair",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 422-8264",
+      "address": "7863 Auto Lane, Erie, PA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@toyotaserv.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2014,
+    "specialties": [
+      "Service & Maintenance",
+      "Performance Tuning"
+    ]
+  },
+  "DEALER-092": {
+    "name": "Infiniti Service Hub - North",
+    "region": "North",
+    "location": "Cleveland, OH",
+    "state": "OH",
+    "city": "Cleveland",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "battery_replacement",
+      "tire_rotation",
+      "engine_repair",
+      "transmission_service",
+      "oil_change",
+      "general_inspection",
+      "tune_up"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 296-8520",
+      "address": "263 Service Blvd, Cleveland, OH",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@infinitise.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Hybrid & Electric",
+      "Performance Tuning",
+      "Fleet Services"
+    ]
+  },
+  "DEALER-093": {
+    "name": "Scion Service Hub",
+    "region": "Central",
+    "location": "Aurora, CO",
+    "state": "CO",
+    "city": "Aurora",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "oil_change",
+      "transmission_service",
+      "battery_replacement",
+      "tire_rotation",
+      "air_conditioning"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(713) 238-4425",
+      "address": "6565 Workshop Way, Aurora, CO",
+      "hours": "Mon-Fri 8AM-6PM, Sat 8AM-4PM",
+      "email": "contact@scionservi.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2011,
+    "specialties": [
+      "Diesel Engines",
+      "Paint & Body",
+      "Service & Maintenance",
+      "Luxury Vehicles"
+    ]
+  },
+  "DEALER-094": {
+    "name": "Premium Auto Service - South",
+    "region": "South",
+    "location": "Miami, FL",
+    "state": "FL",
+    "city": "Miami",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "oil_change",
+      "tune_up",
+      "brake_service",
+      "tire_rotation",
+      "electrical_diagnosis",
+      "battery_replacement",
+      "transmission_service",
+      "engine_repair"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 961-3808",
+      "address": "2821 Maintenance Dr, Miami, FL",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@premiumaut.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1995,
+    "specialties": [
+      "Warranty Work",
+      "Collision Repair",
+      "Hybrid & Electric",
+      "Commercial Vehicles"
+    ]
+  },
+  "DEALER-095": {
+    "name": "Maserati Service Center",
+    "region": "Central",
+    "location": "St. Louis, MO",
+    "state": "MO",
+    "city": "St. Louis",
+    "manufacturer_specialties": [
+      "Porsche",
+      "Tesla",
+      "Mini"
+    ],
+    "services": [
+      "tune_up",
+      "electrical_diagnosis",
+      "general_inspection",
+      "tire_rotation",
+      "brake_service",
+      "oil_change",
+      "battery_replacement",
+      "transmission_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(312) 608-2276",
+      "address": "7778 Maintenance Dr, St. Louis, MO",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@maseratise.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1998,
+    "specialties": [
+      "Fleet Services",
+      "Hybrid & Electric",
+      "Service & Maintenance",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-096": {
+    "name": "Subaru Service Center",
+    "region": "East",
+    "location": "Cambridge, MA",
+    "state": "MA",
+    "city": "Cambridge",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "engine_repair",
+      "battery_replacement",
+      "tune_up",
+      "air_conditioning",
+      "transmission_service",
+      "oil_change",
+      "general_inspection",
+      "electrical_diagnosis"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(303) 775-8755",
+      "address": "3738 Vehicle St, Cambridge, MA",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@subaruserv.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2018,
+    "specialties": [
+      "Warranty Work",
+      "Diesel Engines"
+    ]
+  },
+  "DEALER-097": {
+    "name": "Alfa Romeo Service",
+    "region": "East",
+    "location": "Annapolis, MD",
+    "state": "MD",
+    "city": "Annapolis",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "oil_change",
+      "general_inspection",
+      "engine_repair",
+      "tune_up",
+      "transmission_service",
+      "battery_replacement",
+      "brake_service"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(713) 976-4855",
+      "address": "9866 Workshop Way, Annapolis, MD",
+      "hours": "Mon-Fri 8AM-5PM, Sat 9AM-3PM",
+      "email": "contact@alfaromeos.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2019,
+    "specialties": [
+      "Collision Repair",
+      "Diesel Engines",
+      "Paint & Body"
+    ]
+  },
+  "DEALER-098": {
+    "name": "Premium Auto Service - South",
+    "region": "South",
+    "location": "Miami, FL",
+    "state": "FL",
+    "city": "Miami",
+    "manufacturer_specialties": [
+      "Jeep",
+      "Ram",
+      "Chrysler"
+    ],
+    "services": [
+      "brake_service",
+      "transmission_service",
+      "electrical_diagnosis",
+      "oil_change",
+      "tune_up",
+      "engine_repair",
+      "battery_replacement",
+      "air_conditioning"
+    ],
+    "certified": false,
+    "contact": {
+      "phone": "(404) 942-6100",
+      "address": "4594 Parts Place, Miami, FL",
+      "hours": "Mon-Fri 7AM-6PM, Sat 8AM-4PM",
+      "email": "contact@premiumaut.dealership.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2005,
+    "specialties": [
+      "Performance Tuning",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-099": {
+    "name": "Smart Service Point",
+    "region": "South",
+    "location": "Mobile, AL",
+    "state": "AL",
+    "city": "Mobile",
+    "manufacturer_specialties": [
+      "BMW",
+      "Mercedes",
+      "Audi"
+    ],
+    "services": [
+      "brake_service",
+      "engine_repair",
+      "battery_replacement",
+      "electrical_diagnosis",
+      "tire_rotation",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(555) 719-8470",
+      "address": "8115 Maintenance Dr, Mobile, AL",
+      "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM",
+      "email": "contact@smartservi.service.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 2010,
+    "specialties": [
+      "Fleet Services",
+      "Commercial Vehicles",
+      "Collision Repair"
+    ]
+  },
+  "DEALER-100": {
+    "name": "Scion Service Hub",
+    "region": "Central",
+    "location": "Grand Island, NE",
+    "state": "NE",
+    "city": "Grand Island",
+    "manufacturer_specialties": [
+      "Honda",
+      "Toyota",
+      "Nissan"
+    ],
+    "services": [
+      "air_conditioning",
+      "brake_service",
+      "tune_up",
+      "electrical_diagnosis",
+      "engine_repair",
+      "battery_replacement",
+      "oil_change",
+      "general_inspection"
+    ],
+    "certified": true,
+    "contact": {
+      "phone": "(206) 459-1660",
+      "address": "7038 Garage Blvd, Grand Island, NE",
+      "hours": "Mon-Sat 8AM-6PM, Sun 10AM-4PM",
+      "email": "contact@scionservi.autoservice.com"
+    },
+    "appointment_slots": [
+      "09:00",
+      "10:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "year_established": 1998,
+    "specialties": [
+      "Warranty Work",
+      "Performance Tuning"
+    ]
+  }
+}

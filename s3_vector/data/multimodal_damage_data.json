@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "generated_at": 1753724409.652262,
+    "generated_date": "2025-07-28 13:40:09",
+    "total_entries": 6,
+    "description": "Multi-modal automotive damage assessment data",
+    "data_types": [
+      "Image descriptions",
+      "Damage text",
+      "Vehicle metadata",
+      "Parts and labor information"
+    ]
+  },
+  "damage_cases": [
+    {
+      "id": "damage_001",
+      "image_description": "Front bumper damage on white 2019 Honda Civic - cracked plastic, paint scratches",
+      "damage_text": "Minor front bumper impact damage. Plastic bumper cover has hairline crack on passenger side. Paint scratches visible but no structural damage.",
+      "parts_needed": ["bumper_cover", "paint"],
+      "labor_hours": 4.5,
+      "metadata": {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Civic", 
+        "vehicle_year": 2019,
+        "damage_type": "bumper_damage",
+        "severity": "minor",
+        "estimated_cost": 1200,
+        "claim_type": "collision"
+      }
+    },
+    {
+      "id": "damage_002", 
+      "image_description": "Side door dent on blue 2020 Toyota Camry - door panel pushed in, no paint damage",
+      "damage_text": "Door panel dent from parking lot incident. Metal deformation on driver side rear door. Paint intact with no scratches.",
+      "parts_needed": ["no_parts_needed"],
+      "labor_hours": 2.0,
+      "metadata": {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Camry", 
+        "vehicle_year": 2020,
+        "damage_type": "dent",
+        "severity": "minor",
+        "estimated_cost": 350,
+        "claim_type": "comprehensive"
+      }
+    },
+    {
+      "id": "damage_003",
+      "image_description": "Rear-end collision damage on black 2018 BMW X5 - trunk crushed, taillights broken",
+      "damage_text": "Severe rear-end collision damage. Trunk lid severely deformed and won't close. Both taillights shattered.",
+      "parts_needed": ["trunk_lid", "taillights", "rear_bumper", "structural_repair"],
+      "labor_hours": 25.0,
+      "metadata": {
+        "vehicle_make": "BMW",
+        "vehicle_model": "X5",
+        "vehicle_year": 2018,
+        "damage_type": "collision_damage",
+        "severity": "severe",
+        "estimated_cost": 8500,
+        "claim_type": "collision"
+      }
+    },
+    {
+      "id": "damage_004",
+      "image_description": "Windshield crack on red 2021 Ford F-150 - spider web crack from rock impact",
+      "damage_text": "Windshield damage from road debris impact. Spider web crack pattern starting from passenger side.",
+      "parts_needed": ["windshield"],
+      "labor_hours": 1.5,
+      "metadata": {
+        "vehicle_make": "Ford",
+        "vehicle_model": "F-150",
+        "vehicle_year": 2021,
+        "damage_type": "glass_damage",
+        "severity": "moderate",
+        "estimated_cost": 450,
+        "claim_type": "comprehensive"
+      }
+    },
+    {
+      "id": "damage_005",
+      "image_description": "Hail damage on silver 2019 Chevrolet Silverado - multiple dents on hood and roof",
+      "damage_text": "Extensive hail damage from severe weather event. Multiple small to medium dents across hood, roof, and truck bed.",
+      "parts_needed": ["no_parts_needed"],
+      "labor_hours": 12.0,
+      "metadata": {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Silverado",
+        "vehicle_year": 2019,
+        "damage_type": "hail_damage",
+        "severity": "extensive",
+        "estimated_cost": 3200,
+        "claim_type": "comprehensive"
+      }
+    },
+    {
+      "id": "damage_006",
+      "image_description": "Scratch damage on white 2020 Tesla Model 3 - deep scratches along passenger side",
+      "damage_text": "Vandalism damage with deep scratches along passenger side doors and quarter panel. Scratches penetrate through paint to primer.",
+      "parts_needed": ["paint", "primer", "clear_coat"],
+      "labor_hours": 8.0,
+      "metadata": {
+        "vehicle_make": "Tesla",
+        "vehicle_model": "Model 3",
+        "vehicle_year": 2020,
+        "damage_type": "scratch_damage",
+        "severity": "moderate",
+        "estimated_cost": 2100,
+        "claim_type": "comprehensive"
+      }
+    }
+  ]
+}

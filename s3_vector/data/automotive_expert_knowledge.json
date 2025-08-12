@@ -1,0 +1,883 @@
+{
+  "metadata": {
+    "generated_at": 1754696000.326384,
+    "generated_date": "2025-08-08 19:33:20",
+    "total_entries": 50,
+    "description": "Automotive expert knowledge base for dealer-OEM technical advisory",
+    "data_types": [
+      "Technical Service Bulletins",
+      "Warranty Claims",
+      "Parts Inventory",
+      "Diagnostic Procedures",
+      "Recall Information",
+      "Dealer Certifications"
+    ],
+    "filterable_metadata_keys": [
+      "knowledge_type",
+      "manufacturer",
+      "vehicle_category",
+      "severity_level",
+      "warranty_covered",
+      "certification_required"
+    ],
+    "non_filterable_metadata_keys": [
+      "technical_details",
+      "diagnostic_steps",
+      "parts_list",
+      "labor_time",
+      "special_tools"
+    ]
+  },
+  "knowledge_entries": [
+    {
+      "id": "recall_001",
+      "text": "Recall Information: Ford sedan information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "Ford",
+        "vehicle_category": "sedan",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Ford sedan vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "135 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "cert_002",
+      "text": "Dealer Certification: Audi suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Audi",
+        "vehicle_category": "suv",
+        "severity_level": "critical",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Audi suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "97 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_003",
+      "text": "Diagnostic Procedure: BMW BMW Model Brake System Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for brake system related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Compression Tester, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "BMW",
+        "vehicle_category": "truck",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Brake System diagnostic procedure for BMW vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($29.61), Replacement fuses/relays as needed",
+        "labor_time": "66 minutes",
+        "special_tools": "Compression Tester, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "cert_004",
+      "text": "Dealer Certification: Nissan electric information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Nissan",
+        "vehicle_category": "electric",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Technical information for Nissan electric vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "174 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_005",
+      "text": "Diagnostic Procedure: Volkswagen Volkswagen Model Exhaust Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for exhaust related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Compression Tester, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "electric",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Exhaust diagnostic procedure for Volkswagen vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($17.85), Replacement fuses/relays as needed",
+        "labor_time": "80 minutes",
+        "special_tools": "Compression Tester, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "warranty_006",
+      "text": "Warranty Claim: Volkswagen Volkswagen Model Air Conditioning Premature Wear\n\nClaim Details: Customer reports air conditioning failure at 31,774 miles. Initial inspection confirms premature wear affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace air conditioning with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $1,934.06\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "compact",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Premature Wear in air conditioning. Typically occurs between 26,774 and 41,774 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Air Conditioning (Warranty covered), Installation hardware ($54.64)",
+        "labor_time": "163 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "tsb_007",
+      "text": "Technical Service Bulletin: Chevrolet Chevrolet Model 2021-2023 Engine Oil Leak\n\nSymptoms: Clunking noise when driving over bumps. Customer reports multiple occurrences of this condition.\n\nRoot Cause: Worn brake pads requiring replacement. This condition is more common in vehicles with higher mileage or in certain environmental conditions.\n\nSolution: Replace affected component (Part #PART-002) and perform system inspection. Follow proper installation procedures as outlined in service manual.\n\nAffected Models: 2021-2023 Chevrolet Chevrolet Model (all trim levels)\nWarranty Extension: Covered under extended warranty up to 91,000 miles\nLabor Time: 1.1 hours\nDifficulty: Basic",
+      "metadata": {
+        "knowledge_type": "Technical Service Bulletin",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "truck",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Worn brake pads requiring replacement. Common in high-mileage vehicles. Affects 2021-2023 Chevrolet Model models regardless of engine type.",
+        "diagnostic_steps": "1. Verify symptom reproduction 2. Check system voltage/pressure 3. Test component with appropriate tools 4. Inspect related components 5. Replace part and test",
+        "parts_list": "PART Component #PART-002 ($61.09), Related fluids/cleaners ($23.29)",
+        "labor_time": "66 minutes",
+        "special_tools": "Torque wrench, alignment tools"
+      }
+    },
+    {
+      "id": "parts_008",
+      "text": "Parts Information: Ford sedan information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Ford",
+        "vehicle_category": "sedan",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Ford sedan vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "51 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_009",
+      "text": "Warranty Claim: Hyundai Hyundai Model Brake System Material Defect\n\nClaim Details: Customer reports brake system failure at 63,018 miles. Initial inspection confirms material defect affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace brake system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $4,765.6\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "hybrid",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Material Defect in brake system. Typically occurs between 58,018 and 73,018 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Brake System (Warranty covered), Installation hardware ($62.39)",
+        "labor_time": "144 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "recall_010",
+      "text": "Recall Information: BMW compact information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "BMW",
+        "vehicle_category": "compact",
+        "severity_level": "critical",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Technical information for BMW compact vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "95 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "cert_011",
+      "text": "Dealer Certification: Hyundai electric information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "electric",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Hyundai electric vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "118 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_012",
+      "text": "Diagnostic Procedure: Lexus Lexus Model Brake System Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for brake system related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Brake Fluid Tester, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Lexus",
+        "vehicle_category": "truck",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Brake System diagnostic procedure for Lexus vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($16.47), Replacement fuses/relays as needed",
+        "labor_time": "59 minutes",
+        "special_tools": "Brake Fluid Tester, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "recall_013",
+      "text": "Recall Information: BMW hybrid information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "BMW",
+        "vehicle_category": "hybrid",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for BMW hybrid vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "145 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_014",
+      "text": "Warranty Claim: BMW BMW Model Engine Block Assembly Error\n\nClaim Details: Customer reports engine block failure at 74,384 miles. Initial inspection confirms assembly error affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace engine block with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $3,369.53\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "BMW",
+        "vehicle_category": "electric",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Assembly Error in engine block. Typically occurs between 69,384 and 84,384 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Engine Block (Warranty covered), Installation hardware ($39.64)",
+        "labor_time": "145 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_015",
+      "text": "Parts Information: Chevrolet suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "suv",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Chevrolet suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "47 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "recall_016",
+      "text": "Recall Information: Audi luxury information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "Audi",
+        "vehicle_category": "luxury",
+        "severity_level": "low",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Technical information for Audi luxury vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "37 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "tsb_017",
+      "text": "Technical Service Bulletin: Mercedes C-Class 2020-2020 Engine Oil Leak\n\nSymptoms: Intermittent electrical component failures. Customer reports multiple occurrences of this condition.\n\nRoot Cause: Worn brake pads requiring replacement. This condition is more common in vehicles with higher mileage or in certain environmental conditions.\n\nSolution: Replace affected component (Part #A2711800009) and perform system inspection. Follow proper installation procedures as outlined in service manual.\n\nAffected Models: 2020-2020 Mercedes C-Class (all trim levels)\nWarranty Extension: Covered under extended warranty up to 66,000 miles\nLabor Time: 3.8 hours\nDifficulty: Advanced",
+      "metadata": {
+        "knowledge_type": "Technical Service Bulletin",
+        "manufacturer": "Mercedes",
+        "vehicle_category": "sedan",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Worn brake pads requiring replacement. Common in cold weather. Affects 2020-2020 C-Class models regardless of engine type.",
+        "diagnostic_steps": "1. Verify symptom reproduction 2. Check system voltage/pressure 3. Test component with appropriate tools 4. Inspect related components 5. Replace part and test",
+        "parts_list": "A2711800009 Component #A2711800009 ($218.21), Related fluids/cleaners ($11.99)",
+        "labor_time": "228 minutes",
+        "special_tools": "Multimeter, specialized puller tool"
+      }
+    },
+    {
+      "id": "warranty_018",
+      "text": "Warranty Claim: BMW X3 Fuel System Premature Wear\n\nClaim Details: Customer reports fuel system failure at 33,044 miles. Initial inspection confirms premature wear affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace fuel system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $1,023.55\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "BMW",
+        "vehicle_category": "suv",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Premature Wear in fuel system. Typically occurs between 28,044 and 43,044 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Fuel System (Warranty covered), Installation hardware ($61.71)",
+        "labor_time": "207 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_019",
+      "text": "Diagnostic Procedure: Nissan Nissan Model Fuel System Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for fuel system related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Compression Tester, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Nissan",
+        "vehicle_category": "compact",
+        "severity_level": "low",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Fuel System diagnostic procedure for Nissan vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($27.55), Replacement fuses/relays as needed",
+        "labor_time": "109 minutes",
+        "special_tools": "Compression Tester, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "diag_020",
+      "text": "Diagnostic Procedure: Toyota Highlander Electrical Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for electrical related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Multimeter, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Toyota",
+        "vehicle_category": "suv",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Electrical diagnostic procedure for Toyota vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($31.22), Replacement fuses/relays as needed",
+        "labor_time": "38 minutes",
+        "special_tools": "Multimeter, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "warranty_021",
+      "text": "Warranty Claim: BMW X3 Electrical System Manufacturing Defect\n\nClaim Details: Customer reports electrical system failure at 26,033 miles. Initial inspection confirms manufacturing defect affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace electrical system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $4,300.75\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "BMW",
+        "vehicle_category": "suv",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Manufacturing Defect in electrical system. Typically occurs between 21,033 and 36,033 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Electrical System (Warranty covered), Installation hardware ($32.39)",
+        "labor_time": "146 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "cert_022",
+      "text": "Dealer Certification: Audi luxury information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Audi",
+        "vehicle_category": "luxury",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Technical information for Audi luxury vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "145 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_023",
+      "text": "Warranty Claim: Audi Audi Model Air Conditioning Premature Wear\n\nClaim Details: Customer reports air conditioning failure at 65,625 miles. Initial inspection confirms premature wear affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace air conditioning with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $3,767.3\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Audi",
+        "vehicle_category": "compact",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Premature Wear in air conditioning. Typically occurs between 60,625 and 75,625 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Air Conditioning (Warranty covered), Installation hardware ($59.2)",
+        "labor_time": "85 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_024",
+      "text": "Diagnostic Procedure: Volkswagen Volkswagen Model HVAC Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for hvac related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Multimeter, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "electric",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "HVAC diagnostic procedure for Volkswagen vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($27.41), Replacement fuses/relays as needed",
+        "labor_time": "33 minutes",
+        "special_tools": "Multimeter, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "diag_025",
+      "text": "Diagnostic Procedure: Audi Audi Model Fuel System Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for fuel system related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: AC Manifold Gauge, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Audi",
+        "vehicle_category": "compact",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Fuel System diagnostic procedure for Audi vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($40.29), Replacement fuses/relays as needed",
+        "labor_time": "61 minutes",
+        "special_tools": "AC Manifold Gauge, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "parts_026",
+      "text": "Parts Information: Volkswagen suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "suv",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Volkswagen suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "65 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_027",
+      "text": "Diagnostic Procedure: Volkswagen Volkswagen Model Electrical Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for electrical related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Pressure Gauge, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "sedan",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Electrical diagnostic procedure for Volkswagen vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($28.41), Replacement fuses/relays as needed",
+        "labor_time": "56 minutes",
+        "special_tools": "Pressure Gauge, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "cert_028",
+      "text": "Dealer Certification: Toyota truck information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Toyota",
+        "vehicle_category": "truck",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Technical information for Toyota truck vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "90 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_029",
+      "text": "Warranty Claim: Toyota Toyota Model Exhaust System Material Defect\n\nClaim Details: Customer reports exhaust system failure at 36,939 miles. Initial inspection confirms material defect affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace exhaust system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $3,538.72\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Toyota",
+        "vehicle_category": "truck",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Material Defect in exhaust system. Typically occurs between 31,939 and 46,939 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Exhaust System (Warranty covered), Installation hardware ($43.1)",
+        "labor_time": "123 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_030",
+      "text": "Warranty Claim: Nissan Nissan Model Brake System Assembly Error\n\nClaim Details: Customer reports brake system failure at 69,833 miles. Initial inspection confirms assembly error affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace brake system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $1,699.61\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Nissan",
+        "vehicle_category": "truck",
+        "severity_level": "low",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Assembly Error in brake system. Typically occurs between 64,833 and 79,833 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Brake System (Warranty covered), Installation hardware ($37.01)",
+        "labor_time": "162 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_031",
+      "text": "Parts Information: Chevrolet electric information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "electric",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Technical information for Chevrolet electric vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "42 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "tsb_032",
+      "text": "Technical Service Bulletin: Volkswagen Volkswagen Model 2021-2022 Brake Noise During Operation\n\nSymptoms: Squealing or grinding noise when braking. Customer reports multiple occurrences of this condition.\n\nRoot Cause: Faulty starter relay in under-hood fuse box. This condition is more common in vehicles with higher mileage or in certain environmental conditions.\n\nSolution: Replace affected component (Part #PART-002) and perform system inspection. Follow proper installation procedures as outlined in service manual.\n\nAffected Models: 2021-2022 Volkswagen Volkswagen Model (all trim levels)\nWarranty Extension: Covered under extended warranty up to 75,000 miles\nLabor Time: 3.5 hours\nDifficulty: Basic",
+      "metadata": {
+        "knowledge_type": "Technical Service Bulletin",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "compact",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Faulty starter relay in under-hood fuse box. Common in humid climates. Affects 2021-2022 Volkswagen Model models regardless of engine type.",
+        "diagnostic_steps": "1. Verify symptom reproduction 2. Check system voltage/pressure 3. Test component with appropriate tools 4. Inspect related components 5. Replace part and test",
+        "parts_list": "PART Component #PART-002 ($98.87), Related fluids/cleaners ($25.15)",
+        "labor_time": "210 minutes",
+        "special_tools": "Multimeter, specialized puller tool"
+      }
+    },
+    {
+      "id": "parts_033",
+      "text": "Parts Information: Chevrolet suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "suv",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Technical information for Chevrolet suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "49 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_034",
+      "text": "Warranty Claim: Mercedes GLC Engine Block Material Defect\n\nClaim Details: Customer reports engine block failure at 35,404 miles. Initial inspection confirms material defect affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace engine block with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $2,968.94\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Mercedes",
+        "vehicle_category": "suv",
+        "severity_level": "critical",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Material Defect in engine block. Typically occurs between 30,404 and 45,404 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Engine Block (Warranty covered), Installation hardware ($46.74)",
+        "labor_time": "224 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_035",
+      "text": "Diagnostic Procedure: Mercedes GLE Engine Management Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for engine management related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: OBD-II Scanner, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Mercedes",
+        "vehicle_category": "suv",
+        "severity_level": "low",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Engine Management diagnostic procedure for Mercedes vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($30.49), Replacement fuses/relays as needed",
+        "labor_time": "60 minutes",
+        "special_tools": "OBD-II Scanner, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "warranty_036",
+      "text": "Warranty Claim: Audi Audi Model Suspension Components Manufacturing Defect\n\nClaim Details: Customer reports suspension components failure at 15,736 miles. Initial inspection confirms manufacturing defect affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace suspension components with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $1,181.18\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Audi",
+        "vehicle_category": "electric",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Manufacturing Defect in suspension components. Typically occurs between 10,736 and 25,736 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Suspension Components (Warranty covered), Installation hardware ($39.83)",
+        "labor_time": "104 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "warranty_037",
+      "text": "Warranty Claim: Ford Ranger Exhaust System Assembly Error\n\nClaim Details: Customer reports exhaust system failure at 24,623 miles. Initial inspection confirms assembly error affecting component performance.\n\nCoverage: This issue is covered under manufacturer warranty for vehicles within warranty period. Extended coverage may apply for known defects.\n\nResolution: Replace exhaust system with updated part. Perform system calibration and road test to verify repair.\n\nClaim Amount: $923.0\nApproval Status: Pre-approved for certified technicians\nDocumentation Required: Photos, diagnostic codes, customer statement",
+      "metadata": {
+        "knowledge_type": "Warranty Claim",
+        "manufacturer": "Ford",
+        "vehicle_category": "truck",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Assembly Error in exhaust system. Typically occurs between 19,623 and 34,623 miles. Manufacturing batch issue identified.",
+        "diagnostic_steps": "1. Document customer complaint 2. Perform visual inspection 3. Run diagnostic tests 4. Compare to known failure patterns 5. Submit warranty claim",
+        "parts_list": "Replacement Exhaust System (Warranty covered), Installation hardware ($39.73)",
+        "labor_time": "160 minutes",
+        "special_tools": "Warranty claim documentation, digital camera, diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_038",
+      "text": "Diagnostic Procedure: Chevrolet Chevrolet Model Transmission Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for transmission related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Multimeter, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "truck",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Transmission diagnostic procedure for Chevrolet vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($42.41), Replacement fuses/relays as needed",
+        "labor_time": "35 minutes",
+        "special_tools": "Multimeter, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "recall_039",
+      "text": "Recall Information: Toyota electric information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "Toyota",
+        "vehicle_category": "electric",
+        "severity_level": "high",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Toyota electric vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "166 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "diag_040",
+      "text": "Diagnostic Procedure: Honda Honda Model Suspension Diagnosis\n\nProcedure Overview: Comprehensive diagnostic approach for suspension related concerns. Follow systematic troubleshooting methodology.\n\nRequired Tools: Brake Fluid Tester, basic hand tools, service manual\n\nStep-by-Step Process:\n1. Initial system inspection and visual check\n2. Connect diagnostic equipment and retrieve codes\n3. Perform functional tests of system components\n4. Compare readings to specification values\n5. Isolate faulty component through process of elimination\n6. Verify repair with post-repair testing\n\nExpected Results: System should operate within manufacturer specifications after repair completion.",
+      "metadata": {
+        "knowledge_type": "Diagnostic Procedure",
+        "manufacturer": "Honda",
+        "vehicle_category": "electric",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Suspension diagnostic procedure for Honda vehicles. Covers common failure modes and testing protocols. Updated for current model year specifications.",
+        "diagnostic_steps": "1. Visual inspection 2. Code retrieval 3. Component testing 4. Specification comparison 5. Fault isolation 6. Repair verification",
+        "parts_list": "Diagnostic consumables ($33.74), Replacement fuses/relays as needed",
+        "labor_time": "91 minutes",
+        "special_tools": "Brake Fluid Tester, service manual, safety equipment"
+      }
+    },
+    {
+      "id": "parts_041",
+      "text": "Parts Information: Audi electric information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Audi",
+        "vehicle_category": "electric",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Audi electric vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "92 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "recall_042",
+      "text": "Recall Information: Toyota suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "Toyota",
+        "vehicle_category": "suv",
+        "severity_level": "high",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Toyota suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "74 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_043",
+      "text": "Parts Information: Nissan suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Nissan",
+        "vehicle_category": "suv",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Nissan suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "38 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_044",
+      "text": "Parts Information: Lexus compact information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Lexus",
+        "vehicle_category": "compact",
+        "severity_level": "high",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Lexus compact vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "81 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_045",
+      "text": "Parts Information: BMW hybrid information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "BMW",
+        "vehicle_category": "hybrid",
+        "severity_level": "low",
+        "warranty_covered": true,
+        "certification_required": true,
+        "technical_details": "Technical information for BMW hybrid vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "57 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_046",
+      "text": "Parts Information: Volkswagen hybrid information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Volkswagen",
+        "vehicle_category": "hybrid",
+        "severity_level": "high",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Volkswagen hybrid vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "91 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_047",
+      "text": "Parts Information: BMW luxury information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "BMW",
+        "vehicle_category": "luxury",
+        "severity_level": "critical",
+        "warranty_covered": false,
+        "certification_required": false,
+        "technical_details": "Technical information for BMW luxury vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "137 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "cert_048",
+      "text": "Dealer Certification: Chevrolet luxury information and procedures.",
+      "metadata": {
+        "knowledge_type": "Dealer Certification",
+        "manufacturer": "Chevrolet",
+        "vehicle_category": "luxury",
+        "severity_level": "medium",
+        "warranty_covered": false,
+        "certification_required": true,
+        "technical_details": "Technical information for Chevrolet luxury vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "52 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "recall_049",
+      "text": "Recall Information: Hyundai suv information and procedures.",
+      "metadata": {
+        "knowledge_type": "Recall Information",
+        "manufacturer": "Hyundai",
+        "vehicle_category": "suv",
+        "severity_level": "medium",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Hyundai suv vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "55 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    },
+    {
+      "id": "parts_050",
+      "text": "Parts Information: Mercedes truck information and procedures.",
+      "metadata": {
+        "knowledge_type": "Parts Information",
+        "manufacturer": "Mercedes",
+        "vehicle_category": "truck",
+        "severity_level": "high",
+        "warranty_covered": true,
+        "certification_required": false,
+        "technical_details": "Technical information for Mercedes truck vehicles.",
+        "diagnostic_steps": "1. Assessment 2. Analysis 3. Action 4. Verification",
+        "parts_list": "Various components as needed",
+        "labor_time": "88 minutes",
+        "special_tools": "Standard diagnostic equipment"
+      }
+    }
+  ]
+}

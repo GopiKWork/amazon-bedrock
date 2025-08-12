@@ -1,0 +1,812 @@
+{
+  "brake": [
+    {
+      "part_id": "BP-F-001",
+      "name": "Brake Pads (Front)",
+      "category": "brake",
+      "oem_part": "BP-F-001",
+      "aftermarket": "AM-BP-F-001",
+      "quantity": 1,
+      "oem_cost": 85.55,
+      "am_cost": 47.27,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Toyota Camry",
+        "Honda Civic"
+      ]
+    },
+    {
+      "part_id": "BP-R-002",
+      "name": "Brake Pads (Rear)",
+      "category": "brake",
+      "oem_part": "BP-R-002",
+      "aftermarket": "AM-BP-R-002",
+      "quantity": 1,
+      "oem_cost": 51.54,
+      "am_cost": 25.86,
+      "compatible_vehicles": [
+        "Nissan Altima",
+        "Toyota Camry",
+        "Ford Fusion",
+        "Honda Civic"
+      ]
+    },
+    {
+      "part_id": "BR-F-003",
+      "name": "Brake Rotors (Front)",
+      "category": "brake",
+      "oem_part": "BR-F-003",
+      "aftermarket": "AM-BR-F-003",
+      "quantity": 1,
+      "oem_cost": 172.95,
+      "am_cost": 62.18,
+      "compatible_vehicles": [
+        "Mercedes C-Class",
+        "Acura MDX",
+        "BMW 3 Series",
+        "BMW X3",
+        "Audi Q3"
+      ]
+    },
+    {
+      "part_id": "BR-R-004",
+      "name": "Brake Rotors (Rear)",
+      "category": "brake",
+      "oem_part": "BR-R-004",
+      "aftermarket": "AM-BR-R-004",
+      "quantity": 1,
+      "oem_cost": 100.53,
+      "am_cost": 52.62,
+      "compatible_vehicles": [
+        "Mercedes C-Class",
+        "BMW X3",
+        "Acura MDX",
+        "Audi Q3"
+      ]
+    },
+    {
+      "part_id": "BC-F-005",
+      "name": "Brake Calipers (Front)",
+      "category": "brake",
+      "oem_part": "BC-F-005",
+      "aftermarket": "AM-BC-F-005",
+      "quantity": 1,
+      "oem_cost": 322.67,
+      "am_cost": 107.26,
+      "compatible_vehicles": [
+        "Ram 1500",
+        "Chevrolet Silverado",
+        "Toyota Tundra",
+        "GMC Sierra",
+        "Ford F-150"
+      ]
+    },
+    {
+      "part_id": "BMC-006",
+      "name": "Brake Master Cylinder",
+      "category": "brake",
+      "oem_part": "BMC-006",
+      "aftermarket": "AM-BMC-006",
+      "quantity": 1,
+      "oem_cost": 371.96,
+      "am_cost": 92.73,
+      "compatible_vehicles": [
+        "Subaru Outback",
+        "Kia Forte",
+        "Volkswagen Jetta"
+      ]
+    },
+    {
+      "part_id": "BP-F-V2-007",
+      "name": "Brake Pads (Front) (Variant 2)",
+      "category": "brake",
+      "oem_part": "BP-F-V2-007",
+      "aftermarket": "AM-BP-F-V2-007",
+      "quantity": 1,
+      "oem_cost": 98.95,
+      "am_cost": 41.35,
+      "compatible_vehicles": [
+        "Honda Accord",
+        "Honda Civic",
+        "Toyota Camry",
+        "Nissan Altima",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "BP-R-V2-008",
+      "name": "Brake Pads (Rear) (Variant 2)",
+      "category": "brake",
+      "oem_part": "BP-R-V2-008",
+      "aftermarket": "AM-BP-R-V2-008",
+      "quantity": 1,
+      "oem_cost": 87.04,
+      "am_cost": 26.58,
+      "compatible_vehicles": [
+        "Ford Fusion",
+        "Toyota Camry",
+        "Chevrolet Malibu",
+        "Honda Accord"
+      ]
+    },
+    {
+      "part_id": "BR-F-V2-009",
+      "name": "Brake Rotors (Front) (Variant 2)",
+      "category": "brake",
+      "oem_part": "BR-F-V2-009",
+      "aftermarket": "AM-BR-F-V2-009",
+      "quantity": 1,
+      "oem_cost": 138.63,
+      "am_cost": 105.21,
+      "compatible_vehicles": [
+        "BMW X3",
+        "Acura MDX",
+        "Lexus RX",
+        "Audi Q3",
+        "BMW 3 Series"
+      ]
+    },
+    {
+      "part_id": "BR-R-V2-010",
+      "name": "Brake Rotors (Rear) (Variant 2)",
+      "category": "brake",
+      "oem_part": "BR-R-V2-010",
+      "aftermarket": "AM-BR-R-V2-010",
+      "quantity": 1,
+      "oem_cost": 166.81,
+      "am_cost": 89.45,
+      "compatible_vehicles": [
+        "Mercedes C-Class",
+        "Acura MDX",
+        "BMW X3",
+        "Audi Q3"
+      ]
+    }
+  ],
+  "engine": [
+    {
+      "part_id": "OF-011",
+      "name": "Oil Filter",
+      "category": "engine",
+      "oem_part": "OF-011",
+      "aftermarket": "AM-OF-011",
+      "quantity": 1,
+      "oem_cost": 8.32,
+      "am_cost": 5.19,
+      "compatible_vehicles": [
+        "Toyota Corolla",
+        "Ford Focus",
+        "Chevrolet Cruze"
+      ]
+    },
+    {
+      "part_id": "AF-012",
+      "name": "Air Filter",
+      "category": "engine",
+      "oem_part": "AF-012",
+      "aftermarket": "AM-AF-012",
+      "quantity": 1,
+      "oem_cost": 31.02,
+      "am_cost": 18.05,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Ford Fusion",
+        "Nissan Altima"
+      ]
+    },
+    {
+      "part_id": "SP-013",
+      "name": "Spark Plugs (Set of 4)",
+      "category": "engine",
+      "oem_part": "SP-013",
+      "aftermarket": "AM-SP-013",
+      "quantity": 2,
+      "oem_cost": 52.66,
+      "am_cost": 30.66,
+      "compatible_vehicles": [
+        "Kia Forte",
+        "Toyota Corolla",
+        "Mazda3"
+      ]
+    },
+    {
+      "part_id": "IC-014",
+      "name": "Ignition Coils",
+      "category": "engine",
+      "oem_part": "IC-014",
+      "aftermarket": "AM-IC-014",
+      "quantity": 1,
+      "oem_cost": 191.87,
+      "am_cost": 64.4,
+      "compatible_vehicles": [
+        "Acura TLX",
+        "BMW 3 Series",
+        "Lexus IS",
+        "Mercedes C-Class",
+        "Audi A4"
+      ]
+    },
+    {
+      "part_id": "TB-015",
+      "name": "Timing Belt",
+      "category": "engine",
+      "oem_part": "TB-015",
+      "aftermarket": "AM-TB-015",
+      "quantity": 1,
+      "oem_cost": 133.82,
+      "am_cost": 54.14,
+      "compatible_vehicles": [
+        "Honda Accord",
+        "Subaru Outback",
+        "Volvo XC60",
+        "Toyota Camry",
+        "Volkswagen Jetta"
+      ]
+    },
+    {
+      "part_id": "WP-016",
+      "name": "Water Pump",
+      "category": "engine",
+      "oem_part": "WP-016",
+      "aftermarket": "AM-WP-016",
+      "quantity": 1,
+      "oem_cost": 285.47,
+      "am_cost": 83.05,
+      "compatible_vehicles": [
+        "Ford F-150",
+        "Toyota Tundra",
+        "Nissan Titan",
+        "Ram 1500"
+      ]
+    },
+    {
+      "part_id": "OF-V2-017",
+      "name": "Oil Filter (Variant 2)",
+      "category": "engine",
+      "oem_part": "OF-V2-017",
+      "aftermarket": "AM-OF-V2-017",
+      "quantity": 1,
+      "oem_cost": 11.08,
+      "am_cost": 3.43,
+      "compatible_vehicles": [
+        "Ford Focus",
+        "Honda Civic",
+        "Chevrolet Cruze"
+      ]
+    },
+    {
+      "part_id": "AF-V2-018",
+      "name": "Air Filter (Variant 2)",
+      "category": "engine",
+      "oem_part": "AF-V2-018",
+      "aftermarket": "AM-AF-V2-018",
+      "quantity": 1,
+      "oem_cost": 15.99,
+      "am_cost": 8.38,
+      "compatible_vehicles": [
+        "Toyota Camry",
+        "Honda Accord",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "SP-V2-019",
+      "name": "Spark Plugs (Set of 4) (Variant 2)",
+      "category": "engine",
+      "oem_part": "SP-V2-019",
+      "aftermarket": "AM-SP-V2-019",
+      "quantity": 4,
+      "oem_cost": 32.51,
+      "am_cost": 39.86,
+      "compatible_vehicles": [
+        "Mazda3",
+        "Hyundai Elantra",
+        "Toyota Corolla",
+        "Kia Forte"
+      ]
+    },
+    {
+      "part_id": "IC-V2-020",
+      "name": "Ignition Coils (Variant 2)",
+      "category": "engine",
+      "oem_part": "IC-V2-020",
+      "aftermarket": "AM-IC-V2-020",
+      "quantity": 1,
+      "oem_cost": 138.31,
+      "am_cost": 52.52,
+      "compatible_vehicles": [
+        "BMW 3 Series",
+        "Audi A4",
+        "Lexus IS",
+        "Acura TLX",
+        "Mercedes C-Class"
+      ]
+    }
+  ],
+  "transmission": [
+    {
+      "part_id": "TF-021",
+      "name": "Transmission Filter",
+      "category": "transmission",
+      "oem_part": "TF-021",
+      "aftermarket": "AM-TF-021",
+      "quantity": 1,
+      "oem_cost": 38.55,
+      "am_cost": 18.64,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Ford Fusion",
+        "Nissan Altima",
+        "Honda Accord"
+      ]
+    },
+    {
+      "part_id": "TFL-022",
+      "name": "Transmission Fluid (Quart)",
+      "category": "transmission",
+      "oem_part": "TFL-022",
+      "aftermarket": "AM-TFL-022",
+      "quantity": 1,
+      "oem_cost": 24.28,
+      "am_cost": 14.97,
+      "compatible_vehicles": [
+        "Honda Civic",
+        "Ford Focus",
+        "Toyota Corolla"
+      ]
+    },
+    {
+      "part_id": "CK-023",
+      "name": "Clutch Kit",
+      "category": "transmission",
+      "oem_part": "CK-023",
+      "aftermarket": "AM-CK-023",
+      "quantity": 4,
+      "oem_cost": 978.41,
+      "am_cost": 371.04,
+      "compatible_vehicles": [
+        "Mazda MX-5",
+        "Volkswagen GTI",
+        "Honda Civic Si"
+      ]
+    },
+    {
+      "part_id": "CVJ-024",
+      "name": "CV Joint",
+      "category": "transmission",
+      "oem_part": "CVJ-024",
+      "aftermarket": "AM-CVJ-024",
+      "quantity": 1,
+      "oem_cost": 280.02,
+      "am_cost": 142.06,
+      "compatible_vehicles": [
+        "Honda CR-V",
+        "Mazda CX-5",
+        "Toyota RAV4"
+      ]
+    },
+    {
+      "part_id": "TF-V2-025",
+      "name": "Transmission Filter (Variant 2)",
+      "category": "transmission",
+      "oem_part": "TF-V2-025",
+      "aftermarket": "AM-TF-V2-025",
+      "quantity": 1,
+      "oem_cost": 29.96,
+      "am_cost": 20.48,
+      "compatible_vehicles": [
+        "Toyota Camry",
+        "Honda Accord",
+        "Nissan Altima",
+        "Chevrolet Malibu"
+      ]
+    },
+    {
+      "part_id": "TFL-V2-026",
+      "name": "Transmission Fluid (Quart) (Variant 2)",
+      "category": "transmission",
+      "oem_part": "TFL-V2-026",
+      "aftermarket": "AM-TFL-V2-026",
+      "quantity": 1,
+      "oem_cost": 34.5,
+      "am_cost": 14.05,
+      "compatible_vehicles": [
+        "Toyota Corolla",
+        "Nissan Sentra",
+        "Chevrolet Cruze"
+      ]
+    },
+    {
+      "part_id": "CK-V2-027",
+      "name": "Clutch Kit (Variant 2)",
+      "category": "transmission",
+      "oem_part": "CK-V2-027",
+      "aftermarket": "AM-CK-V2-027",
+      "quantity": 1,
+      "oem_cost": 573.36,
+      "am_cost": 288.87,
+      "compatible_vehicles": [
+        "Subaru WRX",
+        "Volkswagen GTI",
+        "Ford Mustang",
+        "Honda Civic Si"
+      ]
+    },
+    {
+      "part_id": "CVJ-V2-028",
+      "name": "CV Joint (Variant 2)",
+      "category": "transmission",
+      "oem_part": "CVJ-V2-028",
+      "aftermarket": "AM-CVJ-V2-028",
+      "quantity": 1,
+      "oem_cost": 191.85,
+      "am_cost": 77.29,
+      "compatible_vehicles": [
+        "Subaru Forester",
+        "Hyundai Tucson",
+        "Mazda CX-5"
+      ]
+    },
+    {
+      "part_id": "TF-V3-029",
+      "name": "Transmission Filter (Variant 3)",
+      "category": "transmission",
+      "oem_part": "TF-V3-029",
+      "aftermarket": "AM-TF-V3-029",
+      "quantity": 1,
+      "oem_cost": 26.37,
+      "am_cost": 20.24,
+      "compatible_vehicles": [
+        "Honda Accord",
+        "Chevrolet Malibu",
+        "Toyota Camry",
+        "Nissan Altima",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "TFL-V3-030",
+      "name": "Transmission Fluid (Quart) (Variant 3)",
+      "category": "transmission",
+      "oem_part": "TFL-V3-030",
+      "aftermarket": "AM-TFL-V3-030",
+      "quantity": 1,
+      "oem_cost": 24.34,
+      "am_cost": 17.64,
+      "compatible_vehicles": [
+        "Chevrolet Cruze",
+        "Honda Civic",
+        "Ford Focus",
+        "Nissan Sentra",
+        "Toyota Corolla"
+      ]
+    }
+  ],
+  "suspension": [
+    {
+      "part_id": "SA-F-031",
+      "name": "Shock Absorbers (Front)",
+      "category": "suspension",
+      "oem_part": "SA-F-031",
+      "aftermarket": "AM-SA-F-031",
+      "quantity": 1,
+      "oem_cost": 261.9,
+      "am_cost": 64.31,
+      "compatible_vehicles": [
+        "Ram 1500",
+        "Ford F-150",
+        "Toyota Tundra"
+      ]
+    },
+    {
+      "part_id": "ST-F-032",
+      "name": "Struts (Front)",
+      "category": "suspension",
+      "oem_part": "ST-F-032",
+      "aftermarket": "AM-ST-F-032",
+      "quantity": 1,
+      "oem_cost": 279.85,
+      "am_cost": 117.76,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Nissan Altima",
+        "Honda Accord",
+        "Toyota Camry"
+      ]
+    },
+    {
+      "part_id": "CA-033",
+      "name": "Control Arms",
+      "category": "suspension",
+      "oem_part": "CA-033",
+      "aftermarket": "AM-CA-033",
+      "quantity": 1,
+      "oem_cost": 344.45,
+      "am_cost": 143.62,
+      "compatible_vehicles": [
+        "BMW 3 Series",
+        "Lexus IS",
+        "Audi A4",
+        "Mercedes C-Class"
+      ]
+    },
+    {
+      "part_id": "BJ-034",
+      "name": "Ball Joints",
+      "category": "suspension",
+      "oem_part": "BJ-034",
+      "aftermarket": "AM-BJ-034",
+      "quantity": 1,
+      "oem_cost": 63.35,
+      "am_cost": 51.19,
+      "compatible_vehicles": [
+        "Ford Escape",
+        "Nissan Rogue",
+        "Chevrolet Equinox"
+      ]
+    },
+    {
+      "part_id": "SA-F-V2-035",
+      "name": "Shock Absorbers (Front) (Variant 2)",
+      "category": "suspension",
+      "oem_part": "SA-F-V2-035",
+      "aftermarket": "AM-SA-F-V2-035",
+      "quantity": 1,
+      "oem_cost": 115.17,
+      "am_cost": 123.96,
+      "compatible_vehicles": [
+        "GMC Sierra",
+        "Chevrolet Silverado",
+        "Toyota Tundra",
+        "Ford F-150"
+      ]
+    },
+    {
+      "part_id": "ST-F-V2-036",
+      "name": "Struts (Front) (Variant 2)",
+      "category": "suspension",
+      "oem_part": "ST-F-V2-036",
+      "aftermarket": "AM-ST-F-V2-036",
+      "quantity": 1,
+      "oem_cost": 281.63,
+      "am_cost": 161.64,
+      "compatible_vehicles": [
+        "Nissan Altima",
+        "Toyota Camry",
+        "Chevrolet Malibu",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "CA-V2-037",
+      "name": "Control Arms (Variant 2)",
+      "category": "suspension",
+      "oem_part": "CA-V2-037",
+      "aftermarket": "AM-CA-V2-037",
+      "quantity": 1,
+      "oem_cost": 319.98,
+      "am_cost": 86.21,
+      "compatible_vehicles": [
+        "Acura TLX",
+        "Lexus IS",
+        "Mercedes C-Class",
+        "BMW 3 Series"
+      ]
+    },
+    {
+      "part_id": "BJ-V2-038",
+      "name": "Ball Joints (Variant 2)",
+      "category": "suspension",
+      "oem_part": "BJ-V2-038",
+      "aftermarket": "AM-BJ-V2-038",
+      "quantity": 1,
+      "oem_cost": 69.07,
+      "am_cost": 31.72,
+      "compatible_vehicles": [
+        "Chevrolet Equinox",
+        "Ford Escape",
+        "Nissan Rogue",
+        "Honda CR-V"
+      ]
+    },
+    {
+      "part_id": "SA-F-V3-039",
+      "name": "Shock Absorbers (Front) (Variant 3)",
+      "category": "suspension",
+      "oem_part": "SA-F-V3-039",
+      "aftermarket": "AM-SA-F-V3-039",
+      "quantity": 1,
+      "oem_cost": 293.7,
+      "am_cost": 91.73,
+      "compatible_vehicles": [
+        "Ram 1500",
+        "GMC Sierra",
+        "Toyota Tundra",
+        "Chevrolet Silverado",
+        "Ford F-150"
+      ]
+    },
+    {
+      "part_id": "ST-F-V3-040",
+      "name": "Struts (Front) (Variant 3)",
+      "category": "suspension",
+      "oem_part": "ST-F-V3-040",
+      "aftermarket": "AM-ST-F-V3-040",
+      "quantity": 1,
+      "oem_cost": 335.86,
+      "am_cost": 111.56,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Ford Fusion",
+        "Nissan Altima",
+        "Toyota Camry",
+        "Honda Accord"
+      ]
+    }
+  ],
+  "electrical": [
+    {
+      "part_id": "BAT-041",
+      "name": "Battery",
+      "category": "electrical",
+      "oem_part": "BAT-041",
+      "aftermarket": "AM-BAT-041",
+      "quantity": 1,
+      "oem_cost": 172.08,
+      "am_cost": 98.88,
+      "compatible_vehicles": [
+        "Ford Fusion",
+        "Chevrolet Malibu",
+        "Toyota Camry",
+        "Honda Accord",
+        "Nissan Altima"
+      ]
+    },
+    {
+      "part_id": "ALT-042",
+      "name": "Alternator",
+      "category": "electrical",
+      "oem_part": "ALT-042",
+      "aftermarket": "AM-ALT-042",
+      "quantity": 1,
+      "oem_cost": 472.68,
+      "am_cost": 156.64,
+      "compatible_vehicles": [
+        "Toyota Tundra",
+        "Ram 1500",
+        "GMC Sierra",
+        "Ford F-150",
+        "Chevrolet Silverado"
+      ]
+    },
+    {
+      "part_id": "STR-043",
+      "name": "Starter",
+      "category": "electrical",
+      "oem_part": "STR-043",
+      "aftermarket": "AM-STR-043",
+      "quantity": 1,
+      "oem_cost": 478.84,
+      "am_cost": 101.65,
+      "compatible_vehicles": [
+        "Chevrolet Cruze",
+        "Honda Civic",
+        "Ford Focus"
+      ]
+    },
+    {
+      "part_id": "HLA-044",
+      "name": "Headlight Assembly",
+      "category": "electrical",
+      "oem_part": "HLA-044",
+      "aftermarket": "AM-HLA-044",
+      "quantity": 1,
+      "oem_cost": 442.42,
+      "am_cost": 118.95,
+      "compatible_vehicles": [
+        "Lexus RX",
+        "Audi Q5",
+        "BMW X3"
+      ]
+    },
+    {
+      "part_id": "BAT-V2-045",
+      "name": "Battery (Variant 2)",
+      "category": "electrical",
+      "oem_part": "BAT-V2-045",
+      "aftermarket": "AM-BAT-V2-045",
+      "quantity": 1,
+      "oem_cost": 146.72,
+      "am_cost": 60.56,
+      "compatible_vehicles": [
+        "Chevrolet Malibu",
+        "Nissan Altima",
+        "Honda Accord",
+        "Toyota Camry",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "ALT-V2-046",
+      "name": "Alternator (Variant 2)",
+      "category": "electrical",
+      "oem_part": "ALT-V2-046",
+      "aftermarket": "AM-ALT-V2-046",
+      "quantity": 1,
+      "oem_cost": 582.95,
+      "am_cost": 145.92,
+      "compatible_vehicles": [
+        "Toyota Tundra",
+        "Chevrolet Silverado",
+        "GMC Sierra",
+        "Ford F-150",
+        "Ram 1500"
+      ]
+    },
+    {
+      "part_id": "STR-V2-047",
+      "name": "Starter (Variant 2)",
+      "category": "electrical",
+      "oem_part": "STR-V2-047",
+      "aftermarket": "AM-STR-V2-047",
+      "quantity": 1,
+      "oem_cost": 385.56,
+      "am_cost": 231.36,
+      "compatible_vehicles": [
+        "Honda Civic",
+        "Ford Focus",
+        "Nissan Sentra",
+        "Toyota Corolla",
+        "Chevrolet Cruze"
+      ]
+    },
+    {
+      "part_id": "HLA-V2-048",
+      "name": "Headlight Assembly (Variant 2)",
+      "category": "electrical",
+      "oem_part": "HLA-V2-048",
+      "aftermarket": "AM-HLA-V2-048",
+      "quantity": 1,
+      "oem_cost": 410.23,
+      "am_cost": 82.04,
+      "compatible_vehicles": [
+        "Acura MDX",
+        "Audi Q5",
+        "Lexus RX",
+        "Mercedes GLC",
+        "BMW X3"
+      ]
+    },
+    {
+      "part_id": "BAT-V3-049",
+      "name": "Battery (Variant 3)",
+      "category": "electrical",
+      "oem_part": "BAT-V3-049",
+      "aftermarket": "AM-BAT-V3-049",
+      "quantity": 1,
+      "oem_cost": 165.6,
+      "am_cost": 122.81,
+      "compatible_vehicles": [
+        "Toyota Camry",
+        "Chevrolet Malibu",
+        "Ford Fusion"
+      ]
+    },
+    {
+      "part_id": "ALT-V3-050",
+      "name": "Alternator (Variant 3)",
+      "category": "electrical",
+      "oem_part": "ALT-V3-050",
+      "aftermarket": "AM-ALT-V3-050",
+      "quantity": 1,
+      "oem_cost": 374.07,
+      "am_cost": 194.64,
+      "compatible_vehicles": [
+        "Ford F-150",
+        "Chevrolet Silverado",
+        "GMC Sierra",
+        "Toyota Tundra"
+      ]
+    }
+  ]
+}
