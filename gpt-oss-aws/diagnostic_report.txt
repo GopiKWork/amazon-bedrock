@@ -1,0 +1,30 @@
+AUTOMOTIVE DIAGNOSTIC REPORT
+=============================
+
+Vehicle Information:
+- Make: Toyota
+- Model: Camry
+- Year: 2019
+- Mileage: 78,500 miles
+- Customer: John Smith
+
+Reported Issues:
+- Engine making unusual noise during acceleration
+- Check engine light intermittently on
+- Reduced fuel economy (15% decrease)
+- Rough idle when cold starting
+
+OBD-II Scan Results:
+- P0171: System Too Lean (Bank 1)
+- P0174: System Too Lean (Bank 2)
+- P0300: Random/Multiple Cylinder Misfire
+
+Recommended Repairs:
+1. Replace cracked vacuum hose - $25 parts + $50 labor
+2. Replace air filter - $15 parts + $20 labor
+3. Replace spark plugs (set of 4) - $40 parts + $80 labor
+4. Clean MAF sensor - $10 cleaning + $30 labor
+
+Total Estimate: $270 + tax
+
+Technician: Sarah Williams

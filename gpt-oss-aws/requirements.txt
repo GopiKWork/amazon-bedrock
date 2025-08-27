@@ -1,0 +1,13 @@
+boto3>=1.35.0
+openai>=1.0.0
+aws-bedrock-token-generator>=0.1.0
+langgraph>=0.6.4
+langchain>=0.3.27
+langchain-core>=0.3.74
+langchain-aws>=0.2.0
+typing-extensions>=4.8.0
+strands-agents[openai]>=0.1.0
+strands-agents-tools>=0.2.3
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
